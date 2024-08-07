@@ -1,0 +1,2377 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en" prefix="og: http://ogp.me/ns#">
+ <head>
+  <title>
+   Treatments and therapies - Beyond Blue Forums
+  </title>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRF736Z');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!--- --->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5ZMHVLYHXY">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZMHVLYHXY');
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <meta content="Information on a range of different areas, including managing relationships with GPs and psychologists, and finding the right services for you." name="description"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+  <meta content="2024-08-07T05:19:34-07:00" itemprop="dateModified"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/33" rel="canonical"/>
+  <meta content="Beyond Blue Forums" property="og:site_name"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/33" property="og:url"/>
+  <meta content="Information on a range of different areas, including managing relationships with GPs and psychologists, and finding the right services for you." property="og:description"/>
+  <meta content="Treatments and therapies - Beyond Blue Forums" property="og:title"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/board?board.id=c1-sc3-b2" id="link" rel="alternate" title="Treatments, health professionals and therapies topics" type="application/rss+xml"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/boardmessages?board.id=c1-sc3-b2" id="link_0" rel="alternate" title="All Treatments, health professionals and therapies posts" type="application/rss+xml"/>
+  <link href="/skins/6473357/84b919748c3cb9a440a2ecda353bd96b/beyondblue.css" rel="stylesheet" type="text/css"/>
+  <link href="https://forums.beyondblue.org.au/html/@3D7544B3D4DBCB8B8F0FC0226550CD09/assets/favicon.ico" rel="shortcut icon"/>
+  <script language="javascript" type="text/javascript">
+   <!--
+if("undefined"==typeof LITHIUM)var LITHIUM={};LITHIUM.Loader=function(){var h=[],a=[],b=!1,c=!1;return{onLoad:function(a){"function"===typeof a&&(!0===b?a():h.push(a))},onJsAttached:function(b){"function"===typeof b&&(!0===c?b():a.push(b))},runJsAttached:function(){c=!0;for(var b=0;b<a.length;b++)a[b]()},getOnLoadFunctions:function(){return h},setLoaded:function(){b=!0},isLoaded:function(){return b},isJsAttached:function(){return c}}}();"undefined"===typeof LITHIUM.Components&&(LITHIUM.Components={});LITHIUM.Components.render=function(h,a,b){LITHIUM.Loader.onLoad(function(){var c=LITHIUM.Components.renderUrl(h),k={type:"GET",dataType:"json"};LITHIUM.jQuery.extend(k,b||{});k.hasOwnProperty("url")||LITHIUM.jQuery.extend(k,{url:c});k.data=a;if("object"!==typeof k.data||null===k.data)k.data={};k.data.originalPageName=LITHIUM.Components.ORIGINAL_PAGE_NAME;k.data.originalPageContext=LITHIUM.Components.ORIGINAL_PAGE_CONTEXT;LITHIUM.jQuery.ajax(k)}.bind(this))};
+LITHIUM.Components.renderUrl=function(h,a){var b=LITHIUM.Components.RENDER_URL;LITHIUM.jQuery.each({"component-id":h},function(a,h){b=b.replace(new RegExp("#{"+a+"}","g"),h)});"undefined"!==typeof a&&(b+="?"+LITHIUM.jQuery.param(a));return b};
+LITHIUM.Components.renderInPlace=function(h,a,b,c){function k(b){var a=document.createElement("div"),c=(new Date).getTime()+Math.floor(1E7*Math.random()+1);a.setAttribute("id",c);b.parentNode.insertBefore(a,b);return c}if(c)var q=c;else!1===LITHIUM.Loader.isLoaded()&&(document.currentScript?q=k(document.currentScript):(c=document.querySelectorAll("script"),1<c.length&&(q=k(c[c.length-1]))));LITHIUM.Loader.onLoad(function(){var c=LITHIUM.jQuery,k=a||{},m=b||{},l=c("#"+q);c.extend(k,{renderedScripts:LITHIUM.RenderedScripts.toString(),
+"component-id":h});c.extend(m,{success:function(b){var a=b.content;LITHIUM.AngularSupport.isAngularEnabled()&&(a=LITHIUM.AngularSupport.compile(a));l.replaceWith(a);LITHIUM.AjaxSupport.ScriptsProcessor.handleScriptEvaluation(b);(b=LITHIUM.jQuery(a).attr("id"))&&LITHIUM.jQuery("#"+b).trigger("LITHIUM:ajaxSuccess:renderInPlace",{componentId:h})},error:function(a,c,h){0===a.readyState||0===a.status?l.html(""):l.html('\x3cspan class\x3d"lia-ajax-error-text"\x3e'+b.errorMessage+"\x3c/span\x3e");l.removeClass(LITHIUM.Css.BASE_LAZY_LOAD).removeClass("lia-fa-spin")}});
+l&&LITHIUM.Components.render(h,k,m)}.bind(this))};/*
+ modernizr v3.3.1
+ Build https://modernizr.com/download?-exiforientation-filereader-flash-setclasses-dontmin
+
+ Copyright (c)
+  Faruk Ates
+  Paul Irish
+  Alex Sexton
+  Ryan Seddon
+  Patrick Kettner
+  Stu Cox
+  Richard Herrera
+
+ MIT License
+ {
+      "name": "EXIF Orientation",
+      "property": "exiforientation",
+      "tags": ["image"],
+      "builderAliases": ["exif_orientation"],
+      "async": true,
+      "authors": ["Paul Sayre"],
+      "notes": [{
+        "name": "Article by Dave Perrett",
+        "href": "http://recursive-design.com/blog/2012/07/28/exif-orientation-handling-is-a-ghetto/"
+      },{
+        "name": "Article by Calvin Hass",
+        "href": "http://www.impulseadventure.com/photo/exif-orientation.html"
+      }]
+    }
+    ! {
+      "name": "Flash",
+      "property": "flash",
+      "tags": ["flash"],
+      "polyfills": ["shumway"]
+      }
+      ! {
+      "name": "File API",
+      "property": "filereader",
+      "caniuse": "fileapi",
+      "notes": [{
+        "name": "W3C Working Draft",
+        "href": "https://www.w3.org/TR/FileAPI/"
+      }],
+      "tags": ["file"],
+      "builderAliases": ["file_api"],
+      "knownBugs": ["Will fail in Safari 5 due to its lack of support for the standards defined FileReader object"]
+    }
+    !*/
+LITHIUM.LiModernizr=function(){(function(h,a,b){function c(e){var a=n.className,b=d._config.classPrefix||"";r&&(a=a.baseVal);d._config.enableJSClass&&(a=a.replace(new RegExp("(^|\\s)"+b+"no-js(\\s|$)"),"$1"+b+"js$2"));d._config.enableClasses&&(a+=" "+b+e.join(" "+b),r?n.className.baseVal=a:n.className=a)}function k(){return"function"!==typeof a.createElement?a.createElement(arguments[0]):r?a.createElementNS.call(a,"http://www.w3.org/2000/svg",arguments[0]):a.createElement.apply(a,arguments)}function q(){var e=
+a.body;e||(e=k(r?"svg":"body"),e.fake=!0);return e}function p(a,b){if("object"==typeof a)for(var e in a)u(a,e)&&p(e,a[e]);else{a=a.toLowerCase();e=a.split(".");var f=d[e[0]];2==e.length&&(f=f[e[1]]);if("undefined"!=typeof f)return d;b="function"==typeof b?b():b;1==e.length?d[e[0]]=b:(!d[e[0]]||d[e[0]]instanceof Boolean||(d[e[0]]=new Boolean(d[e[0]])),d[e[0]][e[1]]=b);c([(b&&0!=b?"":"no-")+e.join("-")]);d._trigger(a,b)}return d}var t=[],m=[],l={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,
+enableJSClass:!0,usePrefixes:!0},_q:[],on:function(a,b){var e=this;setTimeout(function(){b(e[a])},0)},addTest:function(a,b,c){m.push({name:a,fn:b,options:c})},addAsyncTest:function(a){m.push({name:null,fn:a})}},d=function(){};d.prototype=l;d=new d;var n=a.documentElement,r="svg"===n.nodeName.toLowerCase(),u;(function(){var a={}.hasOwnProperty;u="undefined"!==typeof a&&"undefined"!==typeof a.call?function(b,e){return a.call(b,e)}:function(a,b){return b in a&&"undefined"===typeof a.constructor.prototype[b]}})();
+l._l={};l.on=function(a,b){this._l[a]||(this._l[a]=[]);this._l[a].push(b);d.hasOwnProperty(a)&&setTimeout(function(){d._trigger(a,d[a])},0)};l._trigger=function(a,b){if(this._l[a]){var e=this._l[a];setTimeout(function(){var a;for(a=0;a<e.length;a++){var c=e[a];c(b)}},0);delete this._l[a]}};d._q.push(function(){l.addTest=p});d.addAsyncTest(function(){LITHIUM.Loader.onLoad(function(){var b=a.createElement("img");b.onerror=function(){p("exiforientation",!1,{aliases:["exif-orientation"]});a.body.removeChild(b)};
+b.onload=function(){p("exiforientation",2!==b.width,{aliases:["exif-orientation"]});a.body.removeChild(b)};b.src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QAiRXhpZgAASUkqAAgAAAABABIBAwABAAAABgASAAAAAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAABAAIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iiiigD/2Q\x3d\x3d";
+a.body&&(b.setAttribute("style","position: absolute; left: -9999;"),a.body.appendChild(b))})});d.addAsyncTest(function(){var b=function(a){n.contains(a)||n.appendChild(a)},c=function(a,b){var c=!!a;c&&(c=new Boolean(c),c.blocked="blocked"===a);p("flash",function(){return c});if(b&&g.contains(b)){for(;b.parentNode!==g;)b=b.parentNode;g.removeChild(b)}};try{var d="ActiveXObject"in h&&"Pan"in new h.ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(v){}if(!("plugins"in navigator&&"Shockwave Flash"in
+navigator.plugins||d)||r)c(!1);else{var f=k("embed"),g=q(),l;f.type="application/x-shockwave-flash";g.appendChild(f);if("Pan"in f||d){var m=function(){b(g);if(!n.contains(g))return g=a.body||g,f=k("embed"),f.type="application/x-shockwave-flash",g.appendChild(f),setTimeout(m,1E3);n.contains(f)?(l=f.style.cssText,""!==l?c("blocked",f):c(!0,f)):c("blocked");g.fake&&g.parentNode&&g.parentNode.removeChild(g)};setTimeout(m,10)}else b(g),c("blocked",f),g.fake&&g.parentNode&&g.parentNode.removeChild(g)}});
+d.addTest("filereader",!!(h.File&&h.FileList&&h.FileReader));(function(){var a,b;for(b in m)if(m.hasOwnProperty(b)){var c=[];var f=m[b];if(f.name&&(c.push(f.name.toLowerCase()),f.options&&f.options.aliases&&f.options.aliases.length))for(a=0;a<f.options.aliases.length;a++)c.push(f.options.aliases[a].toLowerCase());f="function"===typeof f.fn?f.fn():f.fn;for(a=0;a<c.length;a++){var g=c[a];g=g.split(".");1===g.length?d[g[0]]=f:(!d[g[0]]||d[g[0]]instanceof Boolean||(d[g[0]]=new Boolean(d[g[0]])),d[g[0]][g[1]]=
+f);t.push((f?"":"no-")+g.join("-"))}}})();c(t);delete l.addTest;delete l.addAsyncTest;for(b=0;b<d._q.length;b++)d._q[b]();LITHIUM.Modernizr=d})(window,document)}();(function(){LITHIUM.Globals=function(){var h={};return{preventGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];c in window&&void 0!==window[c]&&(h[c]=window[c],window[c]=void 0)}},restoreGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];h.hasOwnProperty(c)&&(window[c]=h[c])}}}}()})();(function(h){Element.prototype.matches||(Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector);Element.prototype.closest||(Element.prototype.closest=function(a){var b=this;do{if(b.matches(a))return b;b=b.parentElement||b.parentNode}while(null!==b&&1===b.nodeType);return null})})(LITHIUM.jQuery);LITHIUM.PrefetchData = {"Components":{},"commonResults":{}};
+LITHIUM.DEBUG = false;
+LITHIUM.CommunityJsonObject = {
+  "Validation" : {
+    "image.description" : {
+      "min" : 0,
+      "max" : 1000,
+      "isoneof" : [ ],
+      "type" : "string"
+    },
+    "tkb.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    },
+    "blog.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    }
+  },
+  "User" : {
+    "settings" : {
+      "imageupload.legal_file_extensions" : "*.jpg;*.JPG;*.jpeg;*.JPEG;*.gif;*.GIF;*.png;*.PNG",
+      "config.enable_avatar" : true,
+      "integratedprofile.show_klout_score" : true,
+      "layout.sort_view_by_last_post_date" : true,
+      "layout.friendly_dates_enabled" : true,
+      "profileplus.allow.anonymous.scorebox" : false,
+      "tkb.message_sort_default" : "topicPublishDate",
+      "layout.format_pattern_date" : "dd-MM-yyyy",
+      "config.require_search_before_post" : "off",
+      "isUserLinked" : false,
+      "integratedprofile.cta_add_topics_dismissal_timestamp" : -1,
+      "layout.message_body_image_max_size" : 1000,
+      "profileplus.everyone" : false,
+      "integratedprofile.cta_connect_wide_dismissal_timestamp" : -1,
+      "blog.toc_maximum_heading_level" : "",
+      "integratedprofile.hide_social_networks" : false,
+      "blog.toc_heading_indent" : "",
+      "contest.entries_per_page_num" : 20,
+      "layout.messages_per_page_linear" : 10,
+      "integratedprofile.cta_manage_topics_dismissal_timestamp" : -1,
+      "profile.shared_profile_test_group" : false,
+      "integratedprofile.cta_personalized_feed_dismissal_timestamp" : -1,
+      "integratedprofile.curated_feed_size" : 10,
+      "contest.one_kudo_per_contest" : false,
+      "integratedprofile.enable_social_networks" : false,
+      "integratedprofile.my_interests_dismissal_timestamp" : -1,
+      "profile.language" : "en",
+      "layout.friendly_dates_max_age_days" : 31,
+      "layout.threading_order" : "thread_ascending",
+      "blog.toc_heading_list_style" : "disc",
+      "useRecService" : false,
+      "layout.module_welcome" : "<h1>Hey there. It\u2019s nice to see you.<\/h1>\r\n<p>Read, share and learn from people who understand what you're going through.<\/p>",
+      "imageupload.max_uploaded_images_per_upload" : 100,
+      "imageupload.max_uploaded_images_per_user" : 1000,
+      "integratedprofile.connect_mode" : "",
+      "tkb.toc_maximum_heading_level" : "",
+      "tkb.toc_heading_list_style" : "disc",
+      "sharedprofile.show_hovercard_score" : true,
+      "config.search_before_post_scope" : "community",
+      "tkb.toc_heading_indent" : "",
+      "p13n.cta.recommendations_feed_dismissal_timestamp" : -1,
+      "imageupload.max_file_size" : 3072,
+      "layout.show_batch_checkboxes" : false,
+      "integratedprofile.cta_connect_slim_dismissal_timestamp" : -1
+    },
+    "isAnonymous" : true,
+    "policies" : {
+      "image-upload.process-and-remove-exif-metadata" : false
+    },
+    "registered" : false,
+    "emailRef" : "",
+    "id" : -1,
+    "login" : "Anonymous"
+  },
+  "Server" : {
+    "communityPrefix" : "/bxzzw28954",
+    "nodeChangeTimeStamp" : 1723035268541,
+    "tapestryPrefix" : "/t5",
+    "deviceMode" : "DESKTOP",
+    "responsiveDeviceMode" : "DESKTOP",
+    "membershipChangeTimeStamp" : "0",
+    "version" : "24.6",
+    "branch" : "24.6-release",
+    "showTextKeys" : false
+  },
+  "Config" : {
+    "phase" : "prod",
+    "integratedprofile.cta.reprompt.delay" : 30,
+    "profileplus.tracking" : {
+      "profileplus.tracking.enable" : false,
+      "profileplus.tracking.click.enable" : false,
+      "profileplus.tracking.impression.enable" : false
+    },
+    "app.revision" : "2408011307-s2677dd5778-b135",
+    "navigation.manager.community.structure.limit" : "1000"
+  },
+  "Activity" : {
+    "Results" : [ ]
+  },
+  "NodeContainer" : {
+    "viewHref" : "https://forums.beyondblue.org.au/t5/caring-for-myself-and-others/ct-p/c1-sc3",
+    "description" : "Supporting people\u2019s mental health is important, but so is your wellbeing. Learn strategies for caring about yourself and those around you.",
+    "id" : "c1-sc3",
+    "shortTitle" : "Caring for myself and others",
+    "title" : "Caring for myself and others",
+    "nodeType" : "category"
+  },
+  "Page" : {
+    "skins" : [
+      "beyondblue",
+      "theme_hermes",
+      "responsive_peak"
+    ],
+    "authUrls" : {
+      "loginUrl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33",
+      "loginUrlNotRegistered" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33",
+      "loginUrlNotRegisteredDestTpl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=%7B%7BdestUrl%7D%7D"
+    },
+    "name" : "ForumPage",
+    "rtl" : false,
+    "object" : {
+      "viewHref" : "/t5/treatments-health-professionals/bd-p/c1-sc3-b2",
+      "id" : "c1-sc3-b2",
+      "page" : "ForumPage",
+      "type" : "Board"
+    }
+  },
+  "WebTracking" : {
+    "Activities" : { },
+    "path" : "Community:Beyond Blue Forums/Category:Forums/Category:Caring for myself and others/Board:Treatments, health professionals and therapies"
+  },
+  "Feedback" : {
+    "targeted" : { }
+  },
+  "Seo" : {
+    "markerEscaping" : {
+      "pathElement" : {
+        "prefix" : "@",
+        "match" : "^[0-9][0-9]$"
+      },
+      "enabled" : false
+    }
+  },
+  "TopLevelNode" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "description" : "",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums",
+    "nodeType" : "Community"
+  },
+  "Community" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "integratedprofile.lang_code" : "en",
+    "integratedprofile.country_code" : "US",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums"
+  },
+  "CoreNode" : {
+    "conversationStyle" : "forum",
+    "viewHref" : "https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2",
+    "settings" : { },
+    "description" : "Information on a range of different areas, including managing relationships with GPs and psychologists, and finding the right services for you.",
+    "id" : "c1-sc3-b2",
+    "shortTitle" : "Treatments, health professionals and therapies",
+    "title" : "Treatments, health professionals and therapies",
+    "nodeType" : "Board",
+    "ancestors" : [
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/caring-for-myself-and-others/ct-p/c1-sc3",
+        "description" : "Supporting people\u2019s mental health is important, but so is your wellbeing. Learn strategies for caring about yourself and those around you.",
+        "id" : "c1-sc3",
+        "shortTitle" : "Caring for myself and others",
+        "title" : "Caring for myself and others",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/forums/ct-p/c1",
+        "description" : "Beyond Blue's Forums are a great place to chat to others about mental health conditions, and to help develop ways to beat the blues and stay well.",
+        "id" : "c1",
+        "shortTitle" : "Forums",
+        "title" : "Forums",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/",
+        "description" : "",
+        "id" : "bxzzw28954",
+        "shortTitle" : "Beyond Blue Forums",
+        "title" : "Beyond Blue Forums",
+        "nodeType" : "Community"
+      }
+    ]
+  }
+};
+LITHIUM.Components.RENDER_URL = "/t5/util/componentrenderpage/component-id/#{component-id}?render_behavior=raw";
+LITHIUM.Components.ORIGINAL_PAGE_NAME = 'forums/ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_ID = 'ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_CONTEXT = 'U2vBm0MdYEVyx_qUtCGX7vtfP3-O_hoPklwEx16vcGRSKvqG4qpOC2g7h8eladO3KYV_btVcIDG-Us695UnKiqV8raLvrIugii2q_fvcn-uLj1dx9SVgSj6y6xzKP3qwv9y7MdXbfGNBckVvjQhuSTkApmTaSPKxA-ujLfzgC6MKASe8joXuNBgV_X8LXKy2Fl3AACkNvQIHhTJL1ECFx4wl-6bOAd-P0i4fHQHE1fOnEfSoakW4-NS2KhKM0pKy3_M7HIaIxim5D3GBWZs-QkZS59hDLsN8V-DdeNefC4-4uqfqdld249HubkeGczVTK56a242sGRjUVLJ_ungv-A..';
+LITHIUM.Css = {
+  "BASE_DEFERRED_IMAGE" : "lia-deferred-image",
+  "BASE_BUTTON" : "lia-button",
+  "BASE_SPOILER_CONTAINER" : "lia-spoiler-container",
+  "BASE_TABS_INACTIVE" : "lia-tabs-inactive",
+  "BASE_TABS_ACTIVE" : "lia-tabs-active",
+  "BASE_AJAX_REMOVE_HIGHLIGHT" : "lia-ajax-remove-highlight",
+  "BASE_FEEDBACK_SCROLL_TO" : "lia-feedback-scroll-to",
+  "BASE_FORM_FIELD_VALIDATING" : "lia-form-field-validating",
+  "BASE_FORM_ERROR_TEXT" : "lia-form-error-text",
+  "BASE_FEEDBACK_INLINE_ALERT" : "lia-panel-feedback-inline-alert",
+  "BASE_BUTTON_OVERLAY" : "lia-button-overlay",
+  "BASE_TABS_STANDARD" : "lia-tabs-standard",
+  "BASE_AJAX_INDETERMINATE_LOADER_BAR" : "lia-ajax-indeterminate-loader-bar",
+  "BASE_AJAX_SUCCESS_HIGHLIGHT" : "lia-ajax-success-highlight",
+  "BASE_CONTENT" : "lia-content",
+  "BASE_JS_HIDDEN" : "lia-js-hidden",
+  "BASE_AJAX_LOADER_CONTENT_OVERLAY" : "lia-ajax-loader-content-overlay",
+  "BASE_FORM_FIELD_SUCCESS" : "lia-form-field-success",
+  "BASE_FORM_WARNING_TEXT" : "lia-form-warning-text",
+  "BASE_FORM_FIELDSET_CONTENT_WRAPPER" : "lia-form-fieldset-content-wrapper",
+  "BASE_AJAX_LOADER_OVERLAY_TYPE" : "lia-ajax-overlay-loader",
+  "BASE_FORM_FIELD_ERROR" : "lia-form-field-error",
+  "BASE_SPOILER_CONTENT" : "lia-spoiler-content",
+  "BASE_FORM_SUBMITTING" : "lia-form-submitting",
+  "BASE_EFFECT_HIGHLIGHT_START" : "lia-effect-highlight-start",
+  "BASE_FORM_FIELD_ERROR_NO_FOCUS" : "lia-form-field-error-no-focus",
+  "BASE_EFFECT_HIGHLIGHT_END" : "lia-effect-highlight-end",
+  "BASE_SPOILER_LINK" : "lia-spoiler-link",
+  "FACEBOOK_LOGOUT" : "lia-component-users-action-logout",
+  "BASE_DISABLED" : "lia-link-disabled",
+  "FACEBOOK_SWITCH_USER" : "lia-component-admin-action-switch-user",
+  "BASE_FORM_FIELD_WARNING" : "lia-form-field-warning",
+  "BASE_AJAX_LOADER_FEEDBACK" : "lia-ajax-loader-feedback",
+  "BASE_AJAX_LOADER_OVERLAY" : "lia-ajax-loader-overlay",
+  "BASE_LAZY_LOAD" : "lia-lazy-load"
+};
+LITHIUM.noConflict = true;
+LITHIUM.useCheckOnline = false;
+LITHIUM.RenderedScripts = [
+  "DeferredImages.js",
+  "PartialRenderProxy.js",
+  "Sandbox.js",
+  "DropDownMenu.js",
+  "jquery.css-data-1.0.js",
+  "jquery.effects.core.js",
+  "Components.js",
+  "Forms.js",
+  "jquery.ui.resizable.js",
+  "Events.js",
+  "SpoilerToggle.js",
+  "LiModernizr.js",
+  "jquery.ui.draggable.js",
+  "jquery.js",
+  "Namespace.js",
+  "ActiveCast3.js",
+  "Loader.js",
+  "jquery.ui.mouse.js",
+  "jquery.effects.slide.js",
+  "ResizeSensor.js",
+  "jquery.viewport-1.0.js",
+  "jquery.hoverIntent-r6.js",
+  "json2.js",
+  "jquery.json-2.6.0.js",
+  "DataHandler.js",
+  "jquery.ui.widget.js",
+  "jquery.tmpl-1.1.1.js",
+  "jquery.delayToggle-1.0.js",
+  "AjaxFeedback.js",
+  "jquery.appear-1.1.1.js",
+  "jquery.iframe-shim-1.0.js",
+  "Text.js",
+  "InformationBox.js",
+  "jquery.lithium-selector-extensions.js",
+  "jquery.scrollTo.js",
+  "Auth.js",
+  "AjaxSupport.js",
+  "NoConflict.js",
+  "jquery.position-toggle-1.0.js",
+  "jquery.function-utils-1.0.js",
+  "CustomEvent.js",
+  "ElementQueries.js",
+  "jquery.blockui.js",
+  "Lithium.js",
+  "Globals.js",
+  "prism.js",
+  "jquery.clone-position-1.0.js",
+  "Cache.js",
+  "jquery.ui.position.js",
+  "jquery.fileupload.js",
+  "Video.js",
+  "Throttle.js",
+  "DropDownMenuVisibilityHandler.js",
+  "jquery.ui.core.js",
+  "PolyfillsAll.js",
+  "ForceLithiumJQuery.js",
+  "jquery.ajax-cache-response-1.0.js",
+  "jquery.iframe-transport.js",
+  "jquery.ui.dialog.js",
+  "ElementMethods.js"
+];(function(){LITHIUM.AngularSupport=function(){function g(a,c){a=a||{};for(var b in c)"[object object]"===Object.prototype.toString.call(c[b])?a[b]=g(a[b],c[b]):a[b]=c[b];return a}var d,f,b={coreModule:"li.community",coreModuleDeps:[],noConflict:!0,bootstrapElementSelector:".lia-page .min-width .lia-content",bootstrapApp:!0,debugEnabled:!1,useCsp:!0,useNg2:!1},k=function(){var a;return function(b){a||(a=document.createElement("a"));a.href=b;return a.href}}();LITHIUM.Angular={};return{preventGlobals:LITHIUM.Globals.preventGlobals,
+restoreGlobals:LITHIUM.Globals.restoreGlobals,init:function(){var a=[],c=document.querySelector(b.bootstrapElementSelector);a.push(b.coreModule);b.customerModules&&0<b.customerModules.length&&a.concat(b.customerModules);b.useCsp&&(c.setAttribute("ng-csp","no-unsafe-eval"),c.setAttribute("li-common-non-bindable",""));d=LITHIUM.angular.module(b.coreModule,b.coreModuleDeps);d.config(["$locationProvider","$provide","$injector","$logProvider","$compileProvider","$qProvider","$anchorScrollProvider",function(a,
+c,e,d,f,g,h){h.disableAutoScrolling();h=document.createElement("base");h.setAttribute("href",k(location));document.getElementsByTagName("head")[0].appendChild(h);window.history&&window.history.pushState&&a.html5Mode({enabled:!0,requireBase:!0,rewriteLinks:!1}).hashPrefix("!");d.debugEnabled(b.debugEnabled);f.debugInfoEnabled(b.debugEnabled);e.has("$uibModal")&&c.decorator("$uibModal",["$delegate",function(a){var b=a.open;a.open=function(a){a.backdropClass=(a.backdropClass?a.backdropClass+" ":"")+
+"lia-modal-backdrop";a.windowClass=(a.windowClass?a.windowClass+" ":"")+"lia-modal-window";return b(a)};return a}]);e.has("uibDropdownConfig")&&(e.get("uibDropdownConfig").openClass="lia-dropdown-open");e.has("uibButtonConfig")&&(e.get("uibButtonConfig").activeClass="lia-link-active");g.errorOnUnhandledRejections(!1)}]);if(b.bootstrapApp)f=b.useNg2?LITHIUM.Angular.upgradeAdapter.bootstrap(c,a):LITHIUM.angular.bootstrap(c,a);else LITHIUM.Loader.onLoad(function(){f=LITHIUM.angular.element(c).injector()});
+LITHIUM.Angular.app=d},compile:function(a){void 0===a&&(a=document.querySelector(b.bootstrapElementSelector));var c;if(void 0===a||""===a)return a;f.invoke(["$rootScope","$compile",function(b,d){try{var e=LITHIUM.angular.element(a)}catch(l){e=LITHIUM.angular.element("\x3cli:safe-wrapper\x3e"+a+"\x3c/li:safe-wrapper\x3e")}e.attr("li-common-non-bindable","");c=d(e)(b);b.$digest()}]);return c},isAngularEnabled:function(){return void 0!==d},updateLocationUrl:function(a,b){f.invoke(["$location","$rootScope",
+"$browser",function(c,d,e){a=""===a?"?":a;c.url(a,b);d.$apply()}])},setOptions:function(a){return g(b,a)},getOptions:function(){return b},initGlobal:function(a){LITHIUM.angular=a;b.useNg2&&(LITHIUM.Angular.upgradeAdapter=new ng.upgrade.UpgradeAdapter)}}}()})();(function(){LITHIUM.ScriptLoader=function(){function d(a){a in e||(e[a]={loaded:!1});return e[a]}function f(){g.filter(function(a){return!a.loaded}).forEach(function(a){var b=!0;a.labels.forEach(function(a){!1===d(a).loaded&&(b=!1)});b&&(a.loaded=!0,a.callback())})}var e={},g=[];return{load:function(a){a.forEach(function(a){var b=document.getElementsByTagName("head")[0]||document.documentElement,c=document.createElement("script");c.src=a.url;c.async=!1;a.crossorigin&&a.integrity&&(c.setAttribute("crossorigin",
+a.crossorigin),c.setAttribute("integrity",a.integrity));b.insertBefore(c,b.firstChild);d(a.label)})},setLoaded:function(a){d(a).loaded=!0;f()},ready:function(a,b){g.push({labels:a,callback:b,loaded:!1});f()}}}()})();LITHIUM.ScriptLoader.load([{"name":"lia-scripts-common-min.js","label":"common","url":"/t5/scripts/4AC59D47FB72DFC04A7151614B061671/lia-scripts-common-min.js"},{"name":"lia-scripts-body-min.js","label":"body","url":"/t5/scripts/FF28D7FB6C839EF784BB5D2416B794BC/lia-scripts-body-min.js"}]);
+// -->
+  </script>
+ </head>
+ <body class="lia-board lia-user-status-anonymous ForumPage lia-body lia-a11y" id="lia-body">
+  <div class="ServiceNodeInfoHeader" id="8B4-167-9">
+  </div>
+  <div class="lia-page">
+   <center>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+     <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+     </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="MinimumWidthContainer">
+     <div class="min-width-wrapper">
+      <div class="min-width">
+       <div class="lia-content">
+        <div class="lia-quilt lia-quilt-forum-page lia-quilt-layout-two-column-side-main lia-top-quilt">
+         <div class="lia-quilt-row lia-quilt-row-header">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="lia-quilt lia-quilt-header lia-quilt-layout-custom-community-header lia-component-quilt-header">
+             <div class="lia-quilt-row lia-quilt-row-header-top">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-top-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-community-header-left">
+                 <div class="custom-community-header-logo">
+                  <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                   Beyond Blue Website
+                  </a>
+                 </div>
+                 <div class="custom-community-header-navigation">
+                  <nav role="navigation">
+                   <ul>
+                    <li>
+                     <a href="/">
+                      Forums
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/forums/recentpostspage/post-type/thread">
+                      All discussions
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                      Forums guidelines
+                     </a>
+                    </li>
+                   </ul>
+                  </nav>
+                 </div>
+                </div>
+                <div class="custom-community-header-right">
+                 <div class="custom-community-header-user-navigation">
+                  <div class="custom-login">
+                   <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+                    Login
+                   </a>
+                   <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+                    Sign up
+                   </a>
+                  </div>
+                  <a class="lia-link-navigation custom-emergency-support-link header-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                   Immediate support
+                  </a>
+                 </div>
+                 <div class="lia-slide-out-nav-menu">
+                  <button class="lia-slide-out-nav-menu-wrapper">
+                  </button>
+                  <div class="custom-slide-out-menu-container hide">
+                   <div class="custom-slide-out-menu">
+                    <ul class="lia-nav-item-container">
+                     <li class="lia-nav-item">
+                      <a href="/t5/forums/recentpostspage/post-type/thread">
+                       <span class="lia-nav-item-text">
+                        All discussions
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                     <li class="lia-nav-item">
+                      <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                       <span class="lia-nav-item-text">
+                        Forums guidelines
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <div class="custom-user-action">
+                    <div class="login-text">
+                     Already a forum member?
+                    </div>
+                    <div class="custom-login">
+                     <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+                      Login
+                     </a>
+                     <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+                      Sign up
+                     </a>
+                    </div>
+                    <a class="lia-link-navigation custom-emergency-support-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                     Immediate support
+                    </a>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-search">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-search-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single lia-mark-empty">
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-hero">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-hero-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-hero-welcome">
+                 <div class="hero-left-content">
+                  <div class="custom-node-information lia-node-header-info lia-component-common-widget-node-information">
+                   <h1 class="lia-node-header-title">
+                    Treatments, health professionals and therapies
+                   </h1>
+                   <p class="lia-node-header-description">
+                    Information on a range of different areas, including managing relationships with GPs and psychologists, and finding the right services for you.
+                   </p>
+                  </div>
+                  <style>
+                   /*#lia-body .lia-quilt-row-header-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/html/assets/caring-for-others-desktop.png") no-repeat center / cover;
+}*/
+.custom-hero-welcome .hero-right-content{
+    background-image: url("https://forums.beyondblue.org.au/html/@BE0F3A20400698ADB16DD33FB5BA9416/assets/caring-for-others-desktop.png");
+}
+                  </style>
+                  <div class="hero-mobile-img">
+                   <img src="https://forums.beyondblue.org.au/html/@BE0F3A20400698ADB16DD33FB5BA9416/assets/caring-for-others-desktop.png">
+                   </img>
+                  </div>
+                 </div>
+                 <div class="hero-right-content">
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-subnav">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-subnav-content lia-mark-empty">
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-bottom">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-bottom-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+                 <ul class="lia-list-standard-inline" id="list" role="list">
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_1">
+                    Beyond Blue Forums
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/caring-for-myself-and-others/ct-p/c1-sc3" id="link_2">
+                    Caring for myself and others
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_0" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb final-crumb">
+                   <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_3">
+                    Treatments, health professionals and therapies
+                   </span>
+                  </li>
+                 </ul>
+                </div>
+                <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown">
+                 <div class="lia-menu-navigation">
+                  <div class="dropdown-default-item">
+                   <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink" role="button" title="Show option menu">
+                    Options
+                   </a>
+                   <div class="dropdown-positioning">
+                    <div class="dropdown-positioning-static">
+                     <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems" role="list">
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew">
+                        Mark all as New
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead">
+                        Mark all as Read
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription">
+                        Follow
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc3-b2" id="rssBoard">
+                        Subscribe to RSS Feed
+                       </a>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView">
+                        Threaded format
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView">
+                        Linear Format
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-feedback">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-feedback">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-main">
+          <div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-left lia-quilt-column-side-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-faq-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@BAAB69946049AB55123D94974B386EBB/assets/faq-card-icon-blue.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                FAQ
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Find answers to some of the more frequently asked questions on the Forums.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/faq">
+                View the FAQ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="custom-guideline-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@25263274F392BFE568ECA6A669CC71B4/assets/guidelines-card-icon.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                Forums guidelines
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Our guidelines keep the Forums a safe place for people to share and learn information.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/forums-guidelines">
+                View the guidelines
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="lia-panel lia-panel-standard custom-jumpto">
+             <div class="lia-decoration-border">
+              <div class="lia-decoration-border-content">
+               <div class="lia-panel-heading-bar-wrapper">
+                <div class="lia-panel-heading-bar">
+                 <span aria-level="3" class="lia-panel-heading-bar-title" role="heading">
+                  Jump to
+                 </span>
+                </div>
+               </div>
+               <div class="lia-panel-content">
+                <ul>
+                 <li>
+                  <a href="/t5/introduce-yourself/ct-p/c1-sc1">
+                   Introduce yourself
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/mental-health-conditions/ct-p/c1-sc2">
+                   Mental health conditions
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/caring-for-myself-and-others/ct-p/c1-sc3">
+                   Caring for myself and others
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/people-like-me/ct-p/c1-sc4">
+                   People like me
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="lia-quilt-column lia-quilt-column-18 lia-quilt-column-right lia-quilt-column-main-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+            <div class="custom-main-top">
+             <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+              <ul class="lia-list-standard-inline" id="list_0" role="list">
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_4">
+                 Beyond Blue Forums
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_1" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/caring-for-myself-and-others/ct-p/c1-sc3" id="link_5">
+                 Caring for myself and others
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_2" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb final-crumb">
+                <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_6">
+                 Treatments, health professionals and therapies
+                </span>
+               </li>
+              </ul>
+             </div>
+             <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown_0">
+              <div class="lia-menu-navigation">
+               <div class="dropdown-default-item">
+                <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink_0" role="button" title="Show option menu">
+                 Options
+                </a>
+                <div class="dropdown-positioning">
+                 <div class="dropdown-positioning-static">
+                  <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems_0" role="list">
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew_0">
+                     Mark all as New
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead_0">
+                     Mark all as Read
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription_0">
+                     Follow
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc3-b2" id="rssBoard_0">
+                     Subscribe to RSS Feed
+                    </a>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView_0">
+                     Threaded format
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView_0">
+                     Linear Format
+                    </span>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-message-list all-discussions">
+             <section>
+              <header>
+               <h2>
+                All discussions
+               </h2>
+               <div>
+                <label for="community-activity-sorted-by">
+                 Sorted by:
+                </label>
+                <select id="community-activity-sorted-by">
+                 <option value="recent">
+                  Most recent
+                 </option>
+                 <option value="replies">
+                  Most commented
+                 </option>
+                 <option value="kudos">
+                  Most supported
+                 </option>
+                </select>
+                <div class="custom-start-conversation-button">
+                 <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Ftreatments-health-professionals%2Fbd-p%2Fc1-sc3-b2%2Fpage%2F33">
+                  Start a discussion
+                 </a>
+                </div>
+               </div>
+              </header>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-0">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/12768" title="View profile">
+                  <img alt="Vin31" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0">
+                  </img>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/feeling-hopeless/td-p/17936" title="Feeling hopeless">
+                  Feeling hopeless
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    4
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi there, I haven’t posted on the forum before, but I’ve been going
+through a really awful time lately. I’ve been admitted to the ward twice
+in the last 8 or so months and have changed medications countless times
+over the last 8 years (when I was fir...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi there, I haven’t posted on the forum before, but I’ve been going
+through a really awful time lately. I’ve been admitted to the ward twice
+in the last 8 or so months and have changed medications countless times
+over the last 8 years (when I was first diagnosed with depression, which
+is now dysthymia with major depressive episodes, anxiety, bipolar
+tendencies, and the list continues). I’m in a really dark place lately.
+Feels like life is getting on top of me and I’d really like it all to
+end. I have a really loving family and partner and I’d never want to
+hurt them, so I guess I find myself stuck between dealing with my own
+hopelessness and suicidal thoughts, while feeling like I can’t go
+through with them because I don’t want to hurt my loved ones that way.
+I’ve tried around 6 different medications over my journey, and have been
+on my current one around 8 weeks. I feel absolutely awful, and I guess
+I’m losing hope that anything out there will bring me out of this dark
+place. The idea of feeling this way potentially forever is exhausting,
+and it’s so difficult to deal with the idea that I might be a burden to
+the ones I love for the rest of my life. I guess I’m posting here
+looking for hope. Has anyone on here experienced a tough and long
+journey with their mental health, tried multiple therapies and
+medications, etc. and come out on top? Any kindness would be much
+appreciated.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/12768" rel="author" title="View profile">
+                    <span class="">
+                     Vin31
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   16-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  4 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-1">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/14488" title="View profile">
+                  <img alt="Guest_236" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/image-id/1090i9433B60AF854CBDE/image-dimensions/220x220/image-coordinates/16%2C30%2C475%2C489?v=v2">
+                  </img>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/mental-health-support-in-japan/td-p/18714" title="mental health support in Japan?">
+                  mental health support in Japan?
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    2
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi there! This is a strange request, but I wasn't able to find much
+through my own research. I'll get straight into it... I have an online
+Japanese friend who lives in Saitama, Japan. They've been posting about
+how their suicidal thoughts are increas...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi there! This is a strange request, but I wasn't able to find much
+through my own research. I'll get straight into it... I have an online
+Japanese friend who lives in Saitama, Japan. They've been posting about
+how their suicidal thoughts are increasing, but they don't know what to
+do because they aren't able to see a psychologist/counsellor yet. I
+really want to help, and thought maybe I could recommend some online
+resources or maybe even online counselling. Do you know any Japanese or
+international organisations, forums or counsellors that I could
+recommend to my friend? Basically a Japanese Beyond Blue. I've found
+"TELL Japan" and "Befrienders-jpn.org", but as an Australian, I
+obviously can't gauge how effective they are. Thank you so much! I
+really appreciate any advice or recommendations.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/14488" rel="author" title="View profile">
+                    <span class="">
+                     Guest_236
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   11-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  2 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-2">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/24859" title="View profile">
+                  <img alt="Starburst10" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0">
+                  </img>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/therapist-breakup-should-i-or-shouldn-t-i/td-p/42552" title="Therapist breakup - should I or shouldn’t I?">
+                  Therapist breakup - should I or shouldn’t I?
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    3
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hey, first time poster here looking for some support as I’m struggling.
+I’ve been seeing my psychologist for a few years now and found our work
+together to be really helpful for the most part. I’ve been seeking
+treatment for anxiety with origins in m...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hey, first time poster here looking for some support as I’m struggling.
+I’ve been seeing my psychologist for a few years now and found our work
+together to be really helpful for the most part. I’ve been seeking
+treatment for anxiety with origins in my childhood, in particular my
+relationships with my parents. It has been a big deal for me to open up
+to someone about this stuff. About a year ago my therapist announced she
+was taking about 9 months off to have a baby and would not know her
+availability when she returned to work as she needed to prioritise
+childcare. Logically I got it, but emotionally I was devastated. With
+the uncertainty surrounding if/ when she would return to work, it made
+it difficult for me to know where I stood. She did return to work
+recently (at reduced hours) and I’ve been a little hesitant to return to
+therapy straight away. I’ve had about three sessions with her since
+she’s returned to work and things are different. She’s increased her
+fees significantly and has implemented kind of a harsh policy where
+clients need to commit to fortnightly sessions, need to pay half the fee
+in advance as a deposit, and give her 1 week’s notice of cancellation or
+they lose that deposit. I’m not financially equipped to commit to
+fortnightly sessions right now, and I’m unsure if jumping back into
+fortnightly sessions is even right for me at this stage. I would rather
+build back up slowly to where we were at before she went on leave and I
+think that is going to take time. I’ve tried to discuss my concerns with
+her and she’s been responding in ways that to me feel really rigid and
+defensive, like “this is how I need to run my business, that’s just the
+reality” and “is it hard for you that this baby comes first?” (That one
+seemed so strange to me). So the choice she’s given me is I can either
+go on a cancellation list for sporadic appointments here and there, or I
+can commit to fortnightly sessions and enter into a payment plan. It
+makes me feel like I’m not a priority and could easily get into debt.
+After seeing her look at the clock about 5 times during our last session
+together, I just can’t help but feel that her focus is elsewhere. I
+truly value all the work we’ve done together over the years and all the
+progress she’s helped me to make. I’m just having the thought that I
+might need something different than what she can provide now. Am I being
+unreasonable? Why is this so upsetting? Have you ever “broken up” with
+your therapist? What was it like?
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/24859" rel="author" title="View profile">
+                    <span class="">
+                     Starburst10
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   07-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  3 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-3">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/15732" title="View profile">
+                  <img alt="JaneC76" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/how-do-you-know-if-you-are-not-well/td-p/34047" title="How do you know if you are not well?">
+                  How do you know if you are not well?
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    6
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 I’ve been a voluntary patient for 2 weeks now. Not only haven’t I got
+better, I’ve gotten worse. I’m keeping an open &amp; honest dialogue about
+this with my treatment team and husband. They all say I’m not well.
+Which feels.. not wrong but strange. I ke...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 I’ve been a voluntary patient for 2 weeks now. Not only haven’t I got
+better, I’ve gotten worse. I’m keeping an open &amp; honest dialogue about
+this with my treatment team and husband. They all say I’m not well.
+Which feels.. not wrong but strange. I keep thinking if I just went home
+then I would kick back into “normal well” mode? But because we have
+young children they say that going home is probably not the best idea.
+I’m really confused. And whilst I’m sharing all these feelings with
+them, I also have this doubt that they don’t know what’s best me because
+I’m not getting better. I guess I’m asking others WITH a mental illness
+how do you reality check your thoughts? Do you just blindly trust your
+family &amp; professionals even if part of you feels what they are saying is
+wrong? I just feel so desperately alone right now, and my husband &amp;
+treatment team seem very sure I’m in the right place but I don’t feel
+sure. I feel confused scared &amp; alone. Which I have told them.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/15732" rel="author" title="View profile">
+                    <span class="">
+                     JaneC76
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   03-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  6 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-4">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/32772" title="View profile">
+                  <img alt="Chemical_Inbalance" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/pre-employment-medical/td-p/29963" title="Pre-employment medical">
+                  Pre-employment medical
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi, I've had a return of mental health symptoms recently and have
+restarted medication under guidance from my GP. The main cause of my
+issues I believe is my job. Just today a job has been advertised which I
+am going to apply for. I take medication d...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi, I've had a return of mental health symptoms recently and have
+restarted medication under guidance from my GP. The main cause of my
+issues I believe is my job. Just today a job has been advertised which I
+am going to apply for. I take medication daily. I have done a urine test
+I bought from the pharmacy and it shows positive for benzo. My worry is
+that the medication I've been taking is going to make me fail a drug
+test. I'd rather not disclose my mental health issues for fear of not
+getting a look in. I might have a week or two before needing to do a
+drug test (if I am even successful). I think I'll stop the medication..
+I haven't been on it long term yet. If I disclose my medication to the
+medical group performing the test, can they remove any false positive?
+After all the employer is only meant to test for alcohol and illicit
+drugs. Does anybody have any advice? Really appreciate it.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/32772" rel="author" title="View profile">
+                    <span class="">
+                     Chemical_Inbalance
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   04-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-5">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/42228" title="View profile">
+                  <img alt="PivotonianPariah91" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/finding-a-therapist-during-covid/td-p/9874" title="Finding a therapist during COVID">
+                  Finding a therapist during COVID
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 G'day, I live rurally in Geelong. Tried my best locally to get a mental
+health plan with the doctor, but the wait time is excruciating.
+Furthermore, when I've gone for the appointment, they've changed the
+time and then forced me to wait all over agai...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 G'day, I live rurally in Geelong. Tried my best locally to get a mental
+health plan with the doctor, but the wait time is excruciating.
+Furthermore, when I've gone for the appointment, they've changed the
+time and then forced me to wait all over again. My partner had a baby
+recently. Its been hard on her, but we are getting through. I had a
+traumatic upbringing. More emotional than physical abuse, and an
+alcoholic mother. Absent father who returned when I was almost 30. Rant
+over. But I have wild mood swings, and have always had from early
+adulthood. Gone from flying one minute, happy and full of confidence, to
+low ebb, no energy, and even flashes of anger. I don't want my daughter
+growing up with the anger I witnessed as a child, and I want to get my
+head straight, so I can be healthy for myself, and help my partner and
+daughter the best I can. I am also completing a Pharmacy degree, so its
+to all our benefits if my mental health is on track. I am sorry for the
+rant. Just really want someone to talk to. I don't have money, but I
+have the time to invest. Cheers
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/42228" rel="author" title="View profile">
+                    <span class="">
+                     PivotonianPariah91
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   05-07-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-6">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/41214" title="View profile">
+                  <img alt="Jeza" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/neurofeedback-retraining-the-brain/td-p/149386" title="Neurofeedback (retraining the brain)">
+                  Neurofeedback (retraining the brain)
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    5
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi all, Does anyone out there have any experience with Neurofeedback?
+It's a technique that can be used to reduce anxiety, depression and the
+effects of trauma through retraining the brain. I have done a lot of
+research into Neurofeedback and based o...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi all, Does anyone out there have any experience with Neurofeedback?
+It's a technique that can be used to reduce anxiety, depression and the
+effects of trauma through retraining the brain. I have done a lot of
+research into Neurofeedback and based on this, I believe that this
+technique may help me with some long term issues. I start my
+Neurofeedback work in 2 days so I'll let you all know how it goes. Wish
+me luck! Jeza
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/41214" rel="author" title="View profile">
+                    <span class="">
+                     Jeza
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   03-06-2015
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  5 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-7">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/21588" title="View profile">
+                  <img alt="Stormgrl101" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/major-depression-neurofeedback-therapy/td-p/322841" title="Major depression..Neurofeedback therapy..">
+                  Major depression..Neurofeedback therapy..
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    2
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hello.. Well I have been dealing with depression and anxiety issues
+since I was 16 or 17,am now 26. I have done talking therapy, tried
+various medications, had a hospital admission but nothing seems to get
+better. Yesterday I saw a another profession...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hello.. Well I have been dealing with depression and anxiety issues
+since I was 16 or 17,am now 26. I have done talking therapy, tried
+various medications, had a hospital admission but nothing seems to get
+better. Yesterday I saw a another professional to get results of recent
+testing and brain tests. He said that I have major depressive disorder
+and social anxiety, no chronic anxiety. He suggest I try a new type of
+therapy as nothing has worked for me previously and I am soon to start
+neurofeedback therapy. He showed images of my brain which showed parts
+of my brain not functioning as they should for people my age. He was
+quite positive that this therapy will help, and when I'm feeling a bit
+better, talking therapy will start to help. Has anyone had any
+experience with neurofeedback therapy?
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/21588" rel="author" title="View profile">
+                    <span class="">
+                     Stormgrl101
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   07-04-2017
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  2 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-8">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/42173" title="View profile">
+                  <img alt="Guest_9872" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/autism-level-1/td-p/4997" title="Autism level 1">
+                  Autism level 1
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    12
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 I received a diagnosis of autism level 1 in 2020, at an age in my 40s. I
+requested the assessment myself, after suspecting I probably had the
+condition. I wrongly assumed that the diagnosis would lead to a list of
+next steps and that doctors and psyc...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 I received a diagnosis of autism level 1 in 2020, at an age in my 40s. I
+requested the assessment myself, after suspecting I probably had the
+condition. I wrongly assumed that the diagnosis would lead to a list of
+next steps and that doctors and psychologists would understand the
+condition. Neither has proven to be the case. I am not entitled to NDIS
+because I am level 1, not 2 or 3, and I am an adult. I managed to find a
+psychologist (after looking for months) and get a mental health plan. I
+am working out all the implications of the diagnosis and I have done a
+lot of reading but I have been very disappointed at the lack of support
+from the medical/psychological professions ( with the exception of the
+psychologist I managed to find) and the government. There is no
+recognition of late diagnosed level 1 autism in New South Wales. I
+believe the other states are better, even though it is supposedly a
+federal issue. The support groups tend to be for males, younger people
+or level 2/3 autism. I am the wrong demographic for most support groups.
+I have done a lot of investigation and found very little other than
+books and blogs. I personally think that level 1 autistic adults should
+be entitled to most or all of what we would be entitled to if we were
+children. We did not receive the support in earlier decades.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/42173" rel="author" title="View profile">
+                    <span class="">
+                     Guest_9872
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   14-06-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  12 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-9">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/28425" title="View profile">
+                  <img alt="Rosebud78" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/treatments-health-professionals/help-therapy-advice-leads-to-family-melt-down-what-do-i-do-now/td-p/25836" title="Help- therapy advice leads to family melt down what do I do now">
+                  Help- therapy advice leads to family melt down what do I do now
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    9
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 So I have started to see a new therapist, who is just filling in until I
+can see someone else in her practice who is better suited to my needs
+apparently, 路‍ and what she had me do today regarding boundaries has
+basically got my whole family in melt ...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 So I have started to see a new therapist, who is just filling in until I
+can see someone else in her practice who is better suited to my needs
+apparently, 🤷‍ and what she had me do today regarding boundaries has
+basically got my whole family in melt down. After just 1visit (this was
+only the second visit) she said that I had very bad boundaries(and yes
+that is right) and that I needed to tell my 20somethings foster/adopted
+sons and daughter-in-law who all have trauma backgrounds of their own
+what I need from them in our home. They may not have been big things but
+her way of doing it-via a letter that I put in the fridge for them to
+read- went very very very badly. The kids now think that I don’t love
+them or want them at home. I don’t know what to do. I don’t know how to
+sort out this mess at home nor do I want to go back and see this woman
+again! I feel as if I have destroyed everything that my husband and I
+have worked hard to build. Like I have lost my whole family. I just
+don’t know how to move forward
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/28425" rel="author" title="View profile">
+                    <span class="">
+                     Rosebud78
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/treatments-health-professionals/bd-p/c1-sc3-b2">
+                     Treatments, health professionals and therapies
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   28-05-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  9 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+             </section>
+            </div>
+            <div aria-label="Use the previous and next links to move between pages. Use the page number links to go directly to a page." class="lia-paging-full-wrapper lia-paging-pager lia-component-common-widget-pager" id="pager_4603cd9f32914" role="navigation">
+             <div class="lia-inline-ajax-feedback">
+              <div class="AjaxFeedback" id="ajaxFeedback_4603cd9f32914">
+              </div>
+             </div>
+             <ul class="lia-paging-full">
+              <li class="lia-paging-page-previous lia-component-previous">
+               <a aria-label="Previous Page" class="lia-link-navigation lia-js-data-pageNum-32 lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/32" id="link_4603cd9f32914" rel="prev">
+                <span>
+                 <span aria-hidden="true" class="lia-paging-page-arrow">
+                  «
+                 </span>
+                 <span class="lia-paging-page-link">
+                  Previous
+                 </span>
+                </span>
+               </a>
+              </li>
+              <li class="lia-component-pagesnumbered">
+               <ul class="lia-paging-full-pages">
+                <li class="lia-paging-page-first lia-js-data-pageNum-1">
+                 <a aria-label="Page 1" class="lia-js-data-pageNum-1 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2" id="link_2_4603cd9f32914">
+                  1
+                 </a>
+                </li>
+                <li class="lia-paging-page-ellipsis">
+                 <span aria-disabled="true" class="lia-js-data-pageNum-2 lia-link-navigation lia-link-disabled" id="link_2_4603cd9f32914_0">
+                  …
+                 </span>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-32">
+                 <a aria-label="Page 32" class="lia-js-data-pageNum-32 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/32" id="link_2_4603cd9f32914_1">
+                  32
+                 </a>
+                </li>
+                <li class="lia-paging-page-active lia-js-data-pageNum-33">
+                 <span aria-current="page" aria-disabled="true" class="lia-js-data-pageNum-33 lia-link-navigation lia-link-disabled" id="link_2_4603cd9f32914_2">
+                  33
+                 </span>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-34">
+                 <a aria-label="Page 34" class="lia-js-data-pageNum-34 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/34" id="link_2_4603cd9f32914_3">
+                  34
+                 </a>
+                </li>
+                <li class="lia-paging-page-ellipsis">
+                 <span aria-disabled="true" class="lia-js-data-pageNum-185 lia-link-navigation lia-link-disabled" id="link_2_4603cd9f32914_4">
+                  …
+                 </span>
+                </li>
+                <li class="lia-paging-page-last lia-js-data-pageNum-186">
+                 <a aria-label="Page 186" class="lia-js-data-pageNum-186 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/186" id="link_2_4603cd9f32914_5">
+                  186
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="lia-paging-page-next lia-component-next">
+               <a aria-label="Next Page" class="lia-link-navigation lia-js-data-pageNum-34 lia-custom-event" href="https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/34" id="link_0_4603cd9f32914" rel="next">
+                <span class="lia-paging-page-link">
+                 Next
+                </span>
+                <span aria-hidden="true" class="lia-paging-page-arrow">
+                 »
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-footer">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="custom-community-footer">
+             <footer>
+              <div>
+               <section class="footer-community-presentation">
+                <div class="custom-community-footer-logo">
+                 <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                  Beyond Blue Website
+                 </a>
+                </div>
+                <div class="custom-community-footer-text">
+                 <p>
+                  Beyond Blue acknowledges Aboriginal and Torres Strait Islander people as the Traditional Custodians of the land and acknowledges and pays respect to their Elders, past, present and future.
+                 </p>
+                </div>
+                <div class="custom-community-footer-flags">
+                 <a class="footer-flag-one" style="background: url('/html/assets/flag1.png') no-repeat center / cover;">
+                 </a>
+                 <a class="footer-flag-two" style="background: url('/html/assets/flag2.png') no-repeat center / cover;">
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-resources">
+                <div class="custom-footer-helpful-resources">
+                 <h4>
+                  Helpful information
+                 </h4>
+                 <ul>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                    Forums guidelines
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/faq">
+                    FAQ
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/How-are-my-posts-moderated">
+                    How the Forums are moderated
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Etiquette">
+                    Forums etiquette
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Become-a-Community-Champion">
+                    Community Champions
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="custom-footer-stay-in-touch">
+                 <h4>
+                  Stay in touch
+                 </h4>
+                 <p>
+                  Sign up below for regular emails from Beyond Blue, filled with information, advice and support for you or your loved ones.
+                 </p>
+                 <a href="https://beyondblue.tfaforms.net/140" target="_blank">
+                  Stay in touch
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-talk-it-with-us">
+                <div class="talk-it-with-us-title">
+                 <h4>
+                  Talk it through with us, we'll point you in the right direction.
+                 </h4>
+                </div>
+                <div class="talk-it-with-us-contacts">
+                 <div class="phone-contact">
+                  <a href="tel: +1300224636">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="tel: +1300224636">
+                     Call 1300 224 636
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="chat-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                     Chat Online
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="mail-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                     Email us
+                    </a>
+                   </h3>
+                   <p>
+                    Get a reply in 24 hours
+                   </p>
+                  </div>
+                 </div>
+                 <ul class="social-links">
+                  <li>
+                   <a alt="Facebook" aria-label="Beyond Blue Facebook page" class="facebook" href="https://www.facebook.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Youtube" aria-label="Beyond Blue Youtube page" class="youtube" href="https://www.youtube.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Instagram" aria-label="Beyond Blue Instagram page" class="instagram" href="https://www.instagram.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Twitter" aria-label="Beyond Blue Twitter page" class="twitter" href="https://twitter.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="LinkedIn" aria-label="Beyond Blue LinkedIn page" class="linkedin" href="https://www.linkedin.com/company/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </section>
+              </div>
+              <div class="footer-bar">
+               <section class="footer-bar-left-side">
+                <div class="copyright">
+                 <p>
+                  Copyright © 2024 Beyond Blue Ltd
+                 </p>
+                </div>
+                <div class="all-rights-reserved">
+                 <p>
+                  All rights reserved
+                 </p>
+                </div>
+               </section>
+               <section class="footer-bar-right-side">
+                <a class="contact-us" href="https://www.beyondblue.org.au/about-us/contact-us" target="_blank">
+                 Contact us
+                </a>
+                <a class="terms-of-use" href="https://www.beyondblue.org.au/general/terms-of-use" target="_blank">
+                 Terms of use
+                </a>
+                <a class="privacy-policy" href="https://www.beyondblue.org.au/general/privacy-policy" target="_blank">
+                 Privacy policy
+                </a>
+                <a class="site-map" href="https://www.beyondblue.org.au/general/site-map" target="_blank">
+                 Site map
+                </a>
+               </section>
+              </div>
+             </footer>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </center>
+  </div>
+  <script type="text/javascript">
+   new Image().src = ["/","b","e","a","c","o","n","/","2","0","2","5","1","4","4","8","8","5","5","_","1","7","2","3","0","4","8","3","1","4","4","4","1",".","g","i","f"].join("");
+  </script>
+  <script language="javascript" type="text/javascript">
+   <!--
+LITHIUM.ScriptLoader.ready(['common', 'body'], function () {LITHIUM.Sandbox.restore();
+LITHIUM.jQuery.fn.cssData.defaults = {"dataPrefix":"lia-js-data","pairDelimeter":"-","prefixDelimeter":"-"};
+LITHIUM.CommunityJsonObject.User.policies['forums.action.message-view.batch-messages.allow'] = false;
+;(function($){
+	$(function(){
+		$(".custom-community-header-right .lia-slide-out-nav-menu .lia-slide-out-nav-menu-wrapper").on('click', function(event) {
+		event.preventDefault();
+		$(this).toggleClass("close");  
+		$(".lia-slide-out-nav-menu .custom-slide-out-menu-container").toggleClass("hide");  
+		});
+	});
+})(LITHIUM.jQuery);
+
+LITHIUM.DropDownMenu({"userMessagesFeedOptionsClass":"div.user-messages-feed-options-menu a.lia-js-menu-opener","menuOffsetContainer":".lia-menu-offset-container","hoverLeaveEvent":"LITHIUM:hoverLeave","mouseoverElementSelector":".lia-js-mouseover-menu","userMessagesFeedOptionsAriaLabel":"Show contributions of the user, selected option is Options. You may choose another option from the dropdown menu.","disabledLink":"lia-link-disabled","menuOpenCssClass":"dropdownHover","menuElementSelector":".lia-menu-navigation-wrapper","dialogSelector":".lia-panel-dialog-trigger","messageOptions":"lia-component-message-view-widget-action-menu","menuBarComponent":"lia-component-menu-bar","closeMenuEvent":"LITHIUM:closeMenu","menuOpenedEvent":"LITHIUM:menuOpened","pageOptions":"lia-component-community-widget-page-options","clickElementSelector":".lia-js-click-menu","menuItemsSelector":".lia-menu-dropdown-items","menuClosedEvent":"LITHIUM:menuClosed"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#pageInformation","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox","feedbackSelector":".InfoMessage"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown_0","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_4603cd9f32914","feedbackSelector":".InfoMessage"});
+LITHIUM.AjaxFeedback(".lia-inline-ajax-feedback", "LITHIUM:hideAjaxFeedback", ".lia-inline-ajax-feedback-persist");
+LITHIUM.CustomEvent('.lia-custom-event', 'click');
+    ;(function ($) {
+    $('#community-activity-sorted-by').change(function() {
+    window.location = "https://forums.beyondblue.org.au/t5/treatments-health-professionals/bd-p/c1-sc3-b2/page/33?&sort="+$(this).val();
+    });
+    })(LITHIUM.jQuery);
+
+    ;(function($){
+        $(document).ready(function(){
+            $('.view-more-text').click(function(ev){
+                var parentClass = $(this).closest('article').attr('class');
+                parentClass = "."+parentClass;
+                parentClass = parentClass.replace(/\s+/g, ".");
+
+
+                var truncateTextClass = parentClass + " .truncate-text";
+                var bodyText = parentClass + " .body-text";
+                $(truncateTextClass).css("display", "none");
+                $(this).css("display", "none");
+                $(bodyText).css("display", "block");
+
+            });
+        });
+    })(LITHIUM.jQuery);
+
+LITHIUM.PartialRenderProxy({"limuirsComponentRenderedEvent":"LITHIUM:limuirsComponentRendered","relayEvent":"LITHIUM:partialRenderProxyRelay","listenerEvent":"LITHIUM:partialRenderProxy"});
+LITHIUM.AjaxSupport.defaultAjaxFeedbackHtml = "<div class=\"lia-inline-ajax-feedback lia-component-common-widget-ajax-feedback\">\n\t\t\t<div class=\"AjaxFeedback\" id=\"ajaxFeedback_4603cda3c3359\"><\/div>\n\t\t\t\n\t\n\n\t\n\n\t\t<\/div>";
+LITHIUM.AjaxSupport.defaultAjaxErrorHtml = "<span id=\"feedback-errorfeedback_4603cda682588\"> <\/span>\n\n\t\n\t\t<div class=\"InfoMessage lia-panel-feedback-inline-alert lia-component-common-widget-feedback\" id=\"feedback_4603cda682588\">\n\t\t\t<div role=\"alert\" class=\"lia-text\">\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t<p ng-non-bindable=\"\" tabindex=\"0\">\n\t\t\t\t\t\tSorry, unable to complete the action you requested.\n\t\t\t\t\t<\/p>\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t<\/div>\n\n\t\t\t\n\t\t<\/div>";
+LITHIUM.AjaxSupport({"ajaxOptionsParam":{"event":"LITHIUM:partialRenderProxyRelay","parameters":{"javascript.ignore_combine_and_minify":"true"}},"tokenId":"ajax","elementSelector":document,"action":"partialRenderProxyRelay","feedbackSelector":false,"url":"https://forums.beyondblue.org.au/t5/forums/forumpage.liabase.basebody.partialrenderproxy:partialrenderproxyrelay?t:ac=board-id/c1-sc3-b2/page/33","ajaxErrorEventName":"LITHIUM:ajaxError","token":"c81Mbw3OX-kCF1EsDFPIri-K1k4sO5Xs6vXv3dZOWu8."});
+LITHIUM.Auth.API_URL = "/t5/util/authcheckpage";
+LITHIUM.Auth.LOGIN_URL_TMPL = "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2FREPLACE_TEXT";
+LITHIUM.Auth.KEEP_ALIVE_URL = "/t5/status/blankpage?keepalive";
+LITHIUM.Auth.KEEP_ALIVE_TIME = 180000;
+LITHIUM.Auth.CHECK_SESSION_TOKEN = '2SHysRjdpTcHT0h0wy9O30_MltJ9lHs3Zhsc-tkQEDo.';
+LITHIUM.AjaxSupport.useTickets = false;
+LITHIUM.Cache.CustomEvent.set([{"elementId":"link_4603cd9f32914","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"previous","page":32}}},{"elementId":"link_2_4603cd9f32914","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":1}}},{"elementId":"link_2_4603cd9f32914_1","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":32}}},{"elementId":"link_2_4603cd9f32914_3","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":34}}},{"elementId":"link_2_4603cd9f32914_5","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":186}}},{"elementId":"link_0_4603cd9f32914","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"next","page":34}}}]);
+LITHIUM.Loader.runJsAttached();
+
+});
+// -->
+  </script>
+ </body>
+</html>

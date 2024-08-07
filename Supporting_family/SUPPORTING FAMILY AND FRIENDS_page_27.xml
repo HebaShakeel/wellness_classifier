@@ -1,0 +1,2587 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en" prefix="og: http://ogp.me/ns#">
+ <head>
+  <title>
+   Supporting family and friends - Beyond Blue Forums
+  </title>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRF736Z');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!--- --->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5ZMHVLYHXY">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZMHVLYHXY');
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <meta content="Share tips on supporting a partner, family member or friend with a mental health condition, and seeking support for your own wellbeing." name="description"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+  <meta content="2024-08-06T20:57:47-07:00" itemprop="dateModified"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/27" rel="canonical"/>
+  <meta content="Beyond Blue Forums" property="og:site_name"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/27" property="og:url"/>
+  <meta content="Share tips on supporting a partner, family member or friend with a mental health condition, and seeking support for your own wellbeing." property="og:description"/>
+  <meta content="Supporting family and friends - Beyond Blue Forums" property="og:title"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/board?board.id=c1-sc3-b4" id="link" rel="alternate" title="Supporting family and friends topics" type="application/rss+xml"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/boardmessages?board.id=c1-sc3-b4" id="link_0" rel="alternate" title="All Supporting family and friends posts" type="application/rss+xml"/>
+  <link href="/skins/6473357/84b919748c3cb9a440a2ecda353bd96b/beyondblue.css" rel="stylesheet" type="text/css"/>
+  <link href="https://forums.beyondblue.org.au/html/@3D7544B3D4DBCB8B8F0FC0226550CD09/assets/favicon.ico" rel="shortcut icon"/>
+  <script language="javascript" type="text/javascript">
+   <!--
+if("undefined"==typeof LITHIUM)var LITHIUM={};LITHIUM.Loader=function(){var h=[],a=[],b=!1,c=!1;return{onLoad:function(a){"function"===typeof a&&(!0===b?a():h.push(a))},onJsAttached:function(b){"function"===typeof b&&(!0===c?b():a.push(b))},runJsAttached:function(){c=!0;for(var b=0;b<a.length;b++)a[b]()},getOnLoadFunctions:function(){return h},setLoaded:function(){b=!0},isLoaded:function(){return b},isJsAttached:function(){return c}}}();"undefined"===typeof LITHIUM.Components&&(LITHIUM.Components={});LITHIUM.Components.render=function(h,a,b){LITHIUM.Loader.onLoad(function(){var c=LITHIUM.Components.renderUrl(h),k={type:"GET",dataType:"json"};LITHIUM.jQuery.extend(k,b||{});k.hasOwnProperty("url")||LITHIUM.jQuery.extend(k,{url:c});k.data=a;if("object"!==typeof k.data||null===k.data)k.data={};k.data.originalPageName=LITHIUM.Components.ORIGINAL_PAGE_NAME;k.data.originalPageContext=LITHIUM.Components.ORIGINAL_PAGE_CONTEXT;LITHIUM.jQuery.ajax(k)}.bind(this))};
+LITHIUM.Components.renderUrl=function(h,a){var b=LITHIUM.Components.RENDER_URL;LITHIUM.jQuery.each({"component-id":h},function(a,h){b=b.replace(new RegExp("#{"+a+"}","g"),h)});"undefined"!==typeof a&&(b+="?"+LITHIUM.jQuery.param(a));return b};
+LITHIUM.Components.renderInPlace=function(h,a,b,c){function k(b){var a=document.createElement("div"),c=(new Date).getTime()+Math.floor(1E7*Math.random()+1);a.setAttribute("id",c);b.parentNode.insertBefore(a,b);return c}if(c)var q=c;else!1===LITHIUM.Loader.isLoaded()&&(document.currentScript?q=k(document.currentScript):(c=document.querySelectorAll("script"),1<c.length&&(q=k(c[c.length-1]))));LITHIUM.Loader.onLoad(function(){var c=LITHIUM.jQuery,k=a||{},m=b||{},l=c("#"+q);c.extend(k,{renderedScripts:LITHIUM.RenderedScripts.toString(),
+"component-id":h});c.extend(m,{success:function(b){var a=b.content;LITHIUM.AngularSupport.isAngularEnabled()&&(a=LITHIUM.AngularSupport.compile(a));l.replaceWith(a);LITHIUM.AjaxSupport.ScriptsProcessor.handleScriptEvaluation(b);(b=LITHIUM.jQuery(a).attr("id"))&&LITHIUM.jQuery("#"+b).trigger("LITHIUM:ajaxSuccess:renderInPlace",{componentId:h})},error:function(a,c,h){0===a.readyState||0===a.status?l.html(""):l.html('\x3cspan class\x3d"lia-ajax-error-text"\x3e'+b.errorMessage+"\x3c/span\x3e");l.removeClass(LITHIUM.Css.BASE_LAZY_LOAD).removeClass("lia-fa-spin")}});
+l&&LITHIUM.Components.render(h,k,m)}.bind(this))};/*
+ modernizr v3.3.1
+ Build https://modernizr.com/download?-exiforientation-filereader-flash-setclasses-dontmin
+
+ Copyright (c)
+  Faruk Ates
+  Paul Irish
+  Alex Sexton
+  Ryan Seddon
+  Patrick Kettner
+  Stu Cox
+  Richard Herrera
+
+ MIT License
+ {
+      "name": "EXIF Orientation",
+      "property": "exiforientation",
+      "tags": ["image"],
+      "builderAliases": ["exif_orientation"],
+      "async": true,
+      "authors": ["Paul Sayre"],
+      "notes": [{
+        "name": "Article by Dave Perrett",
+        "href": "http://recursive-design.com/blog/2012/07/28/exif-orientation-handling-is-a-ghetto/"
+      },{
+        "name": "Article by Calvin Hass",
+        "href": "http://www.impulseadventure.com/photo/exif-orientation.html"
+      }]
+    }
+    ! {
+      "name": "Flash",
+      "property": "flash",
+      "tags": ["flash"],
+      "polyfills": ["shumway"]
+      }
+      ! {
+      "name": "File API",
+      "property": "filereader",
+      "caniuse": "fileapi",
+      "notes": [{
+        "name": "W3C Working Draft",
+        "href": "https://www.w3.org/TR/FileAPI/"
+      }],
+      "tags": ["file"],
+      "builderAliases": ["file_api"],
+      "knownBugs": ["Will fail in Safari 5 due to its lack of support for the standards defined FileReader object"]
+    }
+    !*/
+LITHIUM.LiModernizr=function(){(function(h,a,b){function c(e){var a=n.className,b=d._config.classPrefix||"";r&&(a=a.baseVal);d._config.enableJSClass&&(a=a.replace(new RegExp("(^|\\s)"+b+"no-js(\\s|$)"),"$1"+b+"js$2"));d._config.enableClasses&&(a+=" "+b+e.join(" "+b),r?n.className.baseVal=a:n.className=a)}function k(){return"function"!==typeof a.createElement?a.createElement(arguments[0]):r?a.createElementNS.call(a,"http://www.w3.org/2000/svg",arguments[0]):a.createElement.apply(a,arguments)}function q(){var e=
+a.body;e||(e=k(r?"svg":"body"),e.fake=!0);return e}function p(a,b){if("object"==typeof a)for(var e in a)u(a,e)&&p(e,a[e]);else{a=a.toLowerCase();e=a.split(".");var f=d[e[0]];2==e.length&&(f=f[e[1]]);if("undefined"!=typeof f)return d;b="function"==typeof b?b():b;1==e.length?d[e[0]]=b:(!d[e[0]]||d[e[0]]instanceof Boolean||(d[e[0]]=new Boolean(d[e[0]])),d[e[0]][e[1]]=b);c([(b&&0!=b?"":"no-")+e.join("-")]);d._trigger(a,b)}return d}var t=[],m=[],l={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,
+enableJSClass:!0,usePrefixes:!0},_q:[],on:function(a,b){var e=this;setTimeout(function(){b(e[a])},0)},addTest:function(a,b,c){m.push({name:a,fn:b,options:c})},addAsyncTest:function(a){m.push({name:null,fn:a})}},d=function(){};d.prototype=l;d=new d;var n=a.documentElement,r="svg"===n.nodeName.toLowerCase(),u;(function(){var a={}.hasOwnProperty;u="undefined"!==typeof a&&"undefined"!==typeof a.call?function(b,e){return a.call(b,e)}:function(a,b){return b in a&&"undefined"===typeof a.constructor.prototype[b]}})();
+l._l={};l.on=function(a,b){this._l[a]||(this._l[a]=[]);this._l[a].push(b);d.hasOwnProperty(a)&&setTimeout(function(){d._trigger(a,d[a])},0)};l._trigger=function(a,b){if(this._l[a]){var e=this._l[a];setTimeout(function(){var a;for(a=0;a<e.length;a++){var c=e[a];c(b)}},0);delete this._l[a]}};d._q.push(function(){l.addTest=p});d.addAsyncTest(function(){LITHIUM.Loader.onLoad(function(){var b=a.createElement("img");b.onerror=function(){p("exiforientation",!1,{aliases:["exif-orientation"]});a.body.removeChild(b)};
+b.onload=function(){p("exiforientation",2!==b.width,{aliases:["exif-orientation"]});a.body.removeChild(b)};b.src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QAiRXhpZgAASUkqAAgAAAABABIBAwABAAAABgASAAAAAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAABAAIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iiiigD/2Q\x3d\x3d";
+a.body&&(b.setAttribute("style","position: absolute; left: -9999;"),a.body.appendChild(b))})});d.addAsyncTest(function(){var b=function(a){n.contains(a)||n.appendChild(a)},c=function(a,b){var c=!!a;c&&(c=new Boolean(c),c.blocked="blocked"===a);p("flash",function(){return c});if(b&&g.contains(b)){for(;b.parentNode!==g;)b=b.parentNode;g.removeChild(b)}};try{var d="ActiveXObject"in h&&"Pan"in new h.ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(v){}if(!("plugins"in navigator&&"Shockwave Flash"in
+navigator.plugins||d)||r)c(!1);else{var f=k("embed"),g=q(),l;f.type="application/x-shockwave-flash";g.appendChild(f);if("Pan"in f||d){var m=function(){b(g);if(!n.contains(g))return g=a.body||g,f=k("embed"),f.type="application/x-shockwave-flash",g.appendChild(f),setTimeout(m,1E3);n.contains(f)?(l=f.style.cssText,""!==l?c("blocked",f):c(!0,f)):c("blocked");g.fake&&g.parentNode&&g.parentNode.removeChild(g)};setTimeout(m,10)}else b(g),c("blocked",f),g.fake&&g.parentNode&&g.parentNode.removeChild(g)}});
+d.addTest("filereader",!!(h.File&&h.FileList&&h.FileReader));(function(){var a,b;for(b in m)if(m.hasOwnProperty(b)){var c=[];var f=m[b];if(f.name&&(c.push(f.name.toLowerCase()),f.options&&f.options.aliases&&f.options.aliases.length))for(a=0;a<f.options.aliases.length;a++)c.push(f.options.aliases[a].toLowerCase());f="function"===typeof f.fn?f.fn():f.fn;for(a=0;a<c.length;a++){var g=c[a];g=g.split(".");1===g.length?d[g[0]]=f:(!d[g[0]]||d[g[0]]instanceof Boolean||(d[g[0]]=new Boolean(d[g[0]])),d[g[0]][g[1]]=
+f);t.push((f?"":"no-")+g.join("-"))}}})();c(t);delete l.addTest;delete l.addAsyncTest;for(b=0;b<d._q.length;b++)d._q[b]();LITHIUM.Modernizr=d})(window,document)}();(function(){LITHIUM.Globals=function(){var h={};return{preventGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];c in window&&void 0!==window[c]&&(h[c]=window[c],window[c]=void 0)}},restoreGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];h.hasOwnProperty(c)&&(window[c]=h[c])}}}}()})();(function(h){Element.prototype.matches||(Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector);Element.prototype.closest||(Element.prototype.closest=function(a){var b=this;do{if(b.matches(a))return b;b=b.parentElement||b.parentNode}while(null!==b&&1===b.nodeType);return null})})(LITHIUM.jQuery);LITHIUM.PrefetchData = {"Components":{},"commonResults":{}};
+LITHIUM.DEBUG = false;
+LITHIUM.CommunityJsonObject = {
+  "Validation" : {
+    "image.description" : {
+      "min" : 0,
+      "max" : 1000,
+      "isoneof" : [ ],
+      "type" : "string"
+    },
+    "tkb.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    },
+    "blog.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    }
+  },
+  "User" : {
+    "settings" : {
+      "imageupload.legal_file_extensions" : "*.jpg;*.JPG;*.jpeg;*.JPEG;*.gif;*.GIF;*.png;*.PNG",
+      "config.enable_avatar" : true,
+      "integratedprofile.show_klout_score" : true,
+      "layout.sort_view_by_last_post_date" : true,
+      "layout.friendly_dates_enabled" : true,
+      "profileplus.allow.anonymous.scorebox" : false,
+      "tkb.message_sort_default" : "topicPublishDate",
+      "layout.format_pattern_date" : "dd-MM-yyyy",
+      "config.require_search_before_post" : "off",
+      "isUserLinked" : false,
+      "integratedprofile.cta_add_topics_dismissal_timestamp" : -1,
+      "layout.message_body_image_max_size" : 1000,
+      "profileplus.everyone" : false,
+      "integratedprofile.cta_connect_wide_dismissal_timestamp" : -1,
+      "blog.toc_maximum_heading_level" : "",
+      "integratedprofile.hide_social_networks" : false,
+      "blog.toc_heading_indent" : "",
+      "contest.entries_per_page_num" : 20,
+      "layout.messages_per_page_linear" : 10,
+      "integratedprofile.cta_manage_topics_dismissal_timestamp" : -1,
+      "profile.shared_profile_test_group" : false,
+      "integratedprofile.cta_personalized_feed_dismissal_timestamp" : -1,
+      "integratedprofile.curated_feed_size" : 10,
+      "contest.one_kudo_per_contest" : false,
+      "integratedprofile.enable_social_networks" : false,
+      "integratedprofile.my_interests_dismissal_timestamp" : -1,
+      "profile.language" : "en",
+      "layout.friendly_dates_max_age_days" : 31,
+      "layout.threading_order" : "thread_ascending",
+      "blog.toc_heading_list_style" : "disc",
+      "useRecService" : false,
+      "layout.module_welcome" : "<h1>Hey there. It\u2019s nice to see you.<\/h1>\r\n<p>Read, share and learn from people who understand what you're going through.<\/p>",
+      "imageupload.max_uploaded_images_per_upload" : 100,
+      "imageupload.max_uploaded_images_per_user" : 1000,
+      "integratedprofile.connect_mode" : "",
+      "tkb.toc_maximum_heading_level" : "",
+      "tkb.toc_heading_list_style" : "disc",
+      "sharedprofile.show_hovercard_score" : true,
+      "config.search_before_post_scope" : "community",
+      "tkb.toc_heading_indent" : "",
+      "p13n.cta.recommendations_feed_dismissal_timestamp" : -1,
+      "imageupload.max_file_size" : 3072,
+      "layout.show_batch_checkboxes" : false,
+      "integratedprofile.cta_connect_slim_dismissal_timestamp" : -1
+    },
+    "isAnonymous" : true,
+    "policies" : {
+      "image-upload.process-and-remove-exif-metadata" : false
+    },
+    "registered" : false,
+    "emailRef" : "",
+    "id" : -1,
+    "login" : "Anonymous"
+  },
+  "Server" : {
+    "communityPrefix" : "/bxzzw28954",
+    "nodeChangeTimeStamp" : 1723035268540,
+    "tapestryPrefix" : "/t5",
+    "deviceMode" : "DESKTOP",
+    "responsiveDeviceMode" : "DESKTOP",
+    "membershipChangeTimeStamp" : "0",
+    "version" : "24.6",
+    "branch" : "24.6-release",
+    "showTextKeys" : false
+  },
+  "Config" : {
+    "phase" : "prod",
+    "integratedprofile.cta.reprompt.delay" : 30,
+    "profileplus.tracking" : {
+      "profileplus.tracking.enable" : false,
+      "profileplus.tracking.click.enable" : false,
+      "profileplus.tracking.impression.enable" : false
+    },
+    "app.revision" : "2408011307-s2677dd5778-b135",
+    "navigation.manager.community.structure.limit" : "1000"
+  },
+  "Activity" : {
+    "Results" : [ ]
+  },
+  "NodeContainer" : {
+    "viewHref" : "https://forums.beyondblue.org.au/t5/caring-for-myself-and-others/ct-p/c1-sc3",
+    "description" : "Supporting people\u2019s mental health is important, but so is your wellbeing. Learn strategies for caring about yourself and those around you.",
+    "id" : "c1-sc3",
+    "shortTitle" : "Caring for myself and others",
+    "title" : "Caring for myself and others",
+    "nodeType" : "category"
+  },
+  "Page" : {
+    "skins" : [
+      "beyondblue",
+      "theme_hermes",
+      "responsive_peak"
+    ],
+    "authUrls" : {
+      "loginUrl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27",
+      "loginUrlNotRegistered" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27",
+      "loginUrlNotRegisteredDestTpl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=%7B%7BdestUrl%7D%7D"
+    },
+    "name" : "ForumPage",
+    "rtl" : false,
+    "object" : {
+      "viewHref" : "/t5/supporting-family-and-friends/bd-p/c1-sc3-b4",
+      "id" : "c1-sc3-b4",
+      "page" : "ForumPage",
+      "type" : "Board"
+    }
+  },
+  "WebTracking" : {
+    "Activities" : { },
+    "path" : "Community:Beyond Blue Forums/Category:Forums/Category:Caring for myself and others/Board:Supporting family and friends"
+  },
+  "Feedback" : {
+    "targeted" : { }
+  },
+  "Seo" : {
+    "markerEscaping" : {
+      "pathElement" : {
+        "prefix" : "@",
+        "match" : "^[0-9][0-9]$"
+      },
+      "enabled" : false
+    }
+  },
+  "TopLevelNode" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "description" : "",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums",
+    "nodeType" : "Community"
+  },
+  "Community" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "integratedprofile.lang_code" : "en",
+    "integratedprofile.country_code" : "US",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums"
+  },
+  "CoreNode" : {
+    "conversationStyle" : "forum",
+    "viewHref" : "https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4",
+    "settings" : { },
+    "description" : "Share tips on supporting a partner, family member or friend with a mental health condition, and seeking support for your own wellbeing.",
+    "id" : "c1-sc3-b4",
+    "shortTitle" : "Supporting family and friends",
+    "title" : "Supporting family and friends",
+    "nodeType" : "Board",
+    "ancestors" : [
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/caring-for-myself-and-others/ct-p/c1-sc3",
+        "description" : "Supporting people\u2019s mental health is important, but so is your wellbeing. Learn strategies for caring about yourself and those around you.",
+        "id" : "c1-sc3",
+        "shortTitle" : "Caring for myself and others",
+        "title" : "Caring for myself and others",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/forums/ct-p/c1",
+        "description" : "Beyond Blue's Forums are a great place to chat to others about mental health conditions, and to help develop ways to beat the blues and stay well.",
+        "id" : "c1",
+        "shortTitle" : "Forums",
+        "title" : "Forums",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/",
+        "description" : "",
+        "id" : "bxzzw28954",
+        "shortTitle" : "Beyond Blue Forums",
+        "title" : "Beyond Blue Forums",
+        "nodeType" : "Community"
+      }
+    ]
+  }
+};
+LITHIUM.Components.RENDER_URL = "/t5/util/componentrenderpage/component-id/#{component-id}?render_behavior=raw";
+LITHIUM.Components.ORIGINAL_PAGE_NAME = 'forums/ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_ID = 'ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_CONTEXT = 'zLswRd8777cs2_FKj7RMSod7ySbOxYgyQFh3veb8q4cr8_BIZfCkzHNm3qw4AgSAZuN5DipBnJWKELPaJSvz84idPXOwLfxM2aiJhfTm0SAAPwfCYBGB7NOKDT0AxVC8AIJJlNbVBVkHzslbIUrwB0vYEY0cdLM8cB7l01VHhR4u95oiX8YdLH-3_2CZVB2EC9qV230xmBZDHXDGS0DS5T7QHWGvR6VDz2WGSSn2XuUlGMkBieGEDH2hoGf0EvnZwlNxGYwoOnVtabgMm92RIgsaYcGoVheJK1ayC3YfRQs63sTBCCMCqMunYm6aNIa3b7R8t_8mkK76ufQ3YoxxdA..';
+LITHIUM.Css = {
+  "BASE_DEFERRED_IMAGE" : "lia-deferred-image",
+  "BASE_BUTTON" : "lia-button",
+  "BASE_SPOILER_CONTAINER" : "lia-spoiler-container",
+  "BASE_TABS_INACTIVE" : "lia-tabs-inactive",
+  "BASE_TABS_ACTIVE" : "lia-tabs-active",
+  "BASE_AJAX_REMOVE_HIGHLIGHT" : "lia-ajax-remove-highlight",
+  "BASE_FEEDBACK_SCROLL_TO" : "lia-feedback-scroll-to",
+  "BASE_FORM_FIELD_VALIDATING" : "lia-form-field-validating",
+  "BASE_FORM_ERROR_TEXT" : "lia-form-error-text",
+  "BASE_FEEDBACK_INLINE_ALERT" : "lia-panel-feedback-inline-alert",
+  "BASE_BUTTON_OVERLAY" : "lia-button-overlay",
+  "BASE_TABS_STANDARD" : "lia-tabs-standard",
+  "BASE_AJAX_INDETERMINATE_LOADER_BAR" : "lia-ajax-indeterminate-loader-bar",
+  "BASE_AJAX_SUCCESS_HIGHLIGHT" : "lia-ajax-success-highlight",
+  "BASE_CONTENT" : "lia-content",
+  "BASE_JS_HIDDEN" : "lia-js-hidden",
+  "BASE_AJAX_LOADER_CONTENT_OVERLAY" : "lia-ajax-loader-content-overlay",
+  "BASE_FORM_FIELD_SUCCESS" : "lia-form-field-success",
+  "BASE_FORM_WARNING_TEXT" : "lia-form-warning-text",
+  "BASE_FORM_FIELDSET_CONTENT_WRAPPER" : "lia-form-fieldset-content-wrapper",
+  "BASE_AJAX_LOADER_OVERLAY_TYPE" : "lia-ajax-overlay-loader",
+  "BASE_FORM_FIELD_ERROR" : "lia-form-field-error",
+  "BASE_SPOILER_CONTENT" : "lia-spoiler-content",
+  "BASE_FORM_SUBMITTING" : "lia-form-submitting",
+  "BASE_EFFECT_HIGHLIGHT_START" : "lia-effect-highlight-start",
+  "BASE_FORM_FIELD_ERROR_NO_FOCUS" : "lia-form-field-error-no-focus",
+  "BASE_EFFECT_HIGHLIGHT_END" : "lia-effect-highlight-end",
+  "BASE_SPOILER_LINK" : "lia-spoiler-link",
+  "FACEBOOK_LOGOUT" : "lia-component-users-action-logout",
+  "BASE_DISABLED" : "lia-link-disabled",
+  "FACEBOOK_SWITCH_USER" : "lia-component-admin-action-switch-user",
+  "BASE_FORM_FIELD_WARNING" : "lia-form-field-warning",
+  "BASE_AJAX_LOADER_FEEDBACK" : "lia-ajax-loader-feedback",
+  "BASE_AJAX_LOADER_OVERLAY" : "lia-ajax-loader-overlay",
+  "BASE_LAZY_LOAD" : "lia-lazy-load"
+};
+LITHIUM.noConflict = true;
+LITHIUM.useCheckOnline = false;
+LITHIUM.RenderedScripts = [
+  "jquery.lithium-selector-extensions.js",
+  "DataHandler.js",
+  "jquery.ui.resizable.js",
+  "jquery.function-utils-1.0.js",
+  "Forms.js",
+  "jquery.js",
+  "jquery.effects.core.js",
+  "Events.js",
+  "PolyfillsAll.js",
+  "jquery.iframe-shim-1.0.js",
+  "Loader.js",
+  "Throttle.js",
+  "AjaxSupport.js",
+  "InformationBox.js",
+  "jquery.effects.slide.js",
+  "ForceLithiumJQuery.js",
+  "DropDownMenu.js",
+  "jquery.viewport-1.0.js",
+  "jquery.ajax-cache-response-1.0.js",
+  "jquery.fileupload.js",
+  "jquery.position-toggle-1.0.js",
+  "Lithium.js",
+  "Globals.js",
+  "jquery.ui.mouse.js",
+  "ElementMethods.js",
+  "jquery.ui.core.js",
+  "Sandbox.js",
+  "jquery.json-2.6.0.js",
+  "jquery.css-data-1.0.js",
+  "jquery.ui.draggable.js",
+  "jquery.ui.widget.js",
+  "jquery.clone-position-1.0.js",
+  "Text.js",
+  "jquery.scrollTo.js",
+  "json2.js",
+  "ActiveCast3.js",
+  "SpoilerToggle.js",
+  "LiModernizr.js",
+  "jquery.delayToggle-1.0.js",
+  "DropDownMenuVisibilityHandler.js",
+  "DeferredImages.js",
+  "ResizeSensor.js",
+  "jquery.tmpl-1.1.1.js",
+  "Components.js",
+  "jquery.appear-1.1.1.js",
+  "jquery.blockui.js",
+  "jquery.ui.dialog.js",
+  "Namespace.js",
+  "Cache.js",
+  "PartialRenderProxy.js",
+  "NoConflict.js",
+  "AjaxFeedback.js",
+  "jquery.hoverIntent-r6.js",
+  "Auth.js",
+  "ElementQueries.js",
+  "CustomEvent.js",
+  "jquery.ui.position.js",
+  "jquery.iframe-transport.js",
+  "Video.js",
+  "prism.js"
+];(function(){LITHIUM.AngularSupport=function(){function g(a,c){a=a||{};for(var b in c)"[object object]"===Object.prototype.toString.call(c[b])?a[b]=g(a[b],c[b]):a[b]=c[b];return a}var d,f,b={coreModule:"li.community",coreModuleDeps:[],noConflict:!0,bootstrapElementSelector:".lia-page .min-width .lia-content",bootstrapApp:!0,debugEnabled:!1,useCsp:!0,useNg2:!1},k=function(){var a;return function(b){a||(a=document.createElement("a"));a.href=b;return a.href}}();LITHIUM.Angular={};return{preventGlobals:LITHIUM.Globals.preventGlobals,
+restoreGlobals:LITHIUM.Globals.restoreGlobals,init:function(){var a=[],c=document.querySelector(b.bootstrapElementSelector);a.push(b.coreModule);b.customerModules&&0<b.customerModules.length&&a.concat(b.customerModules);b.useCsp&&(c.setAttribute("ng-csp","no-unsafe-eval"),c.setAttribute("li-common-non-bindable",""));d=LITHIUM.angular.module(b.coreModule,b.coreModuleDeps);d.config(["$locationProvider","$provide","$injector","$logProvider","$compileProvider","$qProvider","$anchorScrollProvider",function(a,
+c,e,d,f,g,h){h.disableAutoScrolling();h=document.createElement("base");h.setAttribute("href",k(location));document.getElementsByTagName("head")[0].appendChild(h);window.history&&window.history.pushState&&a.html5Mode({enabled:!0,requireBase:!0,rewriteLinks:!1}).hashPrefix("!");d.debugEnabled(b.debugEnabled);f.debugInfoEnabled(b.debugEnabled);e.has("$uibModal")&&c.decorator("$uibModal",["$delegate",function(a){var b=a.open;a.open=function(a){a.backdropClass=(a.backdropClass?a.backdropClass+" ":"")+
+"lia-modal-backdrop";a.windowClass=(a.windowClass?a.windowClass+" ":"")+"lia-modal-window";return b(a)};return a}]);e.has("uibDropdownConfig")&&(e.get("uibDropdownConfig").openClass="lia-dropdown-open");e.has("uibButtonConfig")&&(e.get("uibButtonConfig").activeClass="lia-link-active");g.errorOnUnhandledRejections(!1)}]);if(b.bootstrapApp)f=b.useNg2?LITHIUM.Angular.upgradeAdapter.bootstrap(c,a):LITHIUM.angular.bootstrap(c,a);else LITHIUM.Loader.onLoad(function(){f=LITHIUM.angular.element(c).injector()});
+LITHIUM.Angular.app=d},compile:function(a){void 0===a&&(a=document.querySelector(b.bootstrapElementSelector));var c;if(void 0===a||""===a)return a;f.invoke(["$rootScope","$compile",function(b,d){try{var e=LITHIUM.angular.element(a)}catch(l){e=LITHIUM.angular.element("\x3cli:safe-wrapper\x3e"+a+"\x3c/li:safe-wrapper\x3e")}e.attr("li-common-non-bindable","");c=d(e)(b);b.$digest()}]);return c},isAngularEnabled:function(){return void 0!==d},updateLocationUrl:function(a,b){f.invoke(["$location","$rootScope",
+"$browser",function(c,d,e){a=""===a?"?":a;c.url(a,b);d.$apply()}])},setOptions:function(a){return g(b,a)},getOptions:function(){return b},initGlobal:function(a){LITHIUM.angular=a;b.useNg2&&(LITHIUM.Angular.upgradeAdapter=new ng.upgrade.UpgradeAdapter)}}}()})();(function(){LITHIUM.ScriptLoader=function(){function d(a){a in e||(e[a]={loaded:!1});return e[a]}function f(){g.filter(function(a){return!a.loaded}).forEach(function(a){var b=!0;a.labels.forEach(function(a){!1===d(a).loaded&&(b=!1)});b&&(a.loaded=!0,a.callback())})}var e={},g=[];return{load:function(a){a.forEach(function(a){var b=document.getElementsByTagName("head")[0]||document.documentElement,c=document.createElement("script");c.src=a.url;c.async=!1;a.crossorigin&&a.integrity&&(c.setAttribute("crossorigin",
+a.crossorigin),c.setAttribute("integrity",a.integrity));b.insertBefore(c,b.firstChild);d(a.label)})},setLoaded:function(a){d(a).loaded=!0;f()},ready:function(a,b){g.push({labels:a,callback:b,loaded:!1});f()}}}()})();LITHIUM.ScriptLoader.load([{"name":"lia-scripts-common-min.js","label":"common","url":"/t5/scripts/4AC59D47FB72DFC04A7151614B061671/lia-scripts-common-min.js"},{"name":"lia-scripts-body-min.js","label":"body","url":"/t5/scripts/FF28D7FB6C839EF784BB5D2416B794BC/lia-scripts-body-min.js"}]);
+// -->
+  </script>
+ </head>
+ <body class="lia-board lia-user-status-anonymous ForumPage lia-body lia-a11y" id="lia-body">
+  <div class="ServiceNodeInfoHeader" id="A20-187-8">
+  </div>
+  <div class="lia-page">
+   <center>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+     <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+     </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="MinimumWidthContainer">
+     <div class="min-width-wrapper">
+      <div class="min-width">
+       <div class="lia-content">
+        <div class="lia-quilt lia-quilt-forum-page lia-quilt-layout-two-column-side-main lia-top-quilt">
+         <div class="lia-quilt-row lia-quilt-row-header">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="lia-quilt lia-quilt-header lia-quilt-layout-custom-community-header lia-component-quilt-header">
+             <div class="lia-quilt-row lia-quilt-row-header-top">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-top-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-community-header-left">
+                 <div class="custom-community-header-logo">
+                  <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                   Beyond Blue Website
+                  </a>
+                 </div>
+                 <div class="custom-community-header-navigation">
+                  <nav role="navigation">
+                   <ul>
+                    <li>
+                     <a href="/">
+                      Forums
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/forums/recentpostspage/post-type/thread">
+                      All discussions
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                      Forums guidelines
+                     </a>
+                    </li>
+                   </ul>
+                  </nav>
+                 </div>
+                </div>
+                <div class="custom-community-header-right">
+                 <div class="custom-community-header-user-navigation">
+                  <div class="custom-login">
+                   <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+                    Login
+                   </a>
+                   <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+                    Sign up
+                   </a>
+                  </div>
+                  <a class="lia-link-navigation custom-emergency-support-link header-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                   Immediate support
+                  </a>
+                 </div>
+                 <div class="lia-slide-out-nav-menu">
+                  <button class="lia-slide-out-nav-menu-wrapper">
+                  </button>
+                  <div class="custom-slide-out-menu-container hide">
+                   <div class="custom-slide-out-menu">
+                    <ul class="lia-nav-item-container">
+                     <li class="lia-nav-item">
+                      <a href="/t5/forums/recentpostspage/post-type/thread">
+                       <span class="lia-nav-item-text">
+                        All discussions
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                     <li class="lia-nav-item">
+                      <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                       <span class="lia-nav-item-text">
+                        Forums guidelines
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <div class="custom-user-action">
+                    <div class="login-text">
+                     Already a forum member?
+                    </div>
+                    <div class="custom-login">
+                     <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+                      Login
+                     </a>
+                     <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+                      Sign up
+                     </a>
+                    </div>
+                    <a class="lia-link-navigation custom-emergency-support-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                     Immediate support
+                    </a>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-search">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-search-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single lia-mark-empty">
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-hero">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-hero-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-hero-welcome">
+                 <div class="hero-left-content">
+                  <div class="custom-node-information lia-node-header-info lia-component-common-widget-node-information">
+                   <h1 class="lia-node-header-title">
+                    Supporting family and friends
+                   </h1>
+                   <p class="lia-node-header-description">
+                    Share tips on supporting a partner, family member or friend with a mental health condition, and seeking support for your own wellbeing.
+                   </p>
+                  </div>
+                  <style>
+                   /*#lia-body .lia-quilt-row-header-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/html/assets/caring-for-others-desktop.png") no-repeat center / cover;
+}*/
+.custom-hero-welcome .hero-right-content{
+    background-image: url("https://forums.beyondblue.org.au/html/@BE0F3A20400698ADB16DD33FB5BA9416/assets/caring-for-others-desktop.png");
+}
+                  </style>
+                  <div class="hero-mobile-img">
+                   <img src="https://forums.beyondblue.org.au/html/@BE0F3A20400698ADB16DD33FB5BA9416/assets/caring-for-others-desktop.png">
+                   </img>
+                  </div>
+                 </div>
+                 <div class="hero-right-content">
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-subnav">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-subnav-content lia-mark-empty">
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-bottom">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-bottom-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+                 <ul class="lia-list-standard-inline" id="list" role="list">
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_1">
+                    Beyond Blue Forums
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/caring-for-myself-and-others/ct-p/c1-sc3" id="link_2">
+                    Caring for myself and others
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_0" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb final-crumb">
+                   <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_3">
+                    Supporting family and friends
+                   </span>
+                  </li>
+                 </ul>
+                </div>
+                <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown">
+                 <div class="lia-menu-navigation">
+                  <div class="dropdown-default-item">
+                   <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink" role="button" title="Show option menu">
+                    Options
+                   </a>
+                   <div class="dropdown-positioning">
+                    <div class="dropdown-positioning-static">
+                     <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems" role="list">
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew">
+                        Mark all as New
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead">
+                        Mark all as Read
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription">
+                        Follow
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc3-b4" id="rssBoard">
+                        Subscribe to RSS Feed
+                       </a>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView">
+                        Threaded format
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView">
+                        Linear Format
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-feedback">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-feedback">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-main">
+          <div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-left lia-quilt-column-side-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-faq-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@BAAB69946049AB55123D94974B386EBB/assets/faq-card-icon-blue.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                FAQ
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Find answers to some of the more frequently asked questions on the Forums.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/faq">
+                View the FAQ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="custom-guideline-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@25263274F392BFE568ECA6A669CC71B4/assets/guidelines-card-icon.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                Forums guidelines
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Our guidelines keep the Forums a safe place for people to share and learn information.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/forums-guidelines">
+                View the guidelines
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="lia-panel lia-panel-standard custom-jumpto">
+             <div class="lia-decoration-border">
+              <div class="lia-decoration-border-content">
+               <div class="lia-panel-heading-bar-wrapper">
+                <div class="lia-panel-heading-bar">
+                 <span aria-level="3" class="lia-panel-heading-bar-title" role="heading">
+                  Jump to
+                 </span>
+                </div>
+               </div>
+               <div class="lia-panel-content">
+                <ul>
+                 <li>
+                  <a href="/t5/introduce-yourself/ct-p/c1-sc1">
+                   Introduce yourself
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/mental-health-conditions/ct-p/c1-sc2">
+                   Mental health conditions
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/caring-for-myself-and-others/ct-p/c1-sc3">
+                   Caring for myself and others
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/people-like-me/ct-p/c1-sc4">
+                   People like me
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="lia-quilt-column lia-quilt-column-18 lia-quilt-column-right lia-quilt-column-main-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+            <div class="custom-main-top">
+             <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+              <ul class="lia-list-standard-inline" id="list_0" role="list">
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_4">
+                 Beyond Blue Forums
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_1" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/caring-for-myself-and-others/ct-p/c1-sc3" id="link_5">
+                 Caring for myself and others
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_2" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb final-crumb">
+                <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_6">
+                 Supporting family and friends
+                </span>
+               </li>
+              </ul>
+             </div>
+             <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown_0">
+              <div class="lia-menu-navigation">
+               <div class="dropdown-default-item">
+                <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink_0" role="button" title="Show option menu">
+                 Options
+                </a>
+                <div class="dropdown-positioning">
+                 <div class="dropdown-positioning-static">
+                  <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems_0" role="list">
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew_0">
+                     Mark all as New
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead_0">
+                     Mark all as Read
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription_0">
+                     Follow
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc3-b4" id="rssBoard_0">
+                     Subscribe to RSS Feed
+                    </a>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView_0">
+                     Threaded format
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView_0">
+                     Linear Format
+                    </span>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-message-list pinned-discussions">
+             <section>
+              <header>
+               <img src="https://forums.beyondblue.org.au/html/@A33D1742676F23D7D5B8721EE90E7277/assets/icon-pin.svg">
+                <h2>
+                 Pinned discussions
+                </h2>
+               </img>
+              </header>
+              <article class="custom-message-tile custom-thread-locked custom-thread-floated custom-thread-unread custom-message-number-0">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/14451" title="View profile">
+                  <img alt="Carmela" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0">
+                  </img>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/are-you-supporting-a-depressed-partner-my-tips-from-18-years-of/td-p/185292" title="Are you supporting a depressed partner? My tips from 18 years of experience">
+                  Are you supporting a depressed partner? My tips from 18 years of experience
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    41
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 This list has been compiled from experiences supporting my husband with
+depression. There is no one size fits all, so please take what you are
+comfortable with based on your circumstances and resources. 1. Reach out
+to family and/or friends to feel s...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 This list has been compiled from experiences supporting my husband with
+depression. There is no one size fits all, so please take what you are
+comfortable with based on your circumstances and resources. 1. Reach out
+to family and/or friends to feel supported - this also covers support
+groups - online or face to face. Don't let stigma stop you from reaching
+out. 2. Relationship boundaries - identify what is acceptable and not.
+My general platform is that physical abuse is unacceptable as well as
+regular demeaning/berating comments. Communicate this openly so everyone
+understands. 3. Coping tools - this could be exercise, meditation,
+reading a book, meeting friends, etc. They are important for your mental
+health. 4. Knowledge is power - research to understand about depression.
+The more you know, the better care you can provide. 5. Remember your
+partner in the good times - this is their true selves, not the darkness.
+6. Listen and show receptivity - without judgement or anger. If
+communicate becomes strained, the timeout can provide clarity. Encourage
+communication gently and try not to push. 7. Seek counselling - sharing
+your feelings can provide an opportunity to off load the heavy stuff and
+identify resilience and coping strategies. 8. Work as a team - don't let
+mental illness be in the driver's seat. Offer to go to the Dr's and
+support them. Understand medication and side effects. Be understanding
+that some days are harder than others. 9. Words are powerful - remember
+what you say cannot be taken back. 10. Carer Self-esteem and self-worth
+- if you compromise these for the sake of supporting your partner, you
+are likely to live with resentment towards your partner and the
+circumstances you find yourself in. 11. Don't forget the children -
+challenging circumstances at home can affect them mentally and
+emotionally. Speak about mental illness (COPMI.com.au - has some great
+resources) and be a strong foundation toward maintaining normality in
+their daily activities. 12. Intimacy - there are many variables here, so
+from my experience - keep communication open and make couple time to
+connect. When my husband was depressed, daily hugs or holding hands
+wherever possible worked for us. Some carers I have spoken with said
+their partner would demand intimacy. My personal position is that
+intimacy is about love without demands or attachments relating to
+expectation. Demands only deplete the goodness in the connection and
+sharing a a loving experience. [Moderator's note: this thread is for
+sharing tips on what has worked for you in supported a loved one with a
+mental health condition. In order to help us keep this thread focused on
+solutions, please start a new thread if you are seeking support from the
+community around how to best support your loved one.]
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <img alt="Carmela" class="lia-user-rank-message" src="/html/badge_icons/blue-voices-member.png">
+                    <a href="/t5/user/viewprofilepage/user-id/14451" rel="author" title="View profile">
+                     <span class="">
+                      Carmela
+                     </span>
+                    </a>
+                   </img>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Blue Voices Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   15-07-2016
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  41 unread
+                 </span>
+                </div>
+                <div class="custom-thread-floated">
+                 <img src="https://forums.beyondblue.org.au/html/@A33D1742676F23D7D5B8721EE90E7277/assets/icon-pin.svg"/>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+             </section>
+            </div>
+            <div class="custom-message-list all-discussions">
+             <section>
+              <header>
+               <h2>
+                All discussions
+               </h2>
+               <div>
+                <label for="community-activity-sorted-by">
+                 Sorted by:
+                </label>
+                <select id="community-activity-sorted-by">
+                 <option value="recent">
+                  Most recent
+                 </option>
+                 <option value="replies">
+                  Most commented
+                 </option>
+                 <option value="kudos">
+                  Most supported
+                 </option>
+                </select>
+                <div class="custom-start-conversation-button">
+                 <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fsupporting-family-and-friends%2Fbd-p%2Fc1-sc3-b4%2Fpage%2F27">
+                  Start a discussion
+                 </a>
+                </div>
+               </div>
+              </header>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-0">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/7087" title="View profile">
+                  <img alt="krainb01" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/wanting-advice-for-parenting-adult-child-with-mental-illness/td-p/427" title="Wanting advice for parenting adult child with mental illness">
+                  Wanting advice for parenting adult child with mental illness
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    13
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi. My 18 year old daughter has severe anxiety and depression. She was
+first diagnosed with anxiety at age 7 and depression at age 12. She is
+currently on medication and we have seen many GPs / psychologists /
+psychiatrists through the years. She is ...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi. My 18 year old daughter has severe anxiety and depression. She was
+first diagnosed with anxiety at age 7 and depression at age 12. She is
+currently on medication and we have seen many GPs / psychologists /
+psychiatrists through the years. She is not currently seeing a
+psychologist because she did not like the last one and now refuses to
+see one (she has always been reluctant). She is currently studying at
+TAFE so there is no legal school obligation involved. For years we
+struggled with getting her to do anything, but she was a child and we
+were 100% responsible for her. Now she is an adult and we don't want her
+to be dependent on us forever. She is very bright and capable of being a
+functioning member of society, but she doesn't seem to have any desire
+to. She has missed quite a bit of TAFE and does not complete enough TAFE
+work at home during lockdown. If we don't "nag" her, she won't shower or
+eat properly. She spends most of her time in her room and doesn't have
+her licence. Now that she's an adult I feel like we should just leave
+her and let her make her own decisions (and cop the consequences), but I
+think she would be more than happy to live in our back room forever! She
+hates talking to people about herself and when she is "forced" to she
+simply tells them what they want to hear. For eg, she tells her TAFE
+teacher she will catch up on all the work, she tells her GP she will
+look after herself and agrees to talk to a psychologist. Once we're home
+she refuses to do whatever it is she "promised". I'm just looking for
+some advice from parents of adult children with mental illness who are
+older than my daughter. Do you leave them alone? Do you still heavily
+parent them by "making" them do things? Do you still take the lead when
+corresponding with doctors, teachers, bosses etc? Do you still remind
+them of everything they should be doing? Has your child managed to be a
+fully functioning adult and live outside of your house? I'm just really
+worried what the future holds and don't know what to do now that she
+legally is an adult. Thanks.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/7087" rel="author" title="View profile">
+                    <span class="">
+                     krainb01
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   06-09-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  13 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-1">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/35176" title="View profile">
+                  <img alt="Blueberries_and_Cream" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/helping-a-partner-with-depression/td-p/29828" title="Helping a partner with depression">
+                  Helping a partner with depression
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    5
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hello lovely people, I am here to ask what strategies you have used in
+the past to convince a partner with depression to seek professional
+help? It has gone beyond anything I can say or do now and I feel
+incredibly helpless. They are absolutely adama...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hello lovely people, I am here to ask what strategies you have used in
+the past to convince a partner with depression to seek professional
+help? It has gone beyond anything I can say or do now and I feel
+incredibly helpless. They are absolutely adamant they will not go to
+therapy or see a GP due to the implications it may have with work if
+work ever finds out. However I am so past the point of caring about what
+work will think! Getting well and feeling better should be of priority.
+So at the moment I am struggling to get through to them that they need
+to consider their well-being first. I get daily messages asking for help
+while they are at work, telling me it’s too hard and they feel so down.
+I know that I am the only person they talk to about their mental health
+and have asked in the past to contact friends or family as well but this
+is just not an option in their mind. It’s just so overwhelming! And I
+feel as though it’s all on me to get the answers they need and do the
+work for them! Most suggestions I make are just ignored and we end up
+arguing about it. Some days I just can’t even be bothered to help, but I
+pull myself together and do but it really is getting beyond my help now!
+I am completely ready and willing to be supportive, but I cannot be in a
+place to ‘help and fix’ anymore. I’d really love some alternative ideas
+besides getting a GP diagnosis and then heading to a pysch or therapy -
+I just know it won’t go down well!! Anyway, thank you in advance. Enjoy
+your day
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/35176" rel="author" title="View profile">
+                    <span class="">
+                     Blueberries_and_Cream
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   27-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  5 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-2">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/15558" title="View profile">
+                  <img alt="Mininonna" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/supporting-son-with-depression/td-p/17019" title="Supporting son with depression">
+                  Supporting son with depression
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    3
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My son has had anxiety since a child. I took him to a psychologist
+(against his wishes) when 12 years old and he soon learned that if he
+'hid' his anxiety, everyone would leave him alone. Now he is 20 he also
+has depression. This was something he hid...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My son has had anxiety since a child. I took him to a psychologist
+(against his wishes) when 12 years old and he soon learned that if he
+'hid' his anxiety, everyone would leave him alone. Now he is 20 he also
+has depression. This was something he hid very well, until it became too
+much. Thankfully he went to a trusted friend and they supported him to
+see a GP. He has trialled a few anti-depressants but has admitted that
+he told the GP the current ones are fine so he didn't have to go back,
+even though things still are not that great. He doesn't want to get
+counselling. I have noticed changes to his behaviour that out of
+character (e.g. sitting at the local pub by himself and betting,
+sometimes drinking). While I do not think there is an immediate concern,
+I do feel he needs more intervention. It is painful to watch and I am
+left picking up the pieces after a depressive episode. The only time he
+wants to talk is when he has had a few too many drinks. Does anyone have
+advice on how to get them to see that more help is needed?
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/15558" rel="author" title="View profile">
+                    <span class="">
+                     Mininonna
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   03-11-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  3 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-3">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/8228" title="View profile">
+                  <img alt="Strugglestreetsally" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/struggling-to-support-my-depressed-partner/td-p/47437" title="Struggling to support my depressed partner">
+                  Struggling to support my depressed partner
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    7
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi there all, I guess I am here for a bit of a vent and any possible
+advice. Ive been with my boyfriend/fiancè about 2 and a half years. We
+got engaged about 3 months ago, and I'm 5 months pregnant. He struggles
+with severe depression and anxiety, wh...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi there all, I guess I am here for a bit of a vent and any possible
+advice. Ive been with my boyfriend/fiancè about 2 and a half years. We
+got engaged about 3 months ago, and I'm 5 months pregnant. He struggles
+with severe depression and anxiety, which has affected his ability to
+get and keep jobs due to just having anxiety attacks and not being able
+to show up on his first day, resulting in him barely working the last 2
+years. He has previously sought help with a counsellor but she wasn't
+the right person and hes waiting to get into a psychiatrist to try some
+medication. I guess I just am feeling completely at a loss lately. He
+seems to be making progress.. make 3 steps forward then he loses it and
+falls back into depression mode and loses all his progress. This has all
+had a huge impact on our intimacy many times. Im a hugely sensitive
+person and I try to do everything I can to help. He moved away from his
+home to be with me 2.5 hours away and misses his family and friends
+alot.. but I have no idea how to help him. Over the past 2 years I have
+told him to move back home as he never seems happy here but now we have
+a baby on the way and I feel completely depleted. I read another thread
+here about a girl who loves her bf but didnt sign up for this.. I feel
+the same. I love him with all my heart but this is not the life I want..
+to deal with a depressed anxious person, to carry the load 100% of the
+time, financially and emotionally. I don't want to be a single mum, I
+just want him to get better. I know its a slow road but im struggling
+with all the set backs. Does it get better? I'm feeling like I have no
+more options and I'm out of ideas as he seems set that hes "f'd in the
+head". Please help me..
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/8228" rel="author" title="View profile">
+                    <span class="">
+                     Strugglestreetsally
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   31-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  7 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-4">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/12397" title="View profile">
+                  <img alt="noella99" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/confused-on-how-to-help-my-younger-brother/td-p/28636" title="Confused on how to help my younger brother">
+                  Confused on how to help my younger brother
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    2
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi there, It's been a while since I seek out this community. At the
+moment, I'm currently working to try and save up enough money to get
+proper medical help for my brother. However, I'm looking for advice on
+how to better support him until then. My b...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi there, It's been a while since I seek out this community. At the
+moment, I'm currently working to try and save up enough money to get
+proper medical help for my brother. However, I'm looking for advice on
+how to better support him until then. My brother is 18 years old and has
+a somewhat shaky relationship with my parents, especially my mother.
+He's been suffering from severe depression from the constant criticism
+and emotional abuse that my mother inflicted on him. During these times,
+I'd usually accompany him and try my best to give him the support that
+he needs. Whenever he needs reassurance, I'm always there for him. When
+he needs to let it out, I'll be the shoulder for him to cry on. However,
+I have to be honest that at times I genuinely can't always be there for
+him as I'm also going through my own mental and emotional hurdles. It
+hurts me during the times that I can't be there for him because I feel
+like I'm not doing enough. I try to encourage him to do some more
+mindful activities to ease his mind or remind him to find healthier
+coping mechanisms. But he'd brush me off and say that it wouldn't work
+or straight up just doesn't respond. I just don't know how else am I
+able to help him. I'm afraid that I might've come off as disingenuous in
+my concern for him or that I'm being too overbearing. I'm just confused
+how to find the right balance in being the support system that he needs
+right now.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/12397" rel="author" title="View profile">
+                    <span class="">
+                     noella99
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   01-11-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  2 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-5">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/42114" title="View profile">
+                  <img alt="gloria10" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/helping-a-parent-that-won-t-get-help/td-p/16177" title="Helping a parent that won't get help">
+                  Helping a parent that won't get help
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    11
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi, I have been concerned about my mum recently. I've noticed her mood
+changing over the last few months and at first, I thought she was just
+whinging. Now I see that she is in a bit of a slump and it's getting
+worse. I understand she lost dad within...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi, I have been concerned about my mum recently. I've noticed her mood
+changing over the last few months and at first, I thought she was just
+whinging. Now I see that she is in a bit of a slump and it's getting
+worse. I understand she lost dad within the last few years, it has been
+a tough time for her, but it concerns me that even though my siblings
+and I suggest she gets the help she is reluctant to and keeps going into
+negatives again. Being her daughter I feel that she doesn't listen to my
+advice, even though I've had similar issues before. I'm not sure how to
+deal with it or help her, but I also need to manage my own mental
+health. I make sure I rest up when I need to and continue to exercise as
+I feel better from it. How can we help her? Any advice would be
+appreciated, thank you.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/42114" rel="author" title="View profile">
+                    <span class="">
+                     gloria10
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   25-06-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  11 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-6">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/10631" title="View profile">
+                  <img alt="Violet12" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/anybody-else-supporting-a-partner-with-an-addiction/td-p/13784" title="Anybody else supporting a partner with an addiction?">
+                  Anybody else supporting a partner with an addiction?
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    5
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My partner has adhd, undiagnosed and unmedicated until we can get in to
+see someone (state of the country right now, huge waitlist). This is a
+big part of his depression which is pretty severe. He also occasionally
+struggles with anxiety. A few month...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My partner has adhd, undiagnosed and unmedicated until we can get in to
+see someone (state of the country right now, huge waitlist). This is a
+big part of his depression which is pretty severe. He also occasionally
+struggles with anxiety. A few months ago he began using cannabis as a
+way to help him relax late at night, just in small amounts. Pretty
+quickly it became a coping method for all of the discomfort that comes
+along with his adhd and depression. Now he uses it every day, for most
+of the day. It costs hundreds and hundreds per month. He has tried to
+quit once before but didn't get past the first day. He's tried to quit
+again this week, on day 2 now and he's planning on getting more. He
+initially wanted to quit because of the money, but also acknowledged
+that it made him feel anxious a lot of the time, and made his motivation
+issues a lot worse. But when he's sober, he says that those things are
+better than the feelings he lives with from adhd and depression. He said
+that he'll stop when he can get medication for his adhd, but until then
+he thinks this is the only way he can get relief. Honestly, part of me
+thinks he might be right. When he's high, it's the most relaxed and
+present I've seen him in almost 3 years. I was actually relieved when he
+started using it for this reason, because he cannot relax or
+self-soothe. But I also know that he feels bad about using it because of
+the stigma, the money, and because he knows that it's not a coping
+method and he's become completely dependent on it. Hopefully he'll
+receive diagnosis and medication for his adhd by January at the
+latest... Should I just let him deal with his issues how he chooses to
+in the meantime? I'm joined up with some codependency support groups, &amp;
+some people there have said that it's not my place or my responsibility
+or in my power to tell him what to do. And honestly, he doesn't do
+anything I suggest anyway - the only time he ever makes changes is when
+he decides to. So... Should I just be here for him, support him when he
+inevitably tries to quit and relapses over the next few months, and wait
+to see what happens with his potential diagnosis?
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/10631" rel="author" title="View profile">
+                    <span class="">
+                     Violet12
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   17-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  5 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-7">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/31319" title="View profile">
+                  <img alt="Katie_Fern" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/terrified-my-husband-is-falling-back-into-depression/td-p/29264" title="Terrified my husband is falling back into depression">
+                  Terrified my husband is falling back into depression
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    2
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 I’m really terrified my husband is about to slip back into depression. I
+don’t know if I can cope with it again. It’s quiet a long story. My
+husband moved to Australia just over 10 years ago so we could marry. He
+never quiet settled in; he hasn’t bee...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 I’m really terrified my husband is about to slip back into depression. I
+don’t know if I can cope with it again. It’s quiet a long story. My
+husband moved to Australia just over 10 years ago so we could marry. He
+never quiet settled in; he hasn’t been able to make any long term
+friends, didn’t want to commit to a University course while a PR (cost
+reasons) and has been in and out of dead end jobs the entire time. He’s
+from an extremely unsupportive family – and my family isn’t super
+welcoming either – so feels entirely alone except for me. He is also
+bisexual, and has struggled with the idea that we ‘got married too
+young’ and he’s supressed this side of himself. We recently tried a
+polygamous three-way relationship with another man, to help my husband
+explore this side of himself. I should never have agreed to it, as it’s
+not something I really wanted to do, but we’d been having some marital
+disagreements, I was waiting for endometrium surgery and couldn’t have
+sex, and he was slipping into depression even further. The guy we
+started seeing was nice enough, but I really wasn’t into it. My husband
+fell for him though. Hard. I let it go, because I hadn’t seen him this
+happy in years… but it didn’t last. My husband fell into depression even
+worse, after a time. Earlier this year, we broke it off, because the man
+we were seeing decided that he wanted to find a long-term partner,
+settle down, have kids, the works. This absolutely DEVESTATED my
+husband. However, the heartbreak actually broke him out of depression
+for the first time. After a month or so, he finally picked himself up,
+decided to go back to school and has been improving ever since. Then,
+yesterday, we were told he would be unenrolled from his University
+course because there had been a problem with his fees, and they hadn’t
+been paid on time. For this reason, they ‘legally’ couldn’t allow him to
+continue. Of course, we can’t actually talk to anyone about this because
+they’re learning from home at the moment (Melbourne lockdown…) and
+no-one is answering their phones to give us answers. My husband is
+absolutely shattered. He can’t believe that he might not be able to
+continue due to a clerical error, and is blaming himself for not being
+more proactive about it. He was sobbing in bed last night about being a
+failure; failing to keep a job, failing his relationship with the other
+man, failing me, and now failing this. He wanted so badly to do well to
+show me that he was worth it.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/31319" rel="author" title="View profile">
+                    <span class="">
+                     Katie_Fern
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   20-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  2 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-8">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/523" title="View profile">
+                  <img alt="Foxmum" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/how-do-i-help-my-son/td-p/14318" title="How do I help my son?">
+                  How do I help my son?
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    3
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My son is 18 and split with his girlfriend about 2 months ago. He had
+been with her for 6 months - his first love - a very one sided
+relationship- he was obsessed she made little effort. He broke it off
+because of the constant pain it caused him. He’...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My son is 18 and split with his girlfriend about 2 months ago. He had
+been with her for 6 months - his first love - a very one sided
+relationship- he was obsessed she made little effort. He broke it off
+because of the constant pain it caused him. He’s been so sad, spending a
+lot of time sitting by himself in his car at a local car park listening
+to music. About a month ago the parents of the girlfriend messaged to
+say he had sent suicidal messages and a suicide letter. The messages
+said he had attempted to take his own life. We got him home and I spoke
+to beyond blue and the local suicide triage service. He refused their
+services. Over the last month on the surface he seemed to be recovering
+but he’s not. He’s restless, sad, cries, puts up a barrier saying he’s
+fine. He is alternating between visiting anyone and everyone and long
+spells driving around on his own. He is not following through on
+anything we try and involve him in - a car restoration, the gym, This
+weekend his friend rang me in tears after receiving messages from my son
+and believing he was suicidal. My son claims the friend misinterpreted
+the message. He refuses to see or talk to anyone. Says he can do it on
+his own and he just needs time. I feel there should be some progress in
+Two months .He does talk to a degree to me but I feel he filters
+everything and pretends it’s not as bad as it is. My life is falling to
+pieces. I can not cope with my constant inner turmoil. I’m so scared i
+can barely function. I don’t know how to help him. any advice on getting
+him to see someone or any advice on how to help him. I carnt just let
+him self combust.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/523" rel="author" title="View profile">
+                    <span class="">
+                     Foxmum
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   18-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  3 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-9">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/195" title="View profile">
+                  <img alt="GrayDee" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/supporting-family-and-friends/my-friend-wanted-me-to-create-this-thread-so-i-could-indirectly/td-p/30338" title="My friend wanted me to create this thread so I could indirectly ask for advice for her 😊">
+                  My friend wanted me to create this thread so I could indirectly ask for advice for her 😊
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    3
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Hi I'm new to all of this since I just made an account so I'm not sure
+if I'm doing this right lol. But me and my friend are in year 7 and
+since high school is pretty different from primary school we both
+started having similar meltdowns/breakdowns a...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Hi I'm new to all of this since I just made an account so I'm not sure
+if I'm doing this right lol. But me and my friend are in year 7 and
+since high school is pretty different from primary school we both
+started having similar meltdowns/breakdowns and we would feel
+emotionally numb and even had thoughts of hurting ourselves at times. I
+talked to my school counsellor about this and I'm doing a quite better.
+My friend is also a bit better but she's still having such meltdowns and
+breakdowns. She absolutely hates the idea of opening up to an adult or
+anybody else about this and wanted me to indirectly ask for any advice
+on BeyondBlue. She said she was feeling emotionally numb and sometimes
+cries for no reason. She feels more emotional over things and sometimes
+just doesn't care about anything at all. I would be so glad if anyone
+has any advice for my friend!
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/195" rel="author" title="View profile">
+                    <span class="">
+                     GrayDee
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/supporting-family-and-friends/bd-p/c1-sc3-b4">
+                     Supporting family and friends
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   17-10-2021
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  3 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+             </section>
+            </div>
+            <div aria-label="Use the previous and next links to move between pages. Use the page number links to go directly to a page." class="lia-paging-full-wrapper lia-paging-pager lia-component-common-widget-pager" id="pager_26713c9e268e2" role="navigation">
+             <div class="lia-inline-ajax-feedback">
+              <div class="AjaxFeedback" id="ajaxFeedback_26713c9e268e2">
+              </div>
+             </div>
+             <ul class="lia-paging-full">
+              <li class="lia-paging-page-previous lia-component-previous">
+               <a aria-label="Previous Page" class="lia-link-navigation lia-js-data-pageNum-26 lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/26" id="link_26713c9e268e2" rel="prev">
+                <span>
+                 <span aria-hidden="true" class="lia-paging-page-arrow">
+                  «
+                 </span>
+                 <span class="lia-paging-page-link">
+                  Previous
+                 </span>
+                </span>
+               </a>
+              </li>
+              <li class="lia-component-pagesnumbered">
+               <ul class="lia-paging-full-pages">
+                <li class="lia-paging-page-first lia-js-data-pageNum-1">
+                 <a aria-label="Page 1" class="lia-js-data-pageNum-1 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4" id="link_2_26713c9e268e2">
+                  1
+                 </a>
+                </li>
+                <li class="lia-paging-page-ellipsis">
+                 <span aria-disabled="true" class="lia-js-data-pageNum-2 lia-link-navigation lia-link-disabled" id="link_2_26713c9e268e2_0">
+                  …
+                 </span>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-26">
+                 <a aria-label="Page 26" class="lia-js-data-pageNum-26 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/26" id="link_2_26713c9e268e2_1">
+                  26
+                 </a>
+                </li>
+                <li class="lia-paging-page-active lia-js-data-pageNum-27">
+                 <span aria-current="page" aria-disabled="true" class="lia-js-data-pageNum-27 lia-link-navigation lia-link-disabled" id="link_2_26713c9e268e2_2">
+                  27
+                 </span>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-28">
+                 <a aria-label="Page 28" class="lia-js-data-pageNum-28 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/28" id="link_2_26713c9e268e2_3">
+                  28
+                 </a>
+                </li>
+                <li class="lia-paging-page-ellipsis">
+                 <span aria-disabled="true" class="lia-js-data-pageNum-251 lia-link-navigation lia-link-disabled" id="link_2_26713c9e268e2_4">
+                  …
+                 </span>
+                </li>
+                <li class="lia-paging-page-last lia-js-data-pageNum-252">
+                 <a aria-label="Page 252" class="lia-js-data-pageNum-252 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/252" id="link_2_26713c9e268e2_5">
+                  252
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="lia-paging-page-next lia-component-next">
+               <a aria-label="Next Page" class="lia-link-navigation lia-js-data-pageNum-28 lia-custom-event" href="https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/28" id="link_0_26713c9e268e2" rel="next">
+                <span class="lia-paging-page-link">
+                 Next
+                </span>
+                <span aria-hidden="true" class="lia-paging-page-arrow">
+                 »
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-footer">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="custom-community-footer">
+             <footer>
+              <div>
+               <section class="footer-community-presentation">
+                <div class="custom-community-footer-logo">
+                 <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                  Beyond Blue Website
+                 </a>
+                </div>
+                <div class="custom-community-footer-text">
+                 <p>
+                  Beyond Blue acknowledges Aboriginal and Torres Strait Islander people as the Traditional Custodians of the land and acknowledges and pays respect to their Elders, past, present and future.
+                 </p>
+                </div>
+                <div class="custom-community-footer-flags">
+                 <a class="footer-flag-one" style="background: url('/html/assets/flag1.png') no-repeat center / cover;">
+                 </a>
+                 <a class="footer-flag-two" style="background: url('/html/assets/flag2.png') no-repeat center / cover;">
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-resources">
+                <div class="custom-footer-helpful-resources">
+                 <h4>
+                  Helpful information
+                 </h4>
+                 <ul>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                    Forums guidelines
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/faq">
+                    FAQ
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/How-are-my-posts-moderated">
+                    How the Forums are moderated
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Etiquette">
+                    Forums etiquette
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Become-a-Community-Champion">
+                    Community Champions
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="custom-footer-stay-in-touch">
+                 <h4>
+                  Stay in touch
+                 </h4>
+                 <p>
+                  Sign up below for regular emails from Beyond Blue, filled with information, advice and support for you or your loved ones.
+                 </p>
+                 <a href="https://beyondblue.tfaforms.net/140" target="_blank">
+                  Stay in touch
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-talk-it-with-us">
+                <div class="talk-it-with-us-title">
+                 <h4>
+                  Talk it through with us, we'll point you in the right direction.
+                 </h4>
+                </div>
+                <div class="talk-it-with-us-contacts">
+                 <div class="phone-contact">
+                  <a href="tel: +1300224636">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="tel: +1300224636">
+                     Call 1300 224 636
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="chat-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                     Chat Online
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="mail-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                     Email us
+                    </a>
+                   </h3>
+                   <p>
+                    Get a reply in 24 hours
+                   </p>
+                  </div>
+                 </div>
+                 <ul class="social-links">
+                  <li>
+                   <a alt="Facebook" aria-label="Beyond Blue Facebook page" class="facebook" href="https://www.facebook.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Youtube" aria-label="Beyond Blue Youtube page" class="youtube" href="https://www.youtube.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Instagram" aria-label="Beyond Blue Instagram page" class="instagram" href="https://www.instagram.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Twitter" aria-label="Beyond Blue Twitter page" class="twitter" href="https://twitter.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="LinkedIn" aria-label="Beyond Blue LinkedIn page" class="linkedin" href="https://www.linkedin.com/company/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </section>
+              </div>
+              <div class="footer-bar">
+               <section class="footer-bar-left-side">
+                <div class="copyright">
+                 <p>
+                  Copyright © 2024 Beyond Blue Ltd
+                 </p>
+                </div>
+                <div class="all-rights-reserved">
+                 <p>
+                  All rights reserved
+                 </p>
+                </div>
+               </section>
+               <section class="footer-bar-right-side">
+                <a class="contact-us" href="https://www.beyondblue.org.au/about-us/contact-us" target="_blank">
+                 Contact us
+                </a>
+                <a class="terms-of-use" href="https://www.beyondblue.org.au/general/terms-of-use" target="_blank">
+                 Terms of use
+                </a>
+                <a class="privacy-policy" href="https://www.beyondblue.org.au/general/privacy-policy" target="_blank">
+                 Privacy policy
+                </a>
+                <a class="site-map" href="https://www.beyondblue.org.au/general/site-map" target="_blank">
+                 Site map
+                </a>
+               </section>
+              </div>
+             </footer>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </center>
+  </div>
+  <script type="text/javascript">
+   new Image().src = ["/","b","e","a","c","o","n","/","2","0","2","5","1","4","7","8","6","1","2","_","1","7","2","3","0","4","8","3","7","0","7","0","4",".","g","i","f"].join("");
+  </script>
+  <script language="javascript" type="text/javascript">
+   <!--
+LITHIUM.ScriptLoader.ready(['common', 'body'], function () {LITHIUM.Sandbox.restore();
+LITHIUM.jQuery.fn.cssData.defaults = {"dataPrefix":"lia-js-data","pairDelimeter":"-","prefixDelimeter":"-"};
+LITHIUM.CommunityJsonObject.User.policies['forums.action.message-view.batch-messages.allow'] = false;
+;(function($){
+	$(function(){
+		$(".custom-community-header-right .lia-slide-out-nav-menu .lia-slide-out-nav-menu-wrapper").on('click', function(event) {
+		event.preventDefault();
+		$(this).toggleClass("close");  
+		$(".lia-slide-out-nav-menu .custom-slide-out-menu-container").toggleClass("hide");  
+		});
+	});
+})(LITHIUM.jQuery);
+
+LITHIUM.DropDownMenu({"userMessagesFeedOptionsClass":"div.user-messages-feed-options-menu a.lia-js-menu-opener","menuOffsetContainer":".lia-menu-offset-container","hoverLeaveEvent":"LITHIUM:hoverLeave","mouseoverElementSelector":".lia-js-mouseover-menu","userMessagesFeedOptionsAriaLabel":"Show contributions of the user, selected option is Options. You may choose another option from the dropdown menu.","disabledLink":"lia-link-disabled","menuOpenCssClass":"dropdownHover","menuElementSelector":".lia-menu-navigation-wrapper","dialogSelector":".lia-panel-dialog-trigger","messageOptions":"lia-component-message-view-widget-action-menu","menuBarComponent":"lia-component-menu-bar","closeMenuEvent":"LITHIUM:closeMenu","menuOpenedEvent":"LITHIUM:menuOpened","pageOptions":"lia-component-community-widget-page-options","clickElementSelector":".lia-js-click-menu","menuItemsSelector":".lia-menu-dropdown-items","menuClosedEvent":"LITHIUM:menuClosed"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#pageInformation","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox","feedbackSelector":".InfoMessage"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown_0","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_26713c9e268e2","feedbackSelector":".InfoMessage"});
+LITHIUM.AjaxFeedback(".lia-inline-ajax-feedback", "LITHIUM:hideAjaxFeedback", ".lia-inline-ajax-feedback-persist");
+LITHIUM.CustomEvent('.lia-custom-event', 'click');
+    ;(function ($) {
+    $('#community-activity-sorted-by').change(function() {
+    window.location = "https://forums.beyondblue.org.au/t5/supporting-family-and-friends/bd-p/c1-sc3-b4/page/27?&sort="+$(this).val();
+    });
+    })(LITHIUM.jQuery);
+
+    ;(function($){
+        $(document).ready(function(){
+            $('.view-more-text').click(function(ev){
+                var parentClass = $(this).closest('article').attr('class');
+                parentClass = "."+parentClass;
+                parentClass = parentClass.replace(/\s+/g, ".");
+
+
+                var truncateTextClass = parentClass + " .truncate-text";
+                var bodyText = parentClass + " .body-text";
+                $(truncateTextClass).css("display", "none");
+                $(this).css("display", "none");
+                $(bodyText).css("display", "block");
+
+            });
+        });
+    })(LITHIUM.jQuery);
+
+LITHIUM.PartialRenderProxy({"limuirsComponentRenderedEvent":"LITHIUM:limuirsComponentRendered","relayEvent":"LITHIUM:partialRenderProxyRelay","listenerEvent":"LITHIUM:partialRenderProxy"});
+LITHIUM.AjaxSupport.defaultAjaxFeedbackHtml = "<div class=\"lia-inline-ajax-feedback lia-component-common-widget-ajax-feedback\">\n\t\t\t<div class=\"AjaxFeedback\" id=\"ajaxFeedback_26713ca205e19\"><\/div>\n\t\t\t\n\t\n\n\t\n\n\t\t<\/div>";
+LITHIUM.AjaxSupport.defaultAjaxErrorHtml = "<span id=\"feedback-errorfeedback_26713ca4b0ad5\"> <\/span>\n\n\t\n\t\t<div class=\"InfoMessage lia-panel-feedback-inline-alert lia-component-common-widget-feedback\" id=\"feedback_26713ca4b0ad5\">\n\t\t\t<div role=\"alert\" class=\"lia-text\">\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t<p ng-non-bindable=\"\" tabindex=\"0\">\n\t\t\t\t\t\tSorry, unable to complete the action you requested.\n\t\t\t\t\t<\/p>\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t<\/div>\n\n\t\t\t\n\t\t<\/div>";
+LITHIUM.AjaxSupport({"ajaxOptionsParam":{"event":"LITHIUM:partialRenderProxyRelay","parameters":{"javascript.ignore_combine_and_minify":"true"}},"tokenId":"ajax","elementSelector":document,"action":"partialRenderProxyRelay","feedbackSelector":false,"url":"https://forums.beyondblue.org.au/t5/forums/forumpage.liabase.basebody.partialrenderproxy:partialrenderproxyrelay?t:ac=board-id/c1-sc3-b4/page/27","ajaxErrorEventName":"LITHIUM:ajaxError","token":"SNgkCt-u4UuQ52UdQa0SrfVsdGpeCAPtv_rwJ1WceNo."});
+LITHIUM.Auth.API_URL = "/t5/util/authcheckpage";
+LITHIUM.Auth.LOGIN_URL_TMPL = "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2FREPLACE_TEXT";
+LITHIUM.Auth.KEEP_ALIVE_URL = "/t5/status/blankpage?keepalive";
+LITHIUM.Auth.KEEP_ALIVE_TIME = 180000;
+LITHIUM.Auth.CHECK_SESSION_TOKEN = 'uNiSU41C1KHdizYWZh7LVeCOvFYpcW2d3RZcLjoA7Tc.';
+LITHIUM.AjaxSupport.useTickets = false;
+LITHIUM.Cache.CustomEvent.set([{"elementId":"link_26713c9e268e2","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"previous","page":26}}},{"elementId":"link_2_26713c9e268e2","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":1}}},{"elementId":"link_2_26713c9e268e2_1","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":26}}},{"elementId":"link_2_26713c9e268e2_3","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":28}}},{"elementId":"link_2_26713c9e268e2_5","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":252}}},{"elementId":"link_0_26713c9e268e2","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"next","page":28}}}]);
+LITHIUM.Loader.runJsAttached();
+
+});
+// -->
+  </script>
+ </body>
+</html>

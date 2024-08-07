@@ -1,0 +1,2485 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en" prefix="og: http://ogp.me/ns#">
+ <head>
+  <title>
+   Grief and loss - Beyond Blue Forums
+  </title>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRF736Z');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!--- --->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5ZMHVLYHXY">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZMHVLYHXY');
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <meta content="Support and advice following the loss of a family member, partner, spouse or someone close to you." name="description"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+  <meta content="2024-08-07T04:03:37-07:00" itemprop="dateModified"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/3" rel="canonical"/>
+  <meta content="Beyond Blue Forums" property="og:site_name"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/3" property="og:url"/>
+  <meta content="Support and advice following the loss of a family member, partner, spouse or someone close to you." property="og:description"/>
+  <meta content="Grief and loss - Beyond Blue Forums" property="og:title"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/board?board.id=c1-sc4-b4" id="link" rel="alternate" title="Grief and loss topics" type="application/rss+xml"/>
+  <link class="lia-link-navigation hidden live-links" href="/bxzzw28954/rss/boardmessages?board.id=c1-sc4-b4" id="link_0" rel="alternate" title="All Grief and loss posts" type="application/rss+xml"/>
+  <link href="/skins/6473357/84b919748c3cb9a440a2ecda353bd96b/beyondblue.css" rel="stylesheet" type="text/css"/>
+  <link href="https://forums.beyondblue.org.au/html/@3D7544B3D4DBCB8B8F0FC0226550CD09/assets/favicon.ico" rel="shortcut icon"/>
+  <script language="javascript" type="text/javascript">
+   <!--
+if("undefined"==typeof LITHIUM)var LITHIUM={};LITHIUM.Loader=function(){var h=[],a=[],b=!1,c=!1;return{onLoad:function(a){"function"===typeof a&&(!0===b?a():h.push(a))},onJsAttached:function(b){"function"===typeof b&&(!0===c?b():a.push(b))},runJsAttached:function(){c=!0;for(var b=0;b<a.length;b++)a[b]()},getOnLoadFunctions:function(){return h},setLoaded:function(){b=!0},isLoaded:function(){return b},isJsAttached:function(){return c}}}();"undefined"===typeof LITHIUM.Components&&(LITHIUM.Components={});LITHIUM.Components.render=function(h,a,b){LITHIUM.Loader.onLoad(function(){var c=LITHIUM.Components.renderUrl(h),k={type:"GET",dataType:"json"};LITHIUM.jQuery.extend(k,b||{});k.hasOwnProperty("url")||LITHIUM.jQuery.extend(k,{url:c});k.data=a;if("object"!==typeof k.data||null===k.data)k.data={};k.data.originalPageName=LITHIUM.Components.ORIGINAL_PAGE_NAME;k.data.originalPageContext=LITHIUM.Components.ORIGINAL_PAGE_CONTEXT;LITHIUM.jQuery.ajax(k)}.bind(this))};
+LITHIUM.Components.renderUrl=function(h,a){var b=LITHIUM.Components.RENDER_URL;LITHIUM.jQuery.each({"component-id":h},function(a,h){b=b.replace(new RegExp("#{"+a+"}","g"),h)});"undefined"!==typeof a&&(b+="?"+LITHIUM.jQuery.param(a));return b};
+LITHIUM.Components.renderInPlace=function(h,a,b,c){function k(b){var a=document.createElement("div"),c=(new Date).getTime()+Math.floor(1E7*Math.random()+1);a.setAttribute("id",c);b.parentNode.insertBefore(a,b);return c}if(c)var q=c;else!1===LITHIUM.Loader.isLoaded()&&(document.currentScript?q=k(document.currentScript):(c=document.querySelectorAll("script"),1<c.length&&(q=k(c[c.length-1]))));LITHIUM.Loader.onLoad(function(){var c=LITHIUM.jQuery,k=a||{},m=b||{},l=c("#"+q);c.extend(k,{renderedScripts:LITHIUM.RenderedScripts.toString(),
+"component-id":h});c.extend(m,{success:function(b){var a=b.content;LITHIUM.AngularSupport.isAngularEnabled()&&(a=LITHIUM.AngularSupport.compile(a));l.replaceWith(a);LITHIUM.AjaxSupport.ScriptsProcessor.handleScriptEvaluation(b);(b=LITHIUM.jQuery(a).attr("id"))&&LITHIUM.jQuery("#"+b).trigger("LITHIUM:ajaxSuccess:renderInPlace",{componentId:h})},error:function(a,c,h){0===a.readyState||0===a.status?l.html(""):l.html('\x3cspan class\x3d"lia-ajax-error-text"\x3e'+b.errorMessage+"\x3c/span\x3e");l.removeClass(LITHIUM.Css.BASE_LAZY_LOAD).removeClass("lia-fa-spin")}});
+l&&LITHIUM.Components.render(h,k,m)}.bind(this))};/*
+ modernizr v3.3.1
+ Build https://modernizr.com/download?-exiforientation-filereader-flash-setclasses-dontmin
+
+ Copyright (c)
+  Faruk Ates
+  Paul Irish
+  Alex Sexton
+  Ryan Seddon
+  Patrick Kettner
+  Stu Cox
+  Richard Herrera
+
+ MIT License
+ {
+      "name": "EXIF Orientation",
+      "property": "exiforientation",
+      "tags": ["image"],
+      "builderAliases": ["exif_orientation"],
+      "async": true,
+      "authors": ["Paul Sayre"],
+      "notes": [{
+        "name": "Article by Dave Perrett",
+        "href": "http://recursive-design.com/blog/2012/07/28/exif-orientation-handling-is-a-ghetto/"
+      },{
+        "name": "Article by Calvin Hass",
+        "href": "http://www.impulseadventure.com/photo/exif-orientation.html"
+      }]
+    }
+    ! {
+      "name": "Flash",
+      "property": "flash",
+      "tags": ["flash"],
+      "polyfills": ["shumway"]
+      }
+      ! {
+      "name": "File API",
+      "property": "filereader",
+      "caniuse": "fileapi",
+      "notes": [{
+        "name": "W3C Working Draft",
+        "href": "https://www.w3.org/TR/FileAPI/"
+      }],
+      "tags": ["file"],
+      "builderAliases": ["file_api"],
+      "knownBugs": ["Will fail in Safari 5 due to its lack of support for the standards defined FileReader object"]
+    }
+    !*/
+LITHIUM.LiModernizr=function(){(function(h,a,b){function c(e){var a=n.className,b=d._config.classPrefix||"";r&&(a=a.baseVal);d._config.enableJSClass&&(a=a.replace(new RegExp("(^|\\s)"+b+"no-js(\\s|$)"),"$1"+b+"js$2"));d._config.enableClasses&&(a+=" "+b+e.join(" "+b),r?n.className.baseVal=a:n.className=a)}function k(){return"function"!==typeof a.createElement?a.createElement(arguments[0]):r?a.createElementNS.call(a,"http://www.w3.org/2000/svg",arguments[0]):a.createElement.apply(a,arguments)}function q(){var e=
+a.body;e||(e=k(r?"svg":"body"),e.fake=!0);return e}function p(a,b){if("object"==typeof a)for(var e in a)u(a,e)&&p(e,a[e]);else{a=a.toLowerCase();e=a.split(".");var f=d[e[0]];2==e.length&&(f=f[e[1]]);if("undefined"!=typeof f)return d;b="function"==typeof b?b():b;1==e.length?d[e[0]]=b:(!d[e[0]]||d[e[0]]instanceof Boolean||(d[e[0]]=new Boolean(d[e[0]])),d[e[0]][e[1]]=b);c([(b&&0!=b?"":"no-")+e.join("-")]);d._trigger(a,b)}return d}var t=[],m=[],l={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,
+enableJSClass:!0,usePrefixes:!0},_q:[],on:function(a,b){var e=this;setTimeout(function(){b(e[a])},0)},addTest:function(a,b,c){m.push({name:a,fn:b,options:c})},addAsyncTest:function(a){m.push({name:null,fn:a})}},d=function(){};d.prototype=l;d=new d;var n=a.documentElement,r="svg"===n.nodeName.toLowerCase(),u;(function(){var a={}.hasOwnProperty;u="undefined"!==typeof a&&"undefined"!==typeof a.call?function(b,e){return a.call(b,e)}:function(a,b){return b in a&&"undefined"===typeof a.constructor.prototype[b]}})();
+l._l={};l.on=function(a,b){this._l[a]||(this._l[a]=[]);this._l[a].push(b);d.hasOwnProperty(a)&&setTimeout(function(){d._trigger(a,d[a])},0)};l._trigger=function(a,b){if(this._l[a]){var e=this._l[a];setTimeout(function(){var a;for(a=0;a<e.length;a++){var c=e[a];c(b)}},0);delete this._l[a]}};d._q.push(function(){l.addTest=p});d.addAsyncTest(function(){LITHIUM.Loader.onLoad(function(){var b=a.createElement("img");b.onerror=function(){p("exiforientation",!1,{aliases:["exif-orientation"]});a.body.removeChild(b)};
+b.onload=function(){p("exiforientation",2!==b.width,{aliases:["exif-orientation"]});a.body.removeChild(b)};b.src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QAiRXhpZgAASUkqAAgAAAABABIBAwABAAAABgASAAAAAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAABAAIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iiiigD/2Q\x3d\x3d";
+a.body&&(b.setAttribute("style","position: absolute; left: -9999;"),a.body.appendChild(b))})});d.addAsyncTest(function(){var b=function(a){n.contains(a)||n.appendChild(a)},c=function(a,b){var c=!!a;c&&(c=new Boolean(c),c.blocked="blocked"===a);p("flash",function(){return c});if(b&&g.contains(b)){for(;b.parentNode!==g;)b=b.parentNode;g.removeChild(b)}};try{var d="ActiveXObject"in h&&"Pan"in new h.ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(v){}if(!("plugins"in navigator&&"Shockwave Flash"in
+navigator.plugins||d)||r)c(!1);else{var f=k("embed"),g=q(),l;f.type="application/x-shockwave-flash";g.appendChild(f);if("Pan"in f||d){var m=function(){b(g);if(!n.contains(g))return g=a.body||g,f=k("embed"),f.type="application/x-shockwave-flash",g.appendChild(f),setTimeout(m,1E3);n.contains(f)?(l=f.style.cssText,""!==l?c("blocked",f):c(!0,f)):c("blocked");g.fake&&g.parentNode&&g.parentNode.removeChild(g)};setTimeout(m,10)}else b(g),c("blocked",f),g.fake&&g.parentNode&&g.parentNode.removeChild(g)}});
+d.addTest("filereader",!!(h.File&&h.FileList&&h.FileReader));(function(){var a,b;for(b in m)if(m.hasOwnProperty(b)){var c=[];var f=m[b];if(f.name&&(c.push(f.name.toLowerCase()),f.options&&f.options.aliases&&f.options.aliases.length))for(a=0;a<f.options.aliases.length;a++)c.push(f.options.aliases[a].toLowerCase());f="function"===typeof f.fn?f.fn():f.fn;for(a=0;a<c.length;a++){var g=c[a];g=g.split(".");1===g.length?d[g[0]]=f:(!d[g[0]]||d[g[0]]instanceof Boolean||(d[g[0]]=new Boolean(d[g[0]])),d[g[0]][g[1]]=
+f);t.push((f?"":"no-")+g.join("-"))}}})();c(t);delete l.addTest;delete l.addAsyncTest;for(b=0;b<d._q.length;b++)d._q[b]();LITHIUM.Modernizr=d})(window,document)}();(function(){LITHIUM.Globals=function(){var h={};return{preventGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];c in window&&void 0!==window[c]&&(h[c]=window[c],window[c]=void 0)}},restoreGlobals:function(a){for(var b=0;b<a.length;b++){var c=a[b];h.hasOwnProperty(c)&&(window[c]=h[c])}}}}()})();(function(h){Element.prototype.matches||(Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector);Element.prototype.closest||(Element.prototype.closest=function(a){var b=this;do{if(b.matches(a))return b;b=b.parentElement||b.parentNode}while(null!==b&&1===b.nodeType);return null})})(LITHIUM.jQuery);LITHIUM.PrefetchData = {"Components":{},"commonResults":{}};
+LITHIUM.DEBUG = false;
+LITHIUM.CommunityJsonObject = {
+  "Validation" : {
+    "image.description" : {
+      "min" : 0,
+      "max" : 1000,
+      "isoneof" : [ ],
+      "type" : "string"
+    },
+    "tkb.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    },
+    "blog.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "blog.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    }
+  },
+  "User" : {
+    "settings" : {
+      "imageupload.legal_file_extensions" : "*.jpg;*.JPG;*.jpeg;*.JPEG;*.gif;*.GIF;*.png;*.PNG",
+      "config.enable_avatar" : true,
+      "integratedprofile.show_klout_score" : true,
+      "layout.sort_view_by_last_post_date" : true,
+      "layout.friendly_dates_enabled" : true,
+      "profileplus.allow.anonymous.scorebox" : false,
+      "tkb.message_sort_default" : "topicPublishDate",
+      "layout.format_pattern_date" : "dd-MM-yyyy",
+      "config.require_search_before_post" : "off",
+      "isUserLinked" : false,
+      "integratedprofile.cta_add_topics_dismissal_timestamp" : -1,
+      "layout.message_body_image_max_size" : 1000,
+      "profileplus.everyone" : false,
+      "integratedprofile.cta_connect_wide_dismissal_timestamp" : -1,
+      "blog.toc_maximum_heading_level" : "",
+      "integratedprofile.hide_social_networks" : false,
+      "blog.toc_heading_indent" : "",
+      "contest.entries_per_page_num" : 20,
+      "layout.messages_per_page_linear" : 10,
+      "integratedprofile.cta_manage_topics_dismissal_timestamp" : -1,
+      "profile.shared_profile_test_group" : false,
+      "integratedprofile.cta_personalized_feed_dismissal_timestamp" : -1,
+      "integratedprofile.curated_feed_size" : 10,
+      "contest.one_kudo_per_contest" : false,
+      "integratedprofile.enable_social_networks" : false,
+      "integratedprofile.my_interests_dismissal_timestamp" : -1,
+      "profile.language" : "en",
+      "layout.friendly_dates_max_age_days" : 31,
+      "layout.threading_order" : "thread_ascending",
+      "blog.toc_heading_list_style" : "disc",
+      "useRecService" : false,
+      "layout.module_welcome" : "<h1>Hey there. It\u2019s nice to see you.<\/h1>\r\n<p>Read, share and learn from people who understand what you're going through.<\/p>",
+      "imageupload.max_uploaded_images_per_upload" : 100,
+      "imageupload.max_uploaded_images_per_user" : 1000,
+      "integratedprofile.connect_mode" : "",
+      "tkb.toc_maximum_heading_level" : "",
+      "tkb.toc_heading_list_style" : "disc",
+      "sharedprofile.show_hovercard_score" : true,
+      "config.search_before_post_scope" : "community",
+      "tkb.toc_heading_indent" : "",
+      "p13n.cta.recommendations_feed_dismissal_timestamp" : -1,
+      "imageupload.max_file_size" : 3072,
+      "layout.show_batch_checkboxes" : false,
+      "integratedprofile.cta_connect_slim_dismissal_timestamp" : -1
+    },
+    "isAnonymous" : true,
+    "policies" : {
+      "image-upload.process-and-remove-exif-metadata" : false
+    },
+    "registered" : false,
+    "emailRef" : "",
+    "id" : -1,
+    "login" : "Anonymous"
+  },
+  "Server" : {
+    "communityPrefix" : "/bxzzw28954",
+    "nodeChangeTimeStamp" : 1723035268540,
+    "tapestryPrefix" : "/t5",
+    "deviceMode" : "DESKTOP",
+    "responsiveDeviceMode" : "DESKTOP",
+    "membershipChangeTimeStamp" : "0",
+    "version" : "24.6",
+    "branch" : "24.6-release",
+    "showTextKeys" : false
+  },
+  "Config" : {
+    "phase" : "prod",
+    "integratedprofile.cta.reprompt.delay" : 30,
+    "profileplus.tracking" : {
+      "profileplus.tracking.enable" : false,
+      "profileplus.tracking.click.enable" : false,
+      "profileplus.tracking.impression.enable" : false
+    },
+    "app.revision" : "2408011307-s2677dd5778-b135",
+    "navigation.manager.community.structure.limit" : "1000"
+  },
+  "Activity" : {
+    "Results" : [ ]
+  },
+  "NodeContainer" : {
+    "viewHref" : "https://forums.beyondblue.org.au/t5/people-like-me/ct-p/c1-sc4",
+    "description" : "When it comes to mental health experiences, identity is important. Take the opportunity to connect with people dealing with similar issues.",
+    "id" : "c1-sc4",
+    "shortTitle" : "People like me",
+    "title" : "People like me",
+    "nodeType" : "category"
+  },
+  "Page" : {
+    "skins" : [
+      "beyondblue",
+      "theme_hermes",
+      "responsive_peak"
+    ],
+    "authUrls" : {
+      "loginUrl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3",
+      "loginUrlNotRegistered" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3",
+      "loginUrlNotRegisteredDestTpl" : "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?redirectreason=notregistered&referer=%7B%7BdestUrl%7D%7D"
+    },
+    "name" : "ForumPage",
+    "rtl" : false,
+    "object" : {
+      "viewHref" : "/t5/grief-and-loss/bd-p/c1-sc4-b4",
+      "id" : "c1-sc4-b4",
+      "page" : "ForumPage",
+      "type" : "Board"
+    }
+  },
+  "WebTracking" : {
+    "Activities" : { },
+    "path" : "Community:Beyond Blue Forums/Category:Forums/Category:People like me/Board:Grief and loss"
+  },
+  "Feedback" : {
+    "targeted" : { }
+  },
+  "Seo" : {
+    "markerEscaping" : {
+      "pathElement" : {
+        "prefix" : "@",
+        "match" : "^[0-9][0-9]$"
+      },
+      "enabled" : false
+    }
+  },
+  "TopLevelNode" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "description" : "",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums",
+    "nodeType" : "Community"
+  },
+  "Community" : {
+    "viewHref" : "https://forums.beyondblue.org.au/",
+    "integratedprofile.lang_code" : "en",
+    "integratedprofile.country_code" : "US",
+    "id" : "bxzzw28954",
+    "shortTitle" : "Beyond Blue Forums",
+    "title" : "Beyond Blue Forums"
+  },
+  "CoreNode" : {
+    "conversationStyle" : "forum",
+    "viewHref" : "https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4",
+    "settings" : { },
+    "description" : "Support and advice following the loss of a family member, partner, spouse or someone close to you.",
+    "id" : "c1-sc4-b4",
+    "shortTitle" : "Grief and loss",
+    "title" : "Grief and loss",
+    "nodeType" : "Board",
+    "ancestors" : [
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/people-like-me/ct-p/c1-sc4",
+        "description" : "When it comes to mental health experiences, identity is important. Take the opportunity to connect with people dealing with similar issues.",
+        "id" : "c1-sc4",
+        "shortTitle" : "People like me",
+        "title" : "People like me",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/t5/forums/ct-p/c1",
+        "description" : "Beyond Blue's Forums are a great place to chat to others about mental health conditions, and to help develop ways to beat the blues and stay well.",
+        "id" : "c1",
+        "shortTitle" : "Forums",
+        "title" : "Forums",
+        "nodeType" : "category"
+      },
+      {
+        "viewHref" : "https://forums.beyondblue.org.au/",
+        "description" : "",
+        "id" : "bxzzw28954",
+        "shortTitle" : "Beyond Blue Forums",
+        "title" : "Beyond Blue Forums",
+        "nodeType" : "Community"
+      }
+    ]
+  }
+};
+LITHIUM.Components.RENDER_URL = "/t5/util/componentrenderpage/component-id/#{component-id}?render_behavior=raw";
+LITHIUM.Components.ORIGINAL_PAGE_NAME = 'forums/ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_ID = 'ForumPage';
+LITHIUM.Components.ORIGINAL_PAGE_CONTEXT = 'YL15lB6ptdexfMDAeYk2p1Yu3Ie7KJhc8m38UV8S4GZwP6yga_dIff6NAEeoFxJ0yb0JiCLnJ-EXTS9HDSM_ugFQ-vbNLrbbE6lh8BIjqtfTA4lN3k-3H10HATpi-MOGIUwdfRUk5rIwDuYpeojr2SCdMA5-Zol1u3x8wJ6KFbUt3-cws8aJKYE8ZAXXCOFcSVmIG1JYyEuCy_CgpCrH8Ipeb7PW77u7vmAaol2IVwQdr6lEkYyVS8FdAyQreBHxcYQ8zR8S_EoHqLwQjzJB8-UMXvj5t0MFAysNOtnJB_-UVFDwRc75CYvpcBv1ZrT8XW_Ge2MmfoaYwcnUkH4fZw..';
+LITHIUM.Css = {
+  "BASE_DEFERRED_IMAGE" : "lia-deferred-image",
+  "BASE_BUTTON" : "lia-button",
+  "BASE_SPOILER_CONTAINER" : "lia-spoiler-container",
+  "BASE_TABS_INACTIVE" : "lia-tabs-inactive",
+  "BASE_TABS_ACTIVE" : "lia-tabs-active",
+  "BASE_AJAX_REMOVE_HIGHLIGHT" : "lia-ajax-remove-highlight",
+  "BASE_FEEDBACK_SCROLL_TO" : "lia-feedback-scroll-to",
+  "BASE_FORM_FIELD_VALIDATING" : "lia-form-field-validating",
+  "BASE_FORM_ERROR_TEXT" : "lia-form-error-text",
+  "BASE_FEEDBACK_INLINE_ALERT" : "lia-panel-feedback-inline-alert",
+  "BASE_BUTTON_OVERLAY" : "lia-button-overlay",
+  "BASE_TABS_STANDARD" : "lia-tabs-standard",
+  "BASE_AJAX_INDETERMINATE_LOADER_BAR" : "lia-ajax-indeterminate-loader-bar",
+  "BASE_AJAX_SUCCESS_HIGHLIGHT" : "lia-ajax-success-highlight",
+  "BASE_CONTENT" : "lia-content",
+  "BASE_JS_HIDDEN" : "lia-js-hidden",
+  "BASE_AJAX_LOADER_CONTENT_OVERLAY" : "lia-ajax-loader-content-overlay",
+  "BASE_FORM_FIELD_SUCCESS" : "lia-form-field-success",
+  "BASE_FORM_WARNING_TEXT" : "lia-form-warning-text",
+  "BASE_FORM_FIELDSET_CONTENT_WRAPPER" : "lia-form-fieldset-content-wrapper",
+  "BASE_AJAX_LOADER_OVERLAY_TYPE" : "lia-ajax-overlay-loader",
+  "BASE_FORM_FIELD_ERROR" : "lia-form-field-error",
+  "BASE_SPOILER_CONTENT" : "lia-spoiler-content",
+  "BASE_FORM_SUBMITTING" : "lia-form-submitting",
+  "BASE_EFFECT_HIGHLIGHT_START" : "lia-effect-highlight-start",
+  "BASE_FORM_FIELD_ERROR_NO_FOCUS" : "lia-form-field-error-no-focus",
+  "BASE_EFFECT_HIGHLIGHT_END" : "lia-effect-highlight-end",
+  "BASE_SPOILER_LINK" : "lia-spoiler-link",
+  "FACEBOOK_LOGOUT" : "lia-component-users-action-logout",
+  "BASE_DISABLED" : "lia-link-disabled",
+  "FACEBOOK_SWITCH_USER" : "lia-component-admin-action-switch-user",
+  "BASE_FORM_FIELD_WARNING" : "lia-form-field-warning",
+  "BASE_AJAX_LOADER_FEEDBACK" : "lia-ajax-loader-feedback",
+  "BASE_AJAX_LOADER_OVERLAY" : "lia-ajax-loader-overlay",
+  "BASE_LAZY_LOAD" : "lia-lazy-load"
+};
+LITHIUM.noConflict = true;
+LITHIUM.useCheckOnline = false;
+LITHIUM.RenderedScripts = [
+  "jquery.lithium-selector-extensions.js",
+  "DataHandler.js",
+  "jquery.ui.resizable.js",
+  "jquery.function-utils-1.0.js",
+  "Forms.js",
+  "jquery.js",
+  "jquery.effects.core.js",
+  "Events.js",
+  "PolyfillsAll.js",
+  "jquery.iframe-shim-1.0.js",
+  "Loader.js",
+  "Throttle.js",
+  "AjaxSupport.js",
+  "InformationBox.js",
+  "jquery.effects.slide.js",
+  "ForceLithiumJQuery.js",
+  "DropDownMenu.js",
+  "jquery.viewport-1.0.js",
+  "jquery.ajax-cache-response-1.0.js",
+  "jquery.fileupload.js",
+  "jquery.position-toggle-1.0.js",
+  "Lithium.js",
+  "Globals.js",
+  "jquery.ui.mouse.js",
+  "ElementMethods.js",
+  "jquery.ui.core.js",
+  "Sandbox.js",
+  "jquery.json-2.6.0.js",
+  "jquery.css-data-1.0.js",
+  "jquery.ui.draggable.js",
+  "jquery.ui.widget.js",
+  "jquery.clone-position-1.0.js",
+  "Text.js",
+  "jquery.scrollTo.js",
+  "json2.js",
+  "ActiveCast3.js",
+  "SpoilerToggle.js",
+  "LiModernizr.js",
+  "jquery.delayToggle-1.0.js",
+  "DropDownMenuVisibilityHandler.js",
+  "DeferredImages.js",
+  "ResizeSensor.js",
+  "jquery.tmpl-1.1.1.js",
+  "Components.js",
+  "jquery.appear-1.1.1.js",
+  "jquery.blockui.js",
+  "jquery.ui.dialog.js",
+  "Namespace.js",
+  "Cache.js",
+  "PartialRenderProxy.js",
+  "NoConflict.js",
+  "AjaxFeedback.js",
+  "jquery.hoverIntent-r6.js",
+  "Auth.js",
+  "ElementQueries.js",
+  "CustomEvent.js",
+  "jquery.ui.position.js",
+  "jquery.iframe-transport.js",
+  "Video.js",
+  "prism.js"
+];(function(){LITHIUM.AngularSupport=function(){function g(a,c){a=a||{};for(var b in c)"[object object]"===Object.prototype.toString.call(c[b])?a[b]=g(a[b],c[b]):a[b]=c[b];return a}var d,f,b={coreModule:"li.community",coreModuleDeps:[],noConflict:!0,bootstrapElementSelector:".lia-page .min-width .lia-content",bootstrapApp:!0,debugEnabled:!1,useCsp:!0,useNg2:!1},k=function(){var a;return function(b){a||(a=document.createElement("a"));a.href=b;return a.href}}();LITHIUM.Angular={};return{preventGlobals:LITHIUM.Globals.preventGlobals,
+restoreGlobals:LITHIUM.Globals.restoreGlobals,init:function(){var a=[],c=document.querySelector(b.bootstrapElementSelector);a.push(b.coreModule);b.customerModules&&0<b.customerModules.length&&a.concat(b.customerModules);b.useCsp&&(c.setAttribute("ng-csp","no-unsafe-eval"),c.setAttribute("li-common-non-bindable",""));d=LITHIUM.angular.module(b.coreModule,b.coreModuleDeps);d.config(["$locationProvider","$provide","$injector","$logProvider","$compileProvider","$qProvider","$anchorScrollProvider",function(a,
+c,e,d,f,g,h){h.disableAutoScrolling();h=document.createElement("base");h.setAttribute("href",k(location));document.getElementsByTagName("head")[0].appendChild(h);window.history&&window.history.pushState&&a.html5Mode({enabled:!0,requireBase:!0,rewriteLinks:!1}).hashPrefix("!");d.debugEnabled(b.debugEnabled);f.debugInfoEnabled(b.debugEnabled);e.has("$uibModal")&&c.decorator("$uibModal",["$delegate",function(a){var b=a.open;a.open=function(a){a.backdropClass=(a.backdropClass?a.backdropClass+" ":"")+
+"lia-modal-backdrop";a.windowClass=(a.windowClass?a.windowClass+" ":"")+"lia-modal-window";return b(a)};return a}]);e.has("uibDropdownConfig")&&(e.get("uibDropdownConfig").openClass="lia-dropdown-open");e.has("uibButtonConfig")&&(e.get("uibButtonConfig").activeClass="lia-link-active");g.errorOnUnhandledRejections(!1)}]);if(b.bootstrapApp)f=b.useNg2?LITHIUM.Angular.upgradeAdapter.bootstrap(c,a):LITHIUM.angular.bootstrap(c,a);else LITHIUM.Loader.onLoad(function(){f=LITHIUM.angular.element(c).injector()});
+LITHIUM.Angular.app=d},compile:function(a){void 0===a&&(a=document.querySelector(b.bootstrapElementSelector));var c;if(void 0===a||""===a)return a;f.invoke(["$rootScope","$compile",function(b,d){try{var e=LITHIUM.angular.element(a)}catch(l){e=LITHIUM.angular.element("\x3cli:safe-wrapper\x3e"+a+"\x3c/li:safe-wrapper\x3e")}e.attr("li-common-non-bindable","");c=d(e)(b);b.$digest()}]);return c},isAngularEnabled:function(){return void 0!==d},updateLocationUrl:function(a,b){f.invoke(["$location","$rootScope",
+"$browser",function(c,d,e){a=""===a?"?":a;c.url(a,b);d.$apply()}])},setOptions:function(a){return g(b,a)},getOptions:function(){return b},initGlobal:function(a){LITHIUM.angular=a;b.useNg2&&(LITHIUM.Angular.upgradeAdapter=new ng.upgrade.UpgradeAdapter)}}}()})();(function(){LITHIUM.ScriptLoader=function(){function d(a){a in e||(e[a]={loaded:!1});return e[a]}function f(){g.filter(function(a){return!a.loaded}).forEach(function(a){var b=!0;a.labels.forEach(function(a){!1===d(a).loaded&&(b=!1)});b&&(a.loaded=!0,a.callback())})}var e={},g=[];return{load:function(a){a.forEach(function(a){var b=document.getElementsByTagName("head")[0]||document.documentElement,c=document.createElement("script");c.src=a.url;c.async=!1;a.crossorigin&&a.integrity&&(c.setAttribute("crossorigin",
+a.crossorigin),c.setAttribute("integrity",a.integrity));b.insertBefore(c,b.firstChild);d(a.label)})},setLoaded:function(a){d(a).loaded=!0;f()},ready:function(a,b){g.push({labels:a,callback:b,loaded:!1});f()}}}()})();LITHIUM.ScriptLoader.load([{"name":"lia-scripts-common-min.js","label":"common","url":"/t5/scripts/4AC59D47FB72DFC04A7151614B061671/lia-scripts-common-min.js"},{"name":"lia-scripts-body-min.js","label":"body","url":"/t5/scripts/FF28D7FB6C839EF784BB5D2416B794BC/lia-scripts-body-min.js"}]);
+// -->
+  </script>
+ </head>
+ <body class="lia-board lia-user-status-anonymous ForumPage lia-body lia-a11y" id="lia-body">
+  <div class="ServiceNodeInfoHeader" id="A20-187-8">
+  </div>
+  <div class="lia-page">
+   <center>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+     <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MRF736Z" style="display:none;visibility:hidden" width="0">
+     </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="MinimumWidthContainer">
+     <div class="min-width-wrapper">
+      <div class="min-width">
+       <div class="lia-content">
+        <div class="lia-quilt lia-quilt-forum-page lia-quilt-layout-two-column-side-main lia-top-quilt">
+         <div class="lia-quilt-row lia-quilt-row-header">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="lia-quilt lia-quilt-header lia-quilt-layout-custom-community-header lia-component-quilt-header">
+             <div class="lia-quilt-row lia-quilt-row-header-top">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-top-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-community-header-left">
+                 <div class="custom-community-header-logo">
+                  <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                   Beyond Blue Website
+                  </a>
+                 </div>
+                 <div class="custom-community-header-navigation">
+                  <nav role="navigation">
+                   <ul>
+                    <li>
+                     <a href="/">
+                      Forums
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/forums/recentpostspage/post-type/thread">
+                      All discussions
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                      Forums guidelines
+                     </a>
+                    </li>
+                   </ul>
+                  </nav>
+                 </div>
+                </div>
+                <div class="custom-community-header-right">
+                 <div class="custom-community-header-user-navigation">
+                  <div class="custom-login">
+                   <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+                    Login
+                   </a>
+                   <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+                    Sign up
+                   </a>
+                  </div>
+                  <a class="lia-link-navigation custom-emergency-support-link header-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                   Immediate support
+                  </a>
+                 </div>
+                 <div class="lia-slide-out-nav-menu">
+                  <button class="lia-slide-out-nav-menu-wrapper">
+                  </button>
+                  <div class="custom-slide-out-menu-container hide">
+                   <div class="custom-slide-out-menu">
+                    <ul class="lia-nav-item-container">
+                     <li class="lia-nav-item">
+                      <a href="/t5/forums/recentpostspage/post-type/thread">
+                       <span class="lia-nav-item-text">
+                        All discussions
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                     <li class="lia-nav-item">
+                      <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                       <span class="lia-nav-item-text">
+                        Forums guidelines
+                       </span>
+                       <span class="lia-nav-icon lia-nav-icon-right">
+                        <img src="https://forums.beyondblue.org.au/html/@B1244B5F91A0F9FE77AB14C1A07F6B07/assets/icon-chevron-right.svg"/>
+                       </span>
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <div class="custom-user-action">
+                    <div class="login-text">
+                     Already a forum member?
+                    </div>
+                    <div class="custom-login">
+                     <a class="login lia-button lia-button-secondary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+                      Login
+                     </a>
+                     <a class="register lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+                      Sign up
+                     </a>
+                    </div>
+                    <a class="lia-link-navigation custom-emergency-support-link" href="https://www.beyondblue.org.au/get-support/get-immediate-support" target="_blank">
+                     Immediate support
+                    </a>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-search">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-search-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single lia-mark-empty">
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-hero">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-hero-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div class="custom-hero-welcome">
+                 <div class="hero-left-content">
+                  <div class="custom-node-information lia-node-header-info lia-component-common-widget-node-information">
+                   <h1 class="lia-node-header-title">
+                    Grief and loss
+                   </h1>
+                   <p class="lia-node-header-description">
+                    Support and advice following the loss of a family member, partner, spouse or someone close to you.
+                   </p>
+                  </div>
+                  <style>
+                   /*#lia-body .lia-quilt-row-header-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("html/assets/people-1-desktop.png") no-repeat center / cover;
+}*/
+.custom-hero-welcome .hero-right-content{
+    background-image: url("https://forums.beyondblue.org.au/html/assets/people-1-desktop.png");
+}
+                  </style>
+                  <div class="hero-mobile-img">
+                   <img src="https://forums.beyondblue.org.au/html/assets/people-1-desktop.png">
+                   </img>
+                  </div>
+                 </div>
+                 <div class="hero-right-content">
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-subnav">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-subnav-content lia-mark-empty">
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-bottom">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-header-bottom-content">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+                <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+                 <ul class="lia-list-standard-inline" id="list" role="list">
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_1">
+                    Beyond Blue Forums
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb">
+                   <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/people-like-me/ct-p/c1-sc4" id="link_2">
+                    People like me
+                   </a>
+                  </li>
+                  <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                   <span>
+                    <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_0" role="img">
+                    </span>
+                   </span>
+                  </li>
+                  <li class="lia-breadcrumb-node crumb final-crumb">
+                   <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_3">
+                    Grief and loss
+                   </span>
+                  </li>
+                 </ul>
+                </div>
+                <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown">
+                 <div class="lia-menu-navigation">
+                  <div class="dropdown-default-item">
+                   <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink" role="button" title="Show option menu">
+                    Options
+                   </a>
+                   <div class="dropdown-positioning">
+                    <div class="dropdown-positioning-static">
+                     <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems" role="list">
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew">
+                        Mark all as New
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead">
+                        Mark all as Read
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription">
+                        Follow
+                       </span>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc4-b4" id="rssBoard">
+                        Subscribe to RSS Feed
+                       </a>
+                      </li>
+                      <li aria-hidden="true">
+                       <span class="lia-separator lia-component-common-widget-link-separator">
+                        <span class="lia-separator-post">
+                        </span>
+                        <span class="lia-separator-pre">
+                        </span>
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView">
+                        Threaded format
+                       </span>
+                      </li>
+                      <li role="listitem">
+                       <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView">
+                        Linear Format
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="lia-quilt-row lia-quilt-row-header-feedback">
+              <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-feedback">
+               <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-main">
+          <div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-left lia-quilt-column-side-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-faq-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@BAAB69946049AB55123D94974B386EBB/assets/faq-card-icon-blue.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                FAQ
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Find answers to some of the more frequently asked questions on the Forums.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/faq">
+                View the FAQ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="custom-guideline-card">
+             <div class="custom-card-content">
+              <img src="https://forums.beyondblue.org.au/html/@25263274F392BFE568ECA6A669CC71B4/assets/guidelines-card-icon.svg"/>
+              <div class="custom-card-title-content">
+               <p class="custom-card-title">
+                Forums guidelines
+               </p>
+              </div>
+              <div class="custom-card-description">
+               <p class="custom-card-description-text">
+                Our guidelines keep the Forums a safe place for people to share and learn information.
+               </p>
+              </div>
+              <div class="custom-card-content-link">
+               <a class="lia-link-navigation custom-card-link" href="/t5/custom/page/page-id/forums-guidelines">
+                View the guidelines
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="lia-panel lia-panel-standard custom-jumpto">
+             <div class="lia-decoration-border">
+              <div class="lia-decoration-border-content">
+               <div class="lia-panel-heading-bar-wrapper">
+                <div class="lia-panel-heading-bar">
+                 <span aria-level="3" class="lia-panel-heading-bar-title" role="heading">
+                  Jump to
+                 </span>
+                </div>
+               </div>
+               <div class="lia-panel-content">
+                <ul>
+                 <li>
+                  <a href="/t5/introduce-yourself/ct-p/c1-sc1">
+                   Introduce yourself
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/mental-health-conditions/ct-p/c1-sc2">
+                   Mental health conditions
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/caring-for-myself-and-others/ct-p/c1-sc3">
+                   Caring for myself and others
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/t5/people-like-me/ct-p/c1-sc4">
+                   People like me
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="lia-quilt-column lia-quilt-column-18 lia-quilt-column-right lia-quilt-column-main-content">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+            <div class="custom-main-top">
+             <div aria-label="breadcrumbs" class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" role="navigation">
+              <ul class="lia-list-standard-inline" id="list_0" role="list">
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-community lia-breadcrumb-community lia-breadcrumb-forum" href="/" id="link_4">
+                 Beyond Blue Forums
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-community lia-breadcrumb-community lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_1" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb">
+                <a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" href="/t5/people-like-me/ct-p/c1-sc4" id="link_5">
+                 People like me
+                </a>
+               </li>
+               <li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+                <span>
+                 <span alt="" aria-label="" class="lia-img-icon-list-separator-breadcrumb lia-fa-icon lia-fa-list lia-fa-separator lia-fa-breadcrumb lia-fa" id="display_2" role="img">
+                 </span>
+                </span>
+               </li>
+               <li class="lia-breadcrumb-node crumb final-crumb">
+                <span aria-disabled="true" class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum lia-link-disabled" id="link_6">
+                 Grief and loss
+                </span>
+               </li>
+              </ul>
+             </div>
+             <div class="lia-menu-navigation-wrapper lia-js-hidden lia-menu-action lia-page-options lia-component-community-widget-page-options" id="actionMenuDropDown_0">
+              <div class="lia-menu-navigation">
+               <div class="dropdown-default-item">
+                <a aria-expanded="false" aria-label="Options" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" href="#" id="dropDownLink_0" role="button" title="Show option menu">
+                 Options
+                </a>
+                <div class="dropdown-positioning">
+                 <div class="dropdown-positioning-static">
+                  <ul aria-label="Dropdown menu items" class="lia-menu-dropdown-items" id="dropdownmenuitems_0" role="list">
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-new-link lia-link-disabled lia-component-forums-action-mark-new" id="markNew_0">
+                     Mark all as New
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation mark-read-link lia-link-disabled lia-component-forums-action-mark-read" id="markRead_0">
+                     Mark all as Read
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation addBoardUserEmailSubscription lia-link-disabled lia-component-subscriptions-action-add-board-user-email" id="addBoardUserEmailSubscription_0">
+                     Follow
+                    </span>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <a class="lia-link-navigation rss-board-link lia-component-rss-action-board" href="/bxzzw28954/rss/board?board.id=c1-sc4-b4" id="rssBoard_0">
+                     Subscribe to RSS Feed
+                    </a>
+                   </li>
+                   <li aria-hidden="true">
+                    <span class="lia-separator lia-component-common-widget-link-separator">
+                     <span class="lia-separator-post">
+                     </span>
+                     <span class="lia-separator-pre">
+                     </span>
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation threaded-view-link lia-link-disabled lia-component-forums-action-threaded-view" id="threadedView_0">
+                     Threaded format
+                    </span>
+                   </li>
+                   <li role="listitem">
+                    <span aria-disabled="true" class="lia-link-navigation linear-view-link lia-link-disabled lia-component-forums-action-linear-view" id="linearView_0">
+                     Linear Format
+                    </span>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="custom-start-conversation-button">
+             <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+              Start a discussion
+             </a>
+            </div>
+            <div class="custom-message-list pinned-discussions">
+             <section>
+              <header>
+               <img src="https://forums.beyondblue.org.au/html/@A33D1742676F23D7D5B8721EE90E7277/assets/icon-pin.svg">
+                <h2>
+                 Pinned discussions
+                </h2>
+               </img>
+              </header>
+              <article class="custom-message-tile custom-thread-locked custom-thread-floated custom-thread-unread custom-message-number-0">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/3729" title="View profile">
+                  <img alt="Sophie_M" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/image-id/131i13B0E4FF8A188FB9/image-dimensions/220x220/image-coordinates/0%2C0%2C200%2C200?v=v2">
+                  </img>
+                 </a>
+                 <a href="/t5/grief-and-loss/welcome-to-the-grief-and-loss-section/td-p/428725" title="Welcome to the Grief and Loss section">
+                  Welcome to the Grief and Loss section
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    27
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Everyone’s experience of grief or loss is unique. You might experience
+all kinds of difficult or overwhelming emotions, and you might sometimes
+wonder if the sadness will ever end. This is a normal reaction to loss.
+There is no right or wrong way to ...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Everyone’s experience of grief or loss is unique. You might experience
+all kinds of difficult or overwhelming emotions, and you might sometimes
+wonder if the sadness will ever end. This is a normal reaction to loss.
+There is no right or wrong way to grieve, but it can help to allow
+yourself to: share your grief, and let others support you. This forum
+category is for all discussions relating to how grief and loss has
+affected you, providing a space for you to express your feelings,
+discuss difficult moments and anniversaries, and honour the memories of
+your lost loved ones. Please be aware that threads in this forum may
+contain discussions of self-harm and suicide.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <img alt="Sophie_M" class="lia-user-rank-message" src="/html/badge_icons/community-moderator.png">
+                    <a href="/t5/user/viewprofilepage/user-id/3729" rel="author" title="View profile">
+                     <span class="login-bold">
+                      Sophie_M
+                     </span>
+                    </a>
+                   </img>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Moderator
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   17-10-2018
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  27 unread
+                 </span>
+                </div>
+                <div class="custom-thread-floated">
+                 <img src="https://forums.beyondblue.org.au/html/@A33D1742676F23D7D5B8721EE90E7277/assets/icon-pin.svg"/>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+             </section>
+            </div>
+            <div class="custom-message-list all-discussions">
+             <section>
+              <header>
+               <h2>
+                All discussions
+               </h2>
+               <div>
+                <label for="community-activity-sorted-by">
+                 Sorted by:
+                </label>
+                <select id="community-activity-sorted-by">
+                 <option value="recent">
+                  Most recent
+                 </option>
+                 <option value="replies">
+                  Most commented
+                 </option>
+                 <option value="kudos">
+                  Most supported
+                 </option>
+                </select>
+                <div class="custom-start-conversation-button">
+                 <a class="lia-button lia-button-primary" href="/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2Fforums.beyondblue.org.au%2Ft5%2Fgrief-and-loss%2Fbd-p%2Fc1-sc4-b4%2Fpage%2F3">
+                  Start a discussion
+                 </a>
+                </div>
+               </div>
+              </header>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-0">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/34390" title="View profile">
+                  <img alt="JustAnYtka" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/image-id/303i25FFCDEC2BE7621E/image-dimensions/220x220/image-coordinates/0%2C0%2C220%2C220?v=v2"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/lost-my-childhood-dog/td-p/591744" title="Lost my childhood dog">
+                  Lost my childhood dog
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    2
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Three days ago my dog, that my family has has since I was 6, had a
+stroke with absolutely no warning. The next day we had to euthanize him.
+We'd had him for over 10 year. 5 months ago we lost his brother, due to
+cancer. We had a week with him to say ...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Three days ago my dog, that my family has has since I was 6, had a
+stroke with absolutely no warning. The next day we had to euthanize him.
+We'd had him for over 10 year. 5 months ago we lost his brother, due to
+cancer. We had a week with him to say goodbye and process what was about
+to happen, but with Baxter, it just happened, and we couldn't let him
+suffer. It was a bit easier when his brother passed, because we had him
+to cuddle and distract ourselves with. We don't have that this time.
+I've been staying up until as late at 8am, because I can't deal with the
+silence in my brain that happens when I try to sleep. So I wait until
+I'm exhausted and fall asleep instantly. Everywhere I look, I'm reminded
+of his absence. His beds, his water bowl, his fur covering everything.
+This is the worst pain I've ever felt and I don't know if I can keep
+dealing with this.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/34390" rel="author" title="View profile">
+                    <span class="">
+                     JustAnYtka
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   20-05-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  2 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-1">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/45602" title="View profile">
+                  <img alt="Suzie_Q" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/losing-husband/td-p/593230" title="Losing husband">
+                  Losing husband
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 Last year in February I started chatting to a guy through tinder. He was
+going through cancer treatment so we held off on meeting but come June,
+we finally met. He was done with his treatment and in the clear. Little
+did we know 2 months later we fou...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 Last year in February I started chatting to a guy through tinder. He was
+going through cancer treatment so we held off on meeting but come June,
+we finally met. He was done with his treatment and in the clear. Little
+did we know 2 months later we found out the cancer had returned and it
+was aggressive. Long story short, lots of hospitals
+trips/scans/appointments and treatment. September before he went in for
+surgery, he proposed just 3 months after we got together. It was the
+easiest yes. We planned for a March 2024 wedding but with some more bad
+news we brought it forward and got married in October. At the start of
+January 2024 he ended up in the hospital for 2 weeks and then came home,
+we thought he was on the mend but little did we know when I had to call
+and ambulance and they took him away on the Monday that he wouldn’t be
+coming home and passing away not even a week later. We only got to spend
+7 months together in total, in that short amount of time I got to become
+a wife, now I’m a widow at 27 years old. I’m so lost without him, before
+I met him I was still living at home with my parents but when we found
+out his cancer was back I moved in to his house with him. Now I’m in his
+house all alone. It’s coming up 5 months since he has been gone and I’m
+so lonely and missing that emotional connection. I worry I won’t ever be
+able to find something like what me and him had ever again. It was
+special. Majority of my “family” have not been as supportive as I
+thought they would be. I’ve had to cut some of them off social media. I
+feel like im the insane one and I’m the one being ridiculous but at the
+same time it’s so unfair they haven’t just been here for me and I can’t
+cope with the no support at the moment. I’m angry, sad, frustrated,
+everything but happy.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/45602" rel="author" title="View profile">
+                    <span class="">
+                     Suzie_Q
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   10-06-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-2">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/14386" title="View profile">
+                  <img alt="smallwolf" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/image-id/34i9AD2AEC4832EE2D2/image-dimensions/220x220/image-coordinates/0%2C0%2C220%2C220?v=v2"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/reflection-on-the-death-of-dad/td-p/583903" title="Reflection on the death of Dad">
+                  Reflection on the death of Dad
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    67
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My father passed away last Wednesday after a short battle with
+Parkinson’s disease. He was only in palliative care for less than a week
+before he died, having moved into an aged care facility just two months
+prior. His health deteriorated rapidly tho...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My father passed away last Wednesday after a short battle with
+Parkinson’s disease. He was only in palliative care for less than a week
+before he died, having moved into an aged care facility just two months
+prior. His health deteriorated rapidly those last few days, and I said
+my goodbye on the Saturday before his passing. I even have a picture
+from this time. Grief is complex and personal, touching each of us
+differently. The famous stages of grief – denial, anger, bargaining,
+depression, and acceptance – were originally applied to those facing
+their own mortality, not grieving loved ones. Somehow that changed over
+time, and we now use those stages to understand mourning too. But it’s
+not so simple or linear. People oscillate between emotions, sometimes
+feeling several at once. For me, there is acceptance of my father’s
+passing, mixed with relief his suffering is over. But there is no anger
+or depression yet, though it may come. Our relationship was complicated.
+He was not one for heartfelt talks or confiding emotions. We had little
+in common, divergent worldviews and interests. He was not my closest
+confidant; we struggled connecting on a deeper level. Does that make him
+a bad father? No, just a product of his generation and life experiences.
+But it leaves me unsure how to feel about his loss. There is sadness,
+yes, but also distance. I mourn the relationship we could have had as
+much as the one we did. Still, his passing has affected me in unexpected
+ways. My sleep is disrupted, concentration wavering. I feel foggy, prone
+to mistakes and forgetfulness. These are only visible in action and
+behaviour. Minor frustrations set me off. And apologies to those
+concerned. This hypersensitivity and emotional deregulation catches me
+off guard. Grief manifests itself in the body and mind, even when the
+heart feels conflicted. The loss of a parent, however imperfect, shakes
+us at a core level. Right now, I have the feeling of a lump in my
+throat. It represents the loss of our youth, of the version of ourselves
+who still had a father. It is perhaps a reminder of our own mortality.
+Our bodies rebel against these existential threats through
+sleeplessness, agitation, and lapses in focus. And apologies to those
+concerned.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <img alt="smallwolf" class="lia-user-rank-message" src="/html/badge_icons/community-champion.png"/>
+                   <a href="/t5/user/viewprofilepage/user-id/14386" rel="author" title="View profile">
+                    <span class="">
+                     smallwolf
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Champion
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   29-01-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  67 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-3">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51857" title="View profile">
+                  <img alt="Guest23" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/unwanted-abortion/td-p/591876" title="Unwanted abortion.">
+                  Unwanted abortion.
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 I fell pregnant November last year. I knew I wanted it. The father (my
+long term casual partner) absolutely did not and was very persistent on
+termination. We went back and forth for so long. I agreed to look into
+it. I’ll be honest I was 22, he’s mo...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 I fell pregnant November last year. I knew I wanted it. The father (my
+long term casual partner) absolutely did not and was very persistent on
+termination. We went back and forth for so long. I agreed to look into
+it. I’ll be honest I was 22, he’s more than double that, we aren’t
+serious, I have a lot going on and our relationship has a lot of
+complications. It was never the way I wanted to become a mother. Time
+went on and I became a mess. I was so sick all the time, I was so
+emotional, I was sad and angry. I had never been more conflicted. I
+would find myself agreeing with him and then screaming at him for even
+suggesting it. I looked into it, I didn’t want it. I was so sure but
+every-time he spoke to me about it I would find myself giving in and
+agreeing in the moment. I felt guilty that he didn’t want it, that I was
+forcing him, that I was bringing a baby into the world who’s dad already
+stated he wouldn’t be there. All of the appointments were being messed
+around and dragged out. A simple prescription became a procedure that I
+made clear from the start I would never do. Yet one day I was crying in
+the car after another appointment and he was on the phone digging in and
+we booked the abortion appointment. Like it was nothing. I didn’t stop
+crying. I went and I cried, I nodded and I signed the papers, I paid the
+money, I cried harder. A nurse asked me if I was sure but I can’t
+remember if I answered her. All I remember next was waking up on the
+table screaming at them where my baby was and please tell me it’s okay.
+The only reply was that the procedure went well and that was the end of
+me. I have never felt so disgusting, so horrified by myself, so guilty
+and worthless of living. I feel like every moment since then I have been
+grieving a loss that I have no right to grieve yet it consumes me. I
+can’t forgive myself. I’m finding it so hard to continue. I keep
+punishing myself but it’s not going to change anything. i made the
+biggest mistake of my life and it was the biggest loss. I am pro choice.
+I would never shame another woman for having the procedure themselves.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51857" rel="author" title="View profile">
+                    <span class="">
+                     Guest23
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   22-05-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-4">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/31920" title="View profile">
+                  <img alt="s82" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/mothers-day/td-p/590884" title="Mothers Day">
+                  Mothers Day
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    8
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 This year will be the first Mothers Day since my beloved mother passed
+away. Being an only child, it has been very difficult. I am intending to
+have a quiet day at home with my Dad and enjoy some downtime. Spending
+time on hobbies and watching West C...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 This year will be the first Mothers Day since my beloved mother passed
+away. Being an only child, it has been very difficult. I am intending to
+have a quiet day at home with my Dad and enjoy some downtime. Spending
+time on hobbies and watching West Coast hopefully beat Collingwood and
+enjoy a meal of Fish and Chips, a meal we had with Mum last year when
+she developed a craving for grilled flake, chips and potato cakes, we
+also had Fish and Chips a week before she died as she had a similar
+craving (On my parent's wedding anniversary no less). Two weeks ago my
+Dad and I had a joint birthday celebration and it was very heavy and
+wearing, I also admit I was a bit of a grouch to some people. But we got
+through the day. I am not a social person at the best of times. prefer
+my own company much of the time, but enjoy spending short periods of
+time with close family friends who I grew up with who have supported us
+during this time. My work and hobbies have helped distract me from the
+pain, but it never really completely goes away. I don't lock myself at
+home all the time on weekends and days off, I like to do a bit of
+grocery shopping for essentials(that Dad forgets during the week) and
+have a coffee at the one of cafe's in or around the shopping centre,
+some of the cafe staff now know me on a first name basis as I go to
+about two or three differents cafes in rotation. I have always had a
+different relationship with my Dad, compared to Mum, but we have gotten
+closer in recent times, but we enjoy doing different things. Dad and I
+co habitate in the family home, with no plans to sell up anytime soon.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/31920" rel="author" title="View profile">
+                    <span class="">
+                     s82
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   08-05-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  8 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-5">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51759" title="View profile">
+                  <img alt="MiddleSister" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/bird/avatar-theme/candy/avatar-collection/animals/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/my-sister-died-of-cancer-so-quickly/td-p/591265" title="My sister died of cancer so quickly.">
+                  My sister died of cancer so quickly.
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    6
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My sister was diagnosed with cancer in late December 2023 and died in
+early March 2024. I'm still in shock and very sad that I didn't get to
+say goodbye.
+                </p>
+                <p class="body-text">
+                 My sister was diagnosed with cancer in late December 2023 and died in
+early March 2024. I'm still in shock and very sad that I didn't get to
+say goodbye.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51759" rel="author" title="View profile">
+                    <span class="">
+                     MiddleSister
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   13-05-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  6 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-6">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51423" title="View profile">
+                  <img alt="Guest_93768673" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/losing-a-mum-to-cancer-and-watching-everyone-move-on/td-p/589229" title="losing a mum to cancer and watching everyone move on">
+                  losing a mum to cancer and watching everyone move on
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 i recently lost my mum early this year even though it feels like
+yesterday, my mum suffered from breast cancer since i was 11 and i was
+lucky enough to have until i reached 17 me and my family had a 6 years
+as well as several other things happening t...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 i recently lost my mum early this year even though it feels like
+yesterday, my mum suffered from breast cancer since i was 11 and i was
+lucky enough to have until i reached 17 me and my family had a 6 years
+as well as several other things happening too my mum is my best friend
+she was the one person who truly cared and loved me i never got a long
+with my dad so i always had in around November of 2023 she started
+getting really bad and i saw a different person than my mum at the end
+of December she got a lot worse in such a short amount of time then it
+reached start of january and she couldn't walk and even after that i
+still thought she could make it then we found out the cancer had
+travelled to her spine and that they werent able to do anymore and she
+only had a few months to weeks left to live i was torn it was the worst
+few weeks of my life i her life slowly drain away and she was so scared
+she wasnt my mum anymore she couldn't speak i didnt hear her same bubbly
+laugh that would echo of the walls and make people smile she was
+drifting away from me i couldnt hold her tight enough she soon after
+passed away. i thought i would do a summary of my mum's story before i
+start with the question first is how long does it take to grieve my dad
+4 weeks after my mum passed started dating someone new and now is always
+away and never there for me or my sister me and my dad have never gotten
+along but this has really put strain on our relationship even more i
+hate him for it ive tried talking to him about it but he wont listen hes
+already saying i love you and treating her kids better than he ever did
+us am i wrong for hating him for this? if not what can i do to change my
+perspective?
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51423" rel="author" title="View profile">
+                    <span class="">
+                     Guest_93768673
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   15-04-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-7">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51301" title="View profile">
+                  <img alt="Guest_69958073" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/meeting-a-new-therapist/td-p/588633" title="meeting a new therapist">
+                  meeting a new therapist
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 iv'e lost more than many close friends over the year and have been
+feeling very down, i lost my bestfriend of 9 years and other close
+friends of 3-4 years. i want to improve my self esteem and help put
+myself back together again.
+                </p>
+                <p class="body-text">
+                 iv'e lost more than many close friends over the year and have been
+feeling very down, i lost my bestfriend of 9 years and other close
+friends of 3-4 years. i want to improve my self esteem and help put
+myself back together again.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51301" rel="author" title="View profile">
+                    <span class="">
+                     Guest_69958073
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   07-04-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-8">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51172" title="View profile">
+                  <img alt="Sad" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/divorce/td-p/587908" title="Divorce">
+                  Divorce
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    1
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My parents are about to split. I’ve attempted suicide before a few times
+when I was at my lowest. We’ve waited so long for our new house to be
+built but now, it’s all going to waste. To be honest though, my parent’s
+marriage was holding on by a singl...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My parents are about to split. I’ve attempted suicide before a few times
+when I was at my lowest. We’ve waited so long for our new house to be
+built but now, it’s all going to waste. To be honest though, my parent’s
+marriage was holding on by a single thread. I’m so scared. I don’t want
+to pick sides. I have 2 siblings, I want to be with them.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51172" rel="author" title="View profile">
+                    <span class="">
+                     Sad
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   28-03-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  1 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+              <article class="custom-message-tile custom-thread-unread custom-message-number-9">
+               <div>
+                <h3>
+                 <a class="UserAvatar lia-link-navigation" href="/t5/user/viewprofilepage/user-id/51135" title="View profile">
+                  <img alt="Janelle98" class="lia-user-avatar-message" src="https://forums.beyondblue.org.au/t5/image/serverpage/avatar-name/default_messageCopy/avatar-theme/candy/avatar-collection/Default_Avatar/avatar-display-size/profile/version/2?xdesc=1.0"/>
+                 </a>
+                 <a href="/t5/grief-and-loss/losing-my-mum/td-p/587754" title="Losing my mum">
+                  Losing my mum
+                 </a>
+                 <ul class="custom-tile-statistics">
+                  <li class="custom-tile-replies">
+                   <span>
+                    replies:
+                   </span>
+                   <b>
+                    3
+                   </b>
+                  </li>
+                 </ul>
+                </h3>
+                <p class="truncate-text">
+                 My mum was diagnosed with stomach cancer less than a month ago. One
+month and my whole world has been turned upside down. The cancer has
+spread and there is not much doctors can do about it. Today she signed a
+DNR. She’s in hospital my beautiful mum ...
+                 <a class="view-more-text">
+                  View more
+                 </a>
+                </p>
+                <p class="body-text">
+                 My mum was diagnosed with stomach cancer less than a month ago. One
+month and my whole world has been turned upside down. The cancer has
+spread and there is not much doctors can do about it. Today she signed a
+DNR. She’s in hospital my beautiful mum I cannot lose my beautiful mum.
+It is just me, I don’t know how to plan a funeral I don’t even have the
+money for a funeral. I feel so alone.
+                </p>
+               </div>
+               <aside>
+                <div class="custom-tile-author-info">
+                 <div class="custom-author-name">
+                  <strong>
+                   <span>
+                    by
+                   </span>
+                   <a href="/t5/user/viewprofilepage/user-id/51135" rel="author" title="View profile">
+                    <span class="">
+                     Janelle98
+                    </span>
+                   </a>
+                  </strong>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-author-rank">
+                  <em>
+                   Community Member
+                  </em>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                </div>
+                <div class="custom-tile-category-content">
+                 <div class="custom-tile-category-board">
+                  <div class="custom-tile-category">
+                   <strong>
+                    <span>
+                     Posted in
+                    </span>
+                    <a href="/t5/grief-and-loss/bd-p/c1-sc4-b4">
+                     Grief and loss
+                    </a>
+                   </strong>
+                  </div>
+                  <small>
+                   •
+                  </small>
+                 </div>
+                 <div class="custom-tile-date">
+                  <time>
+                   25-03-2024
+                  </time>
+                 </div>
+                 <small>
+                  •
+                 </small>
+                </div>
+                <div class="custom-tile-unread-replies">
+                 <span>
+                  3 unread
+                 </span>
+                </div>
+               </aside>
+               <footer>
+               </footer>
+              </article>
+             </section>
+            </div>
+            <div aria-label="Use the previous and next links to move between pages. Use the page number links to go directly to a page." class="lia-paging-full-wrapper lia-paging-pager lia-component-common-widget-pager" id="pager_26719f47f8f5b" role="navigation">
+             <div class="lia-inline-ajax-feedback">
+              <div class="AjaxFeedback" id="ajaxFeedback_26719f47f8f5b">
+              </div>
+             </div>
+             <ul class="lia-paging-full">
+              <li class="lia-paging-page-previous lia-component-previous">
+               <a aria-label="Previous Page" class="lia-link-navigation lia-js-data-pageNum-2 lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/2" id="link_26719f47f8f5b" rel="prev">
+                <span>
+                 <span aria-hidden="true" class="lia-paging-page-arrow">
+                  «
+                 </span>
+                 <span class="lia-paging-page-link">
+                  Previous
+                 </span>
+                </span>
+               </a>
+              </li>
+              <li class="lia-component-pagesnumbered">
+               <ul class="lia-paging-full-pages">
+                <li class="lia-paging-page-first lia-js-data-pageNum-1">
+                 <a aria-label="Page 1" class="lia-js-data-pageNum-1 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4" id="link_2_26719f47f8f5b">
+                  1
+                 </a>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-2">
+                 <a aria-label="Page 2" class="lia-js-data-pageNum-2 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/2" id="link_2_26719f47f8f5b_0">
+                  2
+                 </a>
+                </li>
+                <li class="lia-paging-page-active lia-js-data-pageNum-3">
+                 <span aria-current="page" aria-disabled="true" class="lia-js-data-pageNum-3 lia-link-navigation lia-link-disabled" id="link_2_26719f47f8f5b_1">
+                  3
+                 </span>
+                </li>
+                <li class="lia-paging-page-link lia-js-data-pageNum-4">
+                 <a aria-label="Page 4" class="lia-js-data-pageNum-4 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/4" id="link_2_26719f47f8f5b_2">
+                  4
+                 </a>
+                </li>
+                <li class="lia-paging-page-ellipsis">
+                 <span aria-disabled="true" class="lia-js-data-pageNum-82 lia-link-navigation lia-link-disabled" id="link_2_26719f47f8f5b_3">
+                  …
+                 </span>
+                </li>
+                <li class="lia-paging-page-last lia-js-data-pageNum-83">
+                 <a aria-label="Page 83" class="lia-js-data-pageNum-83 lia-link-navigation lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/83" id="link_2_26719f47f8f5b_4">
+                  83
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="lia-paging-page-next lia-component-next">
+               <a aria-label="Next Page" class="lia-link-navigation lia-js-data-pageNum-4 lia-custom-event" href="https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/4" id="link_0_26719f47f8f5b" rel="next">
+                <span class="lia-paging-page-link">
+                 Next
+                </span>
+                <span aria-hidden="true" class="lia-paging-page-arrow">
+                 »
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="lia-quilt-row lia-quilt-row-footer">
+          <div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+           <div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+            <div class="custom-community-footer">
+             <footer>
+              <div>
+               <section class="footer-community-presentation">
+                <div class="custom-community-footer-logo">
+                 <a href="https://www.beyondblue.org.au/" style="background: url('/html/assets/BB_Colour_RGB.png') no-repeat 0% / contain;" target="_blank">
+                  Beyond Blue Website
+                 </a>
+                </div>
+                <div class="custom-community-footer-text">
+                 <p>
+                  Beyond Blue acknowledges Aboriginal and Torres Strait Islander people as the Traditional Custodians of the land and acknowledges and pays respect to their Elders, past, present and future.
+                 </p>
+                </div>
+                <div class="custom-community-footer-flags">
+                 <a class="footer-flag-one" style="background: url('/html/assets/flag1.png') no-repeat center / cover;">
+                 </a>
+                 <a class="footer-flag-two" style="background: url('/html/assets/flag2.png') no-repeat center / cover;">
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-resources">
+                <div class="custom-footer-helpful-resources">
+                 <h4>
+                  Helpful information
+                 </h4>
+                 <ul>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Guidelines">
+                    Forums guidelines
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/faq">
+                    FAQ
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/How-are-my-posts-moderated">
+                    How the Forums are moderated
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Forums-Etiquette">
+                    Forums etiquette
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/t5/custom/page/page-id/Become-a-Community-Champion">
+                    Community Champions
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="custom-footer-stay-in-touch">
+                 <h4>
+                  Stay in touch
+                 </h4>
+                 <p>
+                  Sign up below for regular emails from Beyond Blue, filled with information, advice and support for you or your loved ones.
+                 </p>
+                 <a href="https://beyondblue.tfaforms.net/140" target="_blank">
+                  Stay in touch
+                 </a>
+                </div>
+               </section>
+               <section class="footer-community-talk-it-with-us">
+                <div class="talk-it-with-us-title">
+                 <h4>
+                  Talk it through with us, we'll point you in the right direction.
+                 </h4>
+                </div>
+                <div class="talk-it-with-us-contacts">
+                 <div class="phone-contact">
+                  <a href="tel: +1300224636">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="tel: +1300224636">
+                     Call 1300 224 636
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="chat-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/chat" target="_blank">
+                     Chat Online
+                    </a>
+                   </h3>
+                   <p>
+                    24 hours / 7 days a week
+                   </p>
+                  </div>
+                 </div>
+                 <div class="mail-contact">
+                  <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                  </a>
+                  <div class="contact">
+                   <h3>
+                    <a href="https://www.beyondblue.org.au/support-service/email" target="_blank">
+                     Email us
+                    </a>
+                   </h3>
+                   <p>
+                    Get a reply in 24 hours
+                   </p>
+                  </div>
+                 </div>
+                 <ul class="social-links">
+                  <li>
+                   <a alt="Facebook" aria-label="Beyond Blue Facebook page" class="facebook" href="https://www.facebook.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Youtube" aria-label="Beyond Blue Youtube page" class="youtube" href="https://www.youtube.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Instagram" aria-label="Beyond Blue Instagram page" class="instagram" href="https://www.instagram.com/beyondblueofficial" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="Twitter" aria-label="Beyond Blue Twitter page" class="twitter" href="https://twitter.com/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                  <li>
+                   <a alt="LinkedIn" aria-label="Beyond Blue LinkedIn page" class="linkedin" href="https://www.linkedin.com/company/beyondblue" target="_blank">
+                    <span aria-hidden="true">
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </section>
+              </div>
+              <div class="footer-bar">
+               <section class="footer-bar-left-side">
+                <div class="copyright">
+                 <p>
+                  Copyright © 2024 Beyond Blue Ltd
+                 </p>
+                </div>
+                <div class="all-rights-reserved">
+                 <p>
+                  All rights reserved
+                 </p>
+                </div>
+               </section>
+               <section class="footer-bar-right-side">
+                <a class="contact-us" href="https://www.beyondblue.org.au/about-us/contact-us" target="_blank">
+                 Contact us
+                </a>
+                <a class="terms-of-use" href="https://www.beyondblue.org.au/general/terms-of-use" target="_blank">
+                 Terms of use
+                </a>
+                <a class="privacy-policy" href="https://www.beyondblue.org.au/general/privacy-policy" target="_blank">
+                 Privacy policy
+                </a>
+                <a class="site-map" href="https://www.beyondblue.org.au/general/site-map" target="_blank">
+                 Site map
+                </a>
+               </section>
+              </div>
+             </footer>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </center>
+  </div>
+  <script type="text/javascript">
+   new Image().src = ["/","b","e","a","c","o","n","/","2","0","2","5","1","4","8","5","4","6","8","_","1","7","2","3","0","4","8","3","9","7","1","9","1",".","g","i","f"].join("");
+  </script>
+  <script language="javascript" type="text/javascript">
+   <!--
+LITHIUM.ScriptLoader.ready(['common', 'body'], function () {LITHIUM.Sandbox.restore();
+LITHIUM.jQuery.fn.cssData.defaults = {"dataPrefix":"lia-js-data","pairDelimeter":"-","prefixDelimeter":"-"};
+LITHIUM.CommunityJsonObject.User.policies['forums.action.message-view.batch-messages.allow'] = false;
+;(function($){
+	$(function(){
+		$(".custom-community-header-right .lia-slide-out-nav-menu .lia-slide-out-nav-menu-wrapper").on('click', function(event) {
+		event.preventDefault();
+		$(this).toggleClass("close");  
+		$(".lia-slide-out-nav-menu .custom-slide-out-menu-container").toggleClass("hide");  
+		});
+	});
+})(LITHIUM.jQuery);
+
+LITHIUM.DropDownMenu({"userMessagesFeedOptionsClass":"div.user-messages-feed-options-menu a.lia-js-menu-opener","menuOffsetContainer":".lia-menu-offset-container","hoverLeaveEvent":"LITHIUM:hoverLeave","mouseoverElementSelector":".lia-js-mouseover-menu","userMessagesFeedOptionsAriaLabel":"Show contributions of the user, selected option is Options. You may choose another option from the dropdown menu.","disabledLink":"lia-link-disabled","menuOpenCssClass":"dropdownHover","menuElementSelector":".lia-menu-navigation-wrapper","dialogSelector":".lia-panel-dialog-trigger","messageOptions":"lia-component-message-view-widget-action-menu","menuBarComponent":"lia-component-menu-bar","closeMenuEvent":"LITHIUM:closeMenu","menuOpenedEvent":"LITHIUM:menuOpened","pageOptions":"lia-component-community-widget-page-options","clickElementSelector":".lia-js-click-menu","menuItemsSelector":".lia-menu-dropdown-items","menuClosedEvent":"LITHIUM:menuClosed"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#pageInformation","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox","feedbackSelector":".InfoMessage"});
+LITHIUM.DropDownMenuVisibilityHandler({"selectors":{"menuSelector":"#actionMenuDropDown_0","menuItemsSelector":".lia-menu-dropdown-items"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_26719f47f8f5b","feedbackSelector":".InfoMessage"});
+LITHIUM.AjaxFeedback(".lia-inline-ajax-feedback", "LITHIUM:hideAjaxFeedback", ".lia-inline-ajax-feedback-persist");
+LITHIUM.CustomEvent('.lia-custom-event', 'click');
+    ;(function ($) {
+    $('#community-activity-sorted-by').change(function() {
+    window.location = "https://forums.beyondblue.org.au/t5/grief-and-loss/bd-p/c1-sc4-b4/page/3?&sort="+$(this).val();
+    });
+    })(LITHIUM.jQuery);
+
+    ;(function($){
+        $(document).ready(function(){
+            $('.view-more-text').click(function(ev){
+                var parentClass = $(this).closest('article').attr('class');
+                parentClass = "."+parentClass;
+                parentClass = parentClass.replace(/\s+/g, ".");
+
+
+                var truncateTextClass = parentClass + " .truncate-text";
+                var bodyText = parentClass + " .body-text";
+                $(truncateTextClass).css("display", "none");
+                $(this).css("display", "none");
+                $(bodyText).css("display", "block");
+
+            });
+        });
+    })(LITHIUM.jQuery);
+
+LITHIUM.PartialRenderProxy({"limuirsComponentRenderedEvent":"LITHIUM:limuirsComponentRendered","relayEvent":"LITHIUM:partialRenderProxyRelay","listenerEvent":"LITHIUM:partialRenderProxy"});
+LITHIUM.AjaxSupport.defaultAjaxFeedbackHtml = "<div class=\"lia-inline-ajax-feedback lia-component-common-widget-ajax-feedback\">\n\t\t\t<div class=\"AjaxFeedback\" id=\"ajaxFeedback_26719f4cca18f\"><\/div>\n\t\t\t\n\t\n\n\t\n\n\t\t<\/div>";
+LITHIUM.AjaxSupport.defaultAjaxErrorHtml = "<span id=\"feedback-errorfeedback_26719f4f308fc\"> <\/span>\n\n\t\n\t\t<div class=\"InfoMessage lia-panel-feedback-inline-alert lia-component-common-widget-feedback\" id=\"feedback_26719f4f308fc\">\n\t\t\t<div role=\"alert\" class=\"lia-text\">\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t<p ng-non-bindable=\"\" tabindex=\"0\">\n\t\t\t\t\t\tSorry, unable to complete the action you requested.\n\t\t\t\t\t<\/p>\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t<\/div>\n\n\t\t\t\n\t\t<\/div>";
+LITHIUM.AjaxSupport({"ajaxOptionsParam":{"event":"LITHIUM:partialRenderProxyRelay","parameters":{"javascript.ignore_combine_and_minify":"true"}},"tokenId":"ajax","elementSelector":document,"action":"partialRenderProxyRelay","feedbackSelector":false,"url":"https://forums.beyondblue.org.au/t5/forums/forumpage.liabase.basebody.partialrenderproxy:partialrenderproxyrelay?t:ac=board-id/c1-sc4-b4/page/3","ajaxErrorEventName":"LITHIUM:ajaxError","token":"X_98rmIgJo6JK4nKmxEfF7DdQRkEL_06dOqk6PkDoi8."});
+LITHIUM.Auth.API_URL = "/t5/util/authcheckpage";
+LITHIUM.Auth.LOGIN_URL_TMPL = "/plugins/common/feature/oidcss/sso_login_redirect/providerid/azure?referer=https%3A%2F%2FREPLACE_TEXT";
+LITHIUM.Auth.KEEP_ALIVE_URL = "/t5/status/blankpage?keepalive";
+LITHIUM.Auth.KEEP_ALIVE_TIME = 180000;
+LITHIUM.Auth.CHECK_SESSION_TOKEN = 'RvLy1rQRs5HGrbu7UDpmENM85sfh7glqlTOTpMFEYkA.';
+LITHIUM.AjaxSupport.useTickets = false;
+LITHIUM.Cache.CustomEvent.set([{"elementId":"link_26719f47f8f5b","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"previous","page":2}}},{"elementId":"link_2_26719f47f8f5b","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":1}}},{"elementId":"link_2_26719f47f8f5b_0","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":2}}},{"elementId":"link_2_26719f47f8f5b_2","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":4}}},{"elementId":"link_2_26719f47f8f5b_4","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"page":83}}},{"elementId":"link_0_26719f47f8f5b","stopTriggerEvent":false,"fireEvent":"LITHIUM:changePage","triggerEvent":"click","eventContext":{"parameters":{"pageNavigationDirection":"next","page":4}}}]);
+LITHIUM.Loader.runJsAttached();
+
+});
+// -->
+  </script>
+ </body>
+</html>
